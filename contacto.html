@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contacto — La Salud del Marketing</title>
+<meta name="description" content="¿Quieres contactar con La Salud del Marketing? Escríbenos y hablamos sobre el marketing de tu clínica dental o de medicina estética.">
+<meta property="og:title" content="Contacto — La Salud del Marketing">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%232c2740'/><text x='50' y='68' font-size='58' text-anchor='middle' fill='white' font-family='Georgia'>S</text></svg>">
+<link rel="stylesheet" href="css/estilo.css">
+<style>
+  .contact-grid { display:grid; grid-template-columns: 1fr 1fr; gap: 44px; align-items:start; }
+  .form-card { background: var(--white); border:1px solid var(--line); border-radius:18px; padding:34px; box-shadow: var(--shadow); }
+  .form-card label { display:block; font-weight:600; font-size:14px; margin:16px 0 7px; }
+  .form-card input, .form-card textarea {
+    width:100%; padding:12px 14px; border:1.5px solid var(--line); border-radius:10px;
+    font-family:var(--sans); font-size:15px; background:var(--paper); color:var(--ink);
+  }
+  .form-card input:focus, .form-card textarea:focus { outline:0; border-color:var(--primary); }
+  .form-card textarea { min-height:140px; resize:vertical; }
+  .form-card .btn-primary { margin-top:22px; width:100%; justify-content:center; }
+  .info h3 { font-family:var(--serif); font-weight:500; font-size:1.5rem; margin:22px 0 6px; }
+  .info p { color:var(--ink-soft); }
+  .info a { color:var(--primary); font-weight:600; }
+  @media (max-width:800px){ .contact-grid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <span class="mark">S</span>
+      <span><b>La Salud del Marketing</b><small>Dental · Medicina estética</small></span>
+    </a>
+    <nav class="nav">
+      <a href="marketing-dental.html">Marketing dental</a>
+      <a href="medicina-estetica.html">Medicina estética</a>
+      <a href="blog.html">Blog</a>
+      <a href="contacto.html">Contacto</a>
+      <a class="cta" href="index.html#newsletter">Suscríbete</a>
+    </nav>
+    <button class="menu-btn" aria-label="Menú">☰</button>
+  </div>
+</header>
+
+<section class="hero" style="padding-bottom:30px">
+  <div class="wrap">
+    <span class="eyebrow">Contacto</span>
+    <h1>Hablemos de <em>tu clínica</em>.</h1>
+    <p>¿Tienes una duda, una sugerencia para el blog o quieres colaborar? Escríbenos y te respondemos.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:10px">
+  <div class="wrap">
+    <div class="contact-grid">
+
+      <div class="form-card">
+        <form onsubmit="alert('¡Gracias por escribir! Al publicar el blog conectaremos este formulario para que los mensajes lleguen a tu email.'); return false;">
+          <label for="nombre">Nombre</label>
+          <input id="nombre" placeholder="Tu nombre" required>
+          <label for="email">Email</label>
+          <input id="email" type="email" placeholder="tu@email.com" required>
+          <label for="clinica">Clínica (opcional)</label>
+          <input id="clinica" placeholder="Nombre de tu clínica">
+          <label for="mensaje">Mensaje</label>
+          <textarea id="mensaje" placeholder="Cuéntanos en qué podemos ayudarte." required></textarea>
+          <button class="btn btn-primary" type="submit">Enviar mensaje</button>
+        </form>
+      </div>
+
+      <div class="info">
+        <span class="eyebrow" style="margin-bottom:8px">Otras vías</span>
+        <h3>Email</h3>
+        <p><a href="mailto:hola@lasaluddelmarketing.com">hola@lasaluddelmarketing.com</a></p>
+        <h3>Newsletter</h3>
+        <p>Recibe cada semana una idea práctica de marketing sanitario. <a href="index.html#newsletter">Suscríbete →</a></p>
+        <h3>¿Colaboraciones?</h3>
+        <p>Si quieres proponer un tema o colaborar con el blog, escríbenos con la palabra «colaboración» en el asunto.</p>
+        <div class="callout" style="margin-top:26px">
+          <b>Nota:</b> este formulario quedará conectado a tu correo cuando publiquemos el blog en tu dominio. De momento es una demostración.
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="legal" style="border:0;margin:0;padding:0">
+      <span>© 2026 La Salud del Marketing.</span>
+      <span><a href="index.html" style="color:var(--primary);font-weight:600">← Inicio</a></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.querySelector('.menu-btn')?.addEventListener('click', () => {
+    const nav = document.querySelector('.nav');
+    const open = nav.style.display === 'flex';
+    nav.style.cssText = open ? '' : 'display:flex;flex-direction:column;position:absolute;top:74px;right:24px;background:var(--white);padding:18px 22px;border-radius:14px;box-shadow:var(--shadow)';
+  });
+</script>
+</body>
+</html>
