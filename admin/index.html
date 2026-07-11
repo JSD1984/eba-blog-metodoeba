@@ -89,6 +89,10 @@
     <label>Resumen (aparece en la tarjeta y en Google)</label>
     <input id="resumen" placeholder="Una o dos frases que enganchen y resuman el artículo.">
 
+    <label>Imagen de portada <span style="font-weight:400;color:var(--ink-soft)">(opcional)</span></label>
+    <input id="imagen" placeholder="Ej.: resenas-google.jpg  ·  déjalo vacío para usar un gráfico">
+    <p class="hint">Guarda antes la imagen en la carpeta <b>assets/img/</b>. Aquí escribe solo el nombre del archivo. Si lo dejas vacío, se pone un gráfico de marca automático.</p>
+
     <label>Contenido</label>
     <textarea id="contenido" placeholder="Escribe aquí tu artículo.
 
@@ -96,7 +100,7 @@ Deja una línea en blanco entre párrafos.
 
 Para un subtítulo, empieza la línea con ## (dos almohadillas).
 Para una lista, empieza las líneas con un guion -"></textarea>
-    <p class="hint">Formato sencillo: <b>## Subtítulo</b> · <b>- elemento de lista</b> · línea en blanco = nuevo párrafo.</p>
+    <p class="hint">Formato sencillo: <b>## Subtítulo</b> · <b>- elemento de lista</b> · <b>![texto](imagen.jpg)</b> para una imagen · línea en blanco = nuevo párrafo.</p>
 
     <div class="toolbar">
       <button class="btn btn-primary" onclick="generar()">⬇ Generar y descargar artículo</button>
@@ -108,6 +112,7 @@ Para una lista, empieza las líneas con un guion -"></textarea>
     <div class="steps">
       <b>¿Y ahora qué hago con el archivo?</b>
       <ol>
+        <li>Si usas imágenes, súbelas primero a la carpeta <b>assets/img/</b>.</li>
         <li>Se descarga un archivo <b>.html</b> con tu artículo ya maquetado.</li>
         <li>Súbelo a la carpeta <b>articulos/</b> de tu blog (o pásamelo y lo publico yo).</li>
         <li>¡Listo! Ya está online en tu dominio.</li>
@@ -147,7 +152,15 @@ function cuerpoAHtml(txt) {
   for (let b of bloques) {
     b = b.trim(); if (!b) continue;
     const lineas = b.split("\n");
-    if (lineas.every(l => l.trim().startsWith("-"))) {
+    const img = b.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if (img) {
+      const alt = escapar(img[1].trim());
+      let src = img[2].trim();
+      // si solo pusieron el nombre del archivo, lo buscamos en assets/img/
+      if (!/^https?:|^\.\.?\//.test(src)) src = "../assets/img/" + src;
+      html += '<figure class="article-img"><img src="' + src + '" alt="' + alt + '" loading="lazy">' +
+              (alt ? '<figcaption>' + alt + '</figcaption>' : '') + '</figure>\n';
+    } else if (lineas.every(l => l.trim().startsWith("-"))) {
       html += "<ul>\n" + lineas.map(l => "  <li>" + escapar(l.replace(/^-\s?/,'').trim()) + "</li>").join("\n") + "\n</ul>\n";
     } else if (b.startsWith("## ")) {
       html += "<h2>" + escapar(b.slice(3).trim()) + "</h2>\n";
@@ -164,8 +177,23 @@ function construir() {
   const cat = document.getElementById('categoria').value;
   const lec = document.getElementById('lectura').value.trim() || "5 min";
   const res = document.getElementById('resumen').value.trim();
+  let img = (document.getElementById('imagen').value || "").trim();
   const cuerpo = cuerpoAHtml(document.getElementById('contenido').value);
   const fecha = new Date().toLocaleDateString('es-ES', {day:'numeric', month:'long', year:'numeric'});
+  // Portada: imagen real si se indica; si no, gráfico de marca
+  let portada;
+  if (img) {
+    if (!/^https?:|^\.\.?\//.test(img)) img = "../assets/img/" + img;
+    portada = '<img src="' + img + '" alt="' + t.replace(/"/g,'&quot;') + '" loading="eager">';
+  } else {
+    portada = `<svg class="art" viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+      <rect width="1200" height="500" fill="#159aa4"/>
+      <circle cx="980" cy="120" r="300" fill="#0f7d86" opacity=".5"/>
+      <circle cx="600" cy="250" r="120" fill="#ffffff"/>
+      <circle cx="600" cy="250" r="60" fill="#143a5c"/>
+      <circle cx="230" cy="360" r="16" fill="#143a5c"/>
+    </svg>`;
+  }
   return `<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -206,13 +234,7 @@ function construir() {
       <span>${fecha}</span><span class="dot"></span><span>${lec} de lectura</span></div>
   </div>
   <div class="article-cover">
-    <svg class="art" viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
-      <rect width="1200" height="500" fill="#159aa4"/>
-      <circle cx="980" cy="120" r="300" fill="#0f7d86" opacity=".5"/>
-      <circle cx="600" cy="250" r="120" fill="#ffffff"/>
-      <circle cx="600" cy="250" r="60" fill="#143a5c"/>
-      <circle cx="230" cy="360" r="16" fill="#143a5c"/>
-    </svg>
+    ${portada}
   </div>
 </div>
 <div class="prose">
