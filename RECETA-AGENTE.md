@@ -207,6 +207,105 @@ Insértala justo después de `<div class="grid">`. Rellena los `{{...}}`.
 
 ---
 
+## 🗓️ Rutina diaria (1 artículo al día)
+1. **Mira lo ya publicado:** `GET /repos/JSD1984/eba-blog-metodoeba/contents/articulos` → lista los `slug` que ya existen.
+2. **Elige tema:** del «BANCO DE TEMAS» de abajo, coge el **primero cuyo slug NO exista** todavía. No repitas.
+3. **Escribe** el artículo (700-1100 palabras) con el ESTILO obligatorio y la estructura de `.prose`.
+4. **Imagen de portada:** consíguela (ver «Imagen de portada»).
+5. **Publica** (los 3-4 pasos de arriba): imagen → `articulos/{slug}.html` → tarjeta en `blog.html` + página de sección → (opcional) `sitemap.xml`.
+6. **Uno al día.** En 1-2 min queda en https://www.lasaluddelmarketing.com
+
+> Alterna secciones: un día un tema de **Marketing dental**, al día siguiente uno de **Medicina estética**, y así.
+
+---
+
+## 🖼️ Imagen de portada
+**Opción A (recomendada) — foto de Pexels (libre, uso comercial):**
+Busca en `pexels.com` una foto del tema, coge su número de ID y descárgala (JPG apaisado):
+```
+https://images.pexels.com/photos/{ID}/pexels-photo-{ID}.jpeg?auto=compress&cs=tinysrgb&w=1200&h=520&fit=crop
+```
+Súbela a `assets/img/{slug}.jpg` (paso 1). Alt descriptivo en la plantilla.
+
+**Opción B — sin foto (gráfico de marca):** en la plantilla, sustituye el bloque `<div class="article-cover">…</div>` por:
+```html
+<div class="article-cover"><svg class="art" viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg"><rect width="1200" height="500" fill="#159aa4"/><circle cx="980" cy="120" r="300" fill="#0f7d86" opacity=".5"/><circle cx="600" cy="250" r="120" fill="#ffffff"/><circle cx="600" cy="250" r="60" fill="#143a5c"/></svg></div>
+```
+Y en la tarjeta, usa ese mismo `<svg class="art" viewBox="0 0 400 250">…</svg>` en vez del `<img>`.
+
+---
+
+## 🧠 BANCO DE TEMAS (elige uno sin usar cada día)
+Formato: `slug` — Título sugerido. La **sección** determina en qué página va la tarjeta y el kicker.
+
+### Marketing dental → tarjeta en `marketing-dental.html`
+- `google-business-clinica-dental` — Cómo optimizar tu ficha de Google para llenar la agenda
+- `responder-resenas-negativas-dental` — Cómo responder reseñas negativas sin dañar tu reputación
+- `email-marketing-pacientes-inactivos` — Email marketing para reactivar pacientes que no vuelven
+- `pagina-implantes-que-convierte` — La página de implantes que convierte: qué no puede faltar
+- `pedir-resenas-plantillas` — Cómo pedir reseñas a tus pacientes (con plantillas listas)
+- `marketing-ortodoncia-invisible` — Marketing de ortodoncia invisible para captar al paciente adulto
+- `video-marketing-clinica-dental` — Vídeo marketing para clínicas dentales: por dónde empezar
+- `precios-clinica-dental-sin-competir` — Cómo fijar precios sin entrar en la guerra del low cost
+- `programa-referidos-dental` — El programa de referidos que de verdad usan tus pacientes
+- `seo-local-dentistas` — SEO local para dentistas: cómo salir en el mapa de Google
+- `reducir-ausencias-citas` — Cómo reducir las ausencias a citas sin perseguir a nadie
+- `casos-exito-dental-consentimiento` — Cómo usar casos de éxito en tu marketing (con consentimiento)
+- `diferenciar-clinica-de-franquicias` — Cómo diferenciar tu clínica de las franquicias low cost
+- `guion-recepcion-telefono` — El guion de teléfono que convierte llamadas en citas
+- `que-publicar-redes-dentista` — Qué publicar cada semana en las redes de tu clínica
+- `captar-pacientes-blanqueamiento` — Cómo captar pacientes de blanqueamiento dental
+- `plan-revisiones-fidelizacion` — El plan de revisiones que fideliza pacientes
+- `google-ads-implantes` — Google Ads para implantes: presupuesto y palabras clave
+- `newsletter-clinica-dental` — Cómo crear una newsletter que tus pacientes sí abran
+- `errores-web-clinica-dental` — 7 errores en la web de tu clínica que te cuestan pacientes
+- `primera-visita-plan-tratamiento` — Cómo convertir la primera visita en un plan de tratamiento
+- `financiacion-tratamientos-dental` — Cómo presentar la financiación sin que suene a limosna
+- `marketing-para-familias-dental` — Cómo atraer familias a tu clínica dental
+- `captar-turismo-dental` — Cómo captar pacientes de fuera (turismo dental)
+- `medir-roi-marketing-dental` — Cómo saber si tu marketing dental está funcionando
+- `whatsapp-business-dental` — WhatsApp Business para tu clínica: guía práctica
+- `branding-clinica-dental` — Cómo construir una marca dental que justifique tus precios
+- `comunicar-periodoncia-sin-asustar` — Cómo comunicar tratamientos de encías sin asustar
+- `venta-adicional-etica-dental` — Venta adicional ética: ofrecer más sin presionar
+- `calendario-contenidos-dental` — Cómo montar un calendario de contenidos para tu clínica
+
+### Medicina estética → tarjeta en `medicina-estetica.html`
+- `comunicar-precios-estetica` — Cómo comunicar precios en estética sin ahuyentar pacientes
+- `marketing-armonizacion-facial` — Marketing de armonización facial sin prometer milagros
+- `meta-ads-estetica-creatividades` — Anuncios en Meta para estética: creatividades que sí se aprueban
+- `autoridad-medica-redes` — Cómo construir autoridad médica en redes sociales
+- `fidelizacion-temporadas-estetica` — Fidelización por temporadas en medicina estética
+- `testimonios-video-estetica` — Cómo grabar testimonios en vídeo que generen confianza
+- `landing-valoracion-gratuita` — La landing de «valoración» que convierte en estética
+- `whatsapp-clinica-estetica` — WhatsApp para clínicas de estética: atención que fideliza
+- `diferenciar-estetica-lowcost` — Cómo diferenciarte de los centros de estética low cost
+- `seo-local-medicina-estetica` — SEO local para clínicas de medicina estética
+- `email-tratamientos-temporada` — Email marketing para tratamientos de temporada
+- `gestion-resenas-estetica` — Cómo gestionar reseñas en medicina estética
+- `branding-estetica-premium` — Branding para una clínica de estética premium
+- `captar-pacientes-medicina-capilar` — Cómo captar pacientes de medicina capilar / injerto
+- `tiktok-clinica-estetica` — TikTok para clínicas estéticas: ¿merece la pena?
+- `educar-paciente-antes-consulta` — Cómo educar al paciente antes de la primera consulta
+- `funnel-tratamientos-alto-valor` — El embudo de captación para tratamientos de alto valor
+- `contenido-educativo-estetica` — Contenido educativo: la mejor publicidad en estética
+- `gestionar-expectativas-paciente` — Cómo gestionar expectativas para evitar quejas
+- `captar-hombres-medicina-estetica` — Cómo atraer al paciente masculino a tu clínica
+- `calendario-contenidos-estetica` — Calendario de contenidos para tu clínica estética
+- `convertir-valoracion-en-tratamiento` — Cómo convertir la valoración en tratamiento
+- `reputacion-online-estetica` — Reputación online: proteger la marca de tu clínica
+- `google-business-estetica` — Optimiza tu ficha de Google para tu clínica de estética
+- `servicios-complementarios-estetica` — Marketing para servicios complementarios (nutrición, bienestar)
+- `alternativas-antes-despues` — Alternativas al antes/después que sí puedes publicar
+- `newsletter-estetica` — La newsletter que mantiene a tus pacientes cerca
+- `captar-pacientes-eventos` — Marketing para captar pacientes de eventos (bodas, graduaciones)
+- `medir-rentabilidad-tratamiento` — Cómo saber qué tratamiento te deja más margen
+- `primera-impresion-clinica-estetica` — La primera impresión: web, redes y recepción
+
+> Cuando se acaben, generar temas nuevos siguiendo la misma línea (marketing sanitario para dueños de clínica) o pídeselos a Claude.
+
+---
+
 ## Resumen para el agente
 1. Escribe el artículo con el estilo de arriba → cuerpo HTML.
 2. (Opcional) sube la foto a `assets/img/{slug}.jpg`.
