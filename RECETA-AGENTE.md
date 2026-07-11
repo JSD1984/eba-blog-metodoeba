@@ -162,6 +162,8 @@ Guarda esto como `articulos/{{SLUG}}.html`. Rellena solo los `{{...}}`.
     {{CUERPO_HTML}}
   </div>
 
+  <div class="ad-slot" aria-label="Espacio para anuncio"></div>
+
   <div class="prose article-footer">
     <p style="font-size:1rem;color:var(--ink-soft)">¿Te ha sido útil? Recibe un artículo así cada semana. <a href="../index.html#newsletter">Suscríbete a la newsletter →</a></p>
     <p style="margin-top:26px"><a href="../index.html" style="text-decoration:none;color:var(--primary);font-weight:600">← Volver a todos los artículos</a></p>
