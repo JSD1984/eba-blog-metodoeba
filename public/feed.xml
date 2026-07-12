@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Jesus + IA</title>
+<title>Clinica al Dia</title>
 <link>https://blog-ia.vercel.app</link>
-<description>Ideas, procesos y publicaciones creadas por Jesus con apoyo de su agente IA.</description>
+<description>Actualidad seria sobre estetica medica, odontologia innovadora y nuevas tecnicas explicadas para pacientes.</description>
 <item>
-<title>Bienvenida al blog IA</title>
-<link>https://blog-ia.vercel.app/posts/bienvenida-al-blog-ia/</link>
-<guid>https://blog-ia.vercel.app/posts/bienvenida-al-blog-ia/</guid>
+<title>Escaner intraoral: la puerta de entrada a la odontologia digital</title>
+<link>https://blog-ia.vercel.app/posts/escaner-intraoral-odontologia-digital/</link>
+<guid>https://blog-ia.vercel.app/posts/escaner-intraoral-odontologia-digital/</guid>
 <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
-<description>Una base simple para publicar ideas, procesos y avances con ayuda de un agente IA.</description>
+<description>Que cambia para el paciente cuando la clinica usa impresiones digitales en lugar de moldes tradicionales.</description>
+</item>
+<item>
+<title>Implantes guiados y planificacion 3D: precision con limites</title>
+<link>https://blog-ia.vercel.app/posts/implantes-guiados-y-planificacion-3d/</link>
+<guid>https://blog-ia.vercel.app/posts/implantes-guiados-y-planificacion-3d/</guid>
+<pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+<description>La cirugia guiada puede mejorar la planificacion de implantes, pero no elimina la necesidad de diagnostico, mantenimiento y control periodontal.</description>
+</item>
+<item>
+<title>Por que este blog clinico</title>
+<link>https://blog-ia.vercel.app/posts/por-que-este-blog-clinico/</link>
+<guid>https://blog-ia.vercel.app/posts/por-que-este-blog-clinico/</guid>
+<pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+<description>Un blog para hablar de estetica medica, dental innovador y nuevas tecnicas sin caer en promesas faciles.</description>
+</item>
+<item>
+<title>Rellenos esteticos: tecnica medica, no producto de escaparate</title>
+<link>https://blog-ia.vercel.app/posts/rellenos-esteticos-seguridad/</link>
+<guid>https://blog-ia.vercel.app/posts/rellenos-esteticos-seguridad/</guid>
+<pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+<description>Los rellenos pueden tener indicaciones esteticas, pero requieren producto autorizado, profesional cualificado y explicacion realista de riesgos.</description>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,10 @@ const dateInput = document.querySelector("#date");
 const titleInput = document.querySelector("#title");
 const excerptInput = document.querySelector("#excerpt");
 const categoryInput = document.querySelector("#category");
+const evidenceInput = document.querySelector("#evidence");
+const reviewedByInput = document.querySelector("#reviewed-by");
 const tagsInput = document.querySelector("#tags");
+const sourcesInput = document.querySelector("#sources");
 const bodyInput = document.querySelector("#body");
 const downloadButton = document.querySelector("#download");
 const copyAgentButton = document.querySelector("#copy-agent");
@@ -51,13 +54,20 @@ function getPost() {
     .split(",")
     .map((tag) => tag.trim())
     .filter(Boolean);
+  const sources = sourcesInput.value
+    .split(/\r?\n/)
+    .map((source) => source.trim())
+    .filter(Boolean);
 
   return {
     title,
     date,
     category: categoryInput.value.trim() || "General",
+    evidence: evidenceInput.value.trim() || "Divulgativo",
     excerpt: excerptInput.value.trim(),
+    reviewedBy: reviewedByInput.value.trim() || "Pendiente de revision clinica",
     tags,
+    sources,
     body: bodyInput.value.trim(),
     filename: `${date}-${slugify(title)}.md`
   };
@@ -65,13 +75,18 @@ function getPost() {
 
 function toMarkdown(post) {
   const tags = post.tags.map((tag) => `"${tag.replaceAll('"', '\\"')}"`).join(", ");
+  const sources = post.sources.map((source) => `"${source.replaceAll('"', '\\"')}"`).join(", ");
   return `---
 title: "${post.title.replaceAll('"', '\\"')}"
 date: "${post.date}"
 author: "Jesus + Neo"
 category: "${post.category.replaceAll('"', '\\"')}"
+evidence: "${post.evidence.replaceAll('"', '\\"')}"
 excerpt: "${post.excerpt.replaceAll('"', '\\"')}"
+readingTime: "4 min"
+reviewedBy: "${post.reviewedBy.replaceAll('"', '\\"')}"
 tags: [${tags}]
+sources: [${sources}]
 status: "published"
 cover: "/assets/hero-ai-blog.png"
 ---
@@ -83,9 +98,10 @@ ${post.body}
 function updatePreview() {
   const post = getPost();
   preview.innerHTML = `
-    <p class="meta">${escapeHtml(post.category)} · ${escapeHtml(post.date)}</p>
+    <p class="meta">${escapeHtml(post.category)} · ${escapeHtml(post.evidence)} · ${escapeHtml(post.date)}</p>
     <h2>${escapeHtml(post.title)}</h2>
     <p>${escapeHtml(post.excerpt || "Resumen del articulo.")}</p>
+    <p class="clinical-note">Revisado por: ${escapeHtml(post.reviewedBy)}</p>
     <div class="tags">${post.tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>
     <div class="preview-body">${markdownPreview(post.body || "Empieza a escribir el articulo.")}</div>
   `;
@@ -112,18 +128,23 @@ async function copyForAgent() {
 }
 
 function fillExample() {
-  titleInput.value = "Como voy a usar IA para publicar mejor";
-  categoryInput.value = "IA y negocio";
-  excerptInput.value = "Un criterio practico para convertir ideas en articulos utiles con ayuda de un agente.";
-  tagsInput.value = "IA, Publicacion, Proceso";
-  bodyInput.value = `## Idea principal
-La IA no sustituye el criterio. Lo acelera cuando hay una direccion clara.
+  titleInput.value = "Escaner intraoral: que cambia para el paciente";
+  categoryInput.value = "Dental innovador";
+  evidenceInput.value = "Consenso profesional";
+  reviewedByInput.value = "Pendiente de revision clinica";
+  excerptInput.value = "Una guia sencilla sobre impresiones digitales, comodidad y limites del escaner intraoral.";
+  tagsInput.value = "Escaner intraoral, Dental digital, Pacientes";
+  sourcesInput.value = "https://adanews.ada.org/ada-news/2022/june/digital-dentistry-what-to-know-about-a-few-popular-technologies/";
+  bodyInput.value = `## Que es
+El escaner intraoral captura una imagen digital de dientes y encias para planificar tratamientos o fabricar restauraciones.
 
-## Flujo
-- Apunto la idea.
-- El agente prepara un borrador.
-- Yo reviso y decido.
-- El blog guarda la version final.`;
+## Que mejora
+- Evita muchas impresiones con pasta.
+- Facilita explicar el caso en pantalla.
+- Puede acortar tiempos cuando clinica y laboratorio trabajan digitalmente.
+
+## Limites
+No sustituye el diagnostico completo. En algunos casos siguen haciendo falta radiografias, exploracion periodontal o pruebas adicionales.`;
   updatePreview();
 }
 
@@ -133,4 +154,3 @@ downloadButton.addEventListener("click", downloadMarkdown);
 copyAgentButton.addEventListener("click", copyForAgent);
 fillExampleButton.addEventListener("click", fillExample);
 updatePreview();
-

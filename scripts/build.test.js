@@ -10,11 +10,13 @@ test("parseFrontMatter reads scalar values and tags", () => {
   const parsed = parseFrontMatter(`---
 title: "Titulo"
 tags: ["IA", "Proceso"]
+sources: ["https://example.com/uno", "https://example.com/dos"]
 ---
 Texto`);
 
   assert.equal(parsed.data.title, "Titulo");
   assert.deepEqual(parsed.data.tags, ["IA", "Proceso"]);
+  assert.deepEqual(parsed.data.sources, ["https://example.com/uno", "https://example.com/dos"]);
   assert.equal(parsed.body, "Texto");
 });
 
@@ -32,4 +34,3 @@ test("markdownToHtml renders headings and lists", () => {
   assert.match(html, /<h2>Titulo<\/h2>/);
   assert.match(html, /<ul>\n<li>Uno<\/li>\n<li>Dos<\/li>\n<\/ul>/);
 });
-

@@ -323,6 +323,7 @@ a {
 }
 
 .post-form input,
+.post-form select,
 .post-form textarea {
   width: 100%;
   border: 1px solid var(--line);
@@ -331,6 +332,96 @@ a {
   color: var(--ink);
   font: inherit;
   resize: vertical;
+}
+
+.clinical-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.clinical-meta span,
+.clinical-note {
+  padding: 7px 10px;
+  border-radius: 8px;
+  background: var(--soft);
+  color: var(--teal-dark);
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.notice-box,
+.source-box {
+  width: min(760px, 100%);
+  margin: 22px 0;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--coral);
+  border-radius: 8px;
+  background: #fffaf7;
+  padding: 14px 16px;
+  color: #5f3a2f;
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.source-box {
+  border-left-color: var(--teal);
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 400;
+}
+
+.source-box h2 {
+  margin: 0 0 10px;
+  font-size: 20px;
+}
+
+.source-box ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.source-box a {
+  color: var(--teal-dark);
+  overflow-wrap: anywhere;
+}
+
+.focus-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  width: min(1120px, calc(100% - 32px));
+  margin: -28px auto 0;
+  position: relative;
+  z-index: 2;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--line);
+}
+
+.focus-strip div {
+  background: var(--paper);
+  padding: 16px;
+}
+
+.focus-strip span {
+  color: var(--coral);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.focus-strip strong {
+  display: block;
+  margin-top: 4px;
+  font-size: 18px;
+}
+
+.focus-strip p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 14px;
 }
 
 .form-grid,
@@ -383,6 +474,7 @@ a {
   }
 
   .post-grid,
+  .focus-strip,
   .writer,
   .form-grid,
   .writer-actions {
@@ -402,4 +494,3 @@ a {
     aspect-ratio: 4 / 3;
   }
 }
-

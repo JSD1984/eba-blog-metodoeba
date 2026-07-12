@@ -1,6 +1,6 @@
-# Blog IA
+# Clinica al Dia
 
-Blog estatico pensado para que publiquen Jesus y su agente IA.
+Blog estatico pensado para publicar actualidad sobre estetica medica, tratamientos dentales innovadores y nuevas tecnicas con apoyo de un agente IA.
 
 ## Uso local
 ```bash
@@ -12,11 +12,12 @@ Abre `http://localhost:8770`.
 
 ## Publicar un post
 1. Escribe el articulo en `content/posts/YYYY-MM-DD-slug.md`.
-2. Ejecuta `npm run build`.
-3. Revisa `public/index.html` y `public/posts/`.
-4. Haz commit.
+2. Incluye categoria, nivel de evidencia, revisor y fuentes.
+3. Ejecuta `npm run build`.
+4. Revisa `public/index.html` y `public/posts/`.
+5. Haz commit.
 
-Tambien existe `public/admin.html`: genera el Markdown desde un formulario y lo descarga para guardarlo en `content/posts/`.
+Tambien existe `public/admin.html`: genera el Markdown desde un formulario clinico y lo descarga para guardarlo en `content/posts/`.
 
 ## Despliegue
 Vercel puede construirlo con:
@@ -25,4 +26,3 @@ npm run build
 ```
 
 La salida publica queda en `public/`.
-

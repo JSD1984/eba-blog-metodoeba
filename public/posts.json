@@ -1,19 +1,101 @@
 [
   {
-    "file": "2026-07-12-bienvenida-al-blog-ia.md",
-    "slug": "bienvenida-al-blog-ia",
-    "title": "Bienvenida al blog IA",
+    "file": "2026-07-12-escaner-intraoral-odontologia-digital.md",
+    "slug": "escaner-intraoral-odontologia-digital",
+    "title": "Escaner intraoral: la puerta de entrada a la odontologia digital",
     "date": "2026-07-12",
     "author": "Jesus + Neo",
-    "category": "IA y negocio",
-    "excerpt": "Una base simple para publicar ideas, procesos y avances con ayuda de un agente IA.",
+    "category": "Dental innovador",
+    "evidence": "Consenso profesional",
+    "excerpt": "Que cambia para el paciente cuando la clinica usa impresiones digitales en lugar de moldes tradicionales.",
+    "readingTime": "4 min",
+    "reviewedBy": "Pendiente de revision clinica",
     "status": "published",
     "tags": [
-      "IA",
-      "Publicacion",
-      "Trabajo"
+      "Escaner intraoral",
+      "Odontologia digital",
+      "Nuevas tecnicas"
+    ],
+    "sources": [
+      "https://adanews.ada.org/ada-news/2022/june/digital-dentistry-what-to-know-about-a-few-popular-technologies/",
+      "https://jada.ada.org/article/S0002-8177(21)00312-3/fulltext"
     ],
     "cover": "/assets/hero-ai-blog.png",
-    "url": "/posts/bienvenida-al-blog-ia/"
+    "url": "/posts/escaner-intraoral-odontologia-digital/"
+  },
+  {
+    "file": "2026-07-12-implantes-guiados-y-planificacion-3d.md",
+    "slug": "implantes-guiados-y-planificacion-3d",
+    "title": "Implantes guiados y planificacion 3D: precision con limites",
+    "date": "2026-07-12",
+    "author": "Jesus + Neo",
+    "category": "Dental innovador",
+    "evidence": "Guia clinica / regulatorio",
+    "excerpt": "La cirugia guiada puede mejorar la planificacion de implantes, pero no elimina la necesidad de diagnostico, mantenimiento y control periodontal.",
+    "readingTime": "5 min",
+    "reviewedBy": "Pendiente de revision clinica",
+    "status": "published",
+    "tags": [
+      "Implantes",
+      "Cirugia guiada",
+      "Periodoncia"
+    ],
+    "sources": [
+      "https://adanews.ada.org/ada-news/2022/june/digital-dentistry-what-to-know-about-a-few-popular-technologies/",
+      "https://sepa.es/noticia-destacada/ya-disponible-la-guia-de-practica-clinica-adaptada-a-espana-para-enfermedades-periimplantarias/",
+      "https://sepa.es/noticia-destacada/publicado-un-documento-de-consenso-sobre-factores-quirurgicos-y-protesicos-en-la-salud-o-enfermedad-periimplantaria/"
+    ],
+    "cover": "/assets/hero-ai-blog.png",
+    "url": "/posts/implantes-guiados-y-planificacion-3d/"
+  },
+  {
+    "file": "2026-07-12-por-que-este-blog-clinico.md",
+    "slug": "por-que-este-blog-clinico",
+    "title": "Por que este blog clinico",
+    "date": "2026-07-12",
+    "author": "Jesus + Neo",
+    "category": "Nuevas tecnicas",
+    "evidence": "Divulgativo",
+    "excerpt": "Un blog para hablar de estetica medica, dental innovador y nuevas tecnicas sin caer en promesas faciles.",
+    "readingTime": "3 min",
+    "reviewedBy": "Pendiente de revision clinica",
+    "status": "published",
+    "tags": [
+      "Estetica medica",
+      "Dental innovador",
+      "Nuevas tecnicas"
+    ],
+    "sources": [
+      "https://www.aemps.gob.es/productos-sanitarios/productos-sanitarios/listado-de-implantes-de-relleno-utilizados-con-finalidad-plastica-reconstructiva-y-estetica-con-marcado-ce-comercializados-en-espana/",
+      "https://www.ada.org/",
+      "https://sepa.es/"
+    ],
+    "cover": "/assets/hero-ai-blog.png",
+    "url": "/posts/por-que-este-blog-clinico/"
+  },
+  {
+    "file": "2026-07-12-rellenos-esteticos-seguridad.md",
+    "slug": "rellenos-esteticos-seguridad",
+    "title": "Rellenos esteticos: tecnica medica, no producto de escaparate",
+    "date": "2026-07-12",
+    "author": "Jesus + Neo",
+    "category": "Estetica medica",
+    "evidence": "Guia clinica / regulatorio",
+    "excerpt": "Los rellenos pueden tener indicaciones esteticas, pero requieren producto autorizado, profesional cualificado y explicacion realista de riesgos.",
+    "readingTime": "4 min",
+    "reviewedBy": "Pendiente de revision clinica",
+    "status": "published",
+    "tags": [
+      "Rellenos",
+      "Estetica medica",
+      "Seguridad"
+    ],
+    "sources": [
+      "https://www.aemps.gob.es/productos-sanitarios/productos-sanitarios/listado-de-implantes-de-relleno-utilizados-con-finalidad-plastica-reconstructiva-y-estetica-con-marcado-ce-comercializados-en-espana/",
+      "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+      "https://www.fda.gov/consumers/consumer-updates/dermal-filler-dos-and-donts-wrinkles-lips-and-more"
+    ],
+    "cover": "/assets/hero-ai-blog.png",
+    "url": "/posts/rellenos-esteticos-seguridad/"
   }
 ]

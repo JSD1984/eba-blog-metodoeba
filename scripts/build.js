@@ -5,8 +5,8 @@ const rootDir = path.resolve(__dirname, "..");
 const postsDir = path.join(rootDir, "content", "posts");
 const publicDir = path.join(rootDir, "public");
 const site = {
-  title: "Jesus + IA",
-  description: "Ideas, procesos y publicaciones creadas por Jesus con apoyo de su agente IA.",
+  title: "Clinica al Dia",
+  description: "Actualidad seria sobre estetica medica, odontologia innovadora y nuevas tecnicas explicadas para pacientes.",
   url: "https://blog-ia.vercel.app"
 };
 
@@ -169,6 +169,12 @@ function readPosts() {
             .split(",")
             .map((tag) => tag.trim())
             .filter(Boolean);
+      const sources = Array.isArray(parsed.data.sources)
+        ? parsed.data.sources
+        : String(parsed.data.sources || "")
+            .split(",")
+            .map((source) => source.trim())
+            .filter(Boolean);
 
       return {
         file,
@@ -177,9 +183,13 @@ function readPosts() {
         date: parsed.data.date || "1970-01-01",
         author: parsed.data.author || "Jesus + IA",
         category: parsed.data.category || "General",
+        evidence: parsed.data.evidence || "Divulgativo",
         excerpt: parsed.data.excerpt || "",
+        readingTime: parsed.data.readingTime || "3 min",
+        reviewedBy: parsed.data.reviewedBy || "Pendiente de revision clinica",
         status: parsed.data.status || "published",
         tags,
+        sources,
         cover: parsed.data.cover || "/assets/hero-ai-blog.png",
         body: parsed.body,
         html: markdownToHtml(parsed.body)
@@ -217,7 +227,7 @@ function layout({ title, description, body, active = "blog" }) {
 ${body}
 <footer class="site-footer">
   <span>${escapeHtml(site.title)}</span>
-  <span>Publicacion con Markdown, Git y agente IA.</span>
+  <span>Divulgacion con fuentes, revision y criterio clinico.</span>
 </footer>
 </body>
 </html>`;
@@ -230,10 +240,22 @@ function renderTagList(tags) {
   return `<div class="tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>`;
 }
 
+function renderSourceList(sources) {
+  if (!sources.length) {
+    return "";
+  }
+  return `<section class="source-box" aria-labelledby="sources-title">
+    <h2 id="sources-title">Fuentes consultadas</h2>
+    <ul>
+      ${sources.map((source) => `<li><a href="${escapeHtml(source)}">${escapeHtml(source)}</a></li>`).join("")}
+    </ul>
+  </section>`;
+}
+
 function renderPostCard(post, index) {
   return `<article class="post-card ${index === 0 ? "featured" : ""}">
   <a href="${post.url}" class="post-link">
-    <span class="meta">${escapeHtml(post.category)} · ${formatDate(post.date)}</span>
+    <span class="meta">${escapeHtml(post.category)} · ${escapeHtml(post.evidence)} · ${formatDate(post.date)}</span>
     <h2>${escapeHtml(post.title)}</h2>
     <p>${escapeHtml(post.excerpt)}</p>
     ${renderTagList(post.tags)}
@@ -246,10 +268,28 @@ function renderIndex(posts) {
   const body = `<main>
   <section class="hero" style="background-image: linear-gradient(90deg, rgba(12,22,24,.78), rgba(12,22,24,.28), rgba(12,22,24,.06)), url('/assets/hero-ai-blog.png')">
     <div class="hero-copy">
-      <p class="eyebrow">Blog operativo</p>
-      <h1>Jesus + IA</h1>
-      <p>Ideas, procesos y avances publicados con ayuda de un agente IA, sin perder el control del contenido.</p>
+      <p class="eyebrow">Estetica medica + dental innovador</p>
+      <h1>Clinica al Dia</h1>
+      <p>Actualidad, nuevas tecnicas y tratamientos explicados con evidencia, seguridad y lenguaje claro para pacientes.</p>
       ${latest ? `<a class="hero-action" href="${latest.url}">Leer ultimo articulo</a>` : ""}
+    </div>
+  </section>
+
+  <section class="focus-strip" aria-label="Lineas editoriales">
+    <div>
+      <span>01</span>
+      <strong>Estetica medica</strong>
+      <p>Rellenos, toxina botulinica, lasers, bioestimulacion y seguridad.</p>
+    </div>
+    <div>
+      <span>02</span>
+      <strong>Dental innovador</strong>
+      <p>Implantes guiados, escaner intraoral, ortodoncia, periodoncia e impresion 3D.</p>
+    </div>
+    <div>
+      <span>03</span>
+      <strong>Nuevas tecnicas</strong>
+      <p>Que aporta cada avance, para quien puede servir y que limites tiene.</p>
     </div>
   </section>
 
@@ -257,7 +297,7 @@ function renderIndex(posts) {
     <div class="section-head">
       <div>
         <p class="eyebrow">Archivo</p>
-        <h2 id="posts-title">Publicaciones</h2>
+        <h2 id="posts-title">Actualidad y guias</h2>
       </div>
       <a class="text-link" href="/admin.html">Preparar post</a>
     </div>
@@ -274,17 +314,25 @@ function renderPost(post) {
   <article class="article">
     <header class="article-header">
       <a class="back-link" href="/">Volver al blog</a>
-      <p class="meta">${escapeHtml(post.category)} · ${formatDate(post.date)} · ${escapeHtml(post.author)}</p>
+      <p class="meta">${escapeHtml(post.category)} · ${escapeHtml(post.evidence)} · ${formatDate(post.date)} · ${escapeHtml(post.readingTime)}</p>
       <h1>${escapeHtml(post.title)}</h1>
       <p>${escapeHtml(post.excerpt)}</p>
       ${renderTagList(post.tags)}
+      <div class="clinical-meta">
+        <span>Revisado por: ${escapeHtml(post.reviewedBy)}</span>
+        <span>Autor: ${escapeHtml(post.author)}</span>
+      </div>
     </header>
     <div class="article-cover">
       <img src="${escapeHtml(post.cover)}" alt="">
     </div>
+    <aside class="notice-box">
+      Informacion divulgativa. No sustituye una valoracion medica u odontologica individual ni una indicacion profesional.
+    </aside>
     <div class="article-body">
       ${post.html}
     </div>
+    ${renderSourceList(post.sources)}
   </article>
 </main>`;
   return layout({ title: post.title, description: post.excerpt, body });
@@ -331,6 +379,7 @@ function buildSite() {
     url: `/posts/${post.slug}/`
   }));
 
+  fs.rmSync(path.join(publicDir, "posts"), { recursive: true, force: true });
   writeFile(path.join(publicDir, "index.html"), renderIndex(posts));
   writeFile(path.join(publicDir, "posts.json"), JSON.stringify(posts.map(({ body, html, ...post }) => post), null, 2));
   writeFile(path.join(publicDir, "feed.xml"), renderFeed(posts));
