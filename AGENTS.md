@@ -1,4 +1,4 @@
-# AGENTS.md - Clinica al Dia
+# AGENTS.md - Estetica y Dental al Dia
 
 Este repo esta preparado para que Jesus y un agente IA publiquen sin backend sobre estetica medica, dental innovador y nuevas tecnicas.
 

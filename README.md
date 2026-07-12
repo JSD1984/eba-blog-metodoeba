@@ -1,4 +1,4 @@
-# Clinica al Dia
+# Estetica y Dental al Dia
 
 Blog estatico pensado para publicar actualidad sobre estetica medica, tratamientos dentales innovadores y nuevas tecnicas con apoyo de un agente IA.
 

@@ -403,6 +403,7 @@ a {
 
 .focus-strip div {
   background: var(--paper);
+  min-width: 0;
   padding: 16px;
 }
 
@@ -422,6 +423,7 @@ a {
   margin: 6px 0 0;
   color: var(--muted);
   font-size: 14px;
+  overflow-wrap: anywhere;
 }
 
 .form-grid,
@@ -485,9 +487,34 @@ a {
     grid-column: span 1;
   }
 
+  .focus-strip {
+    display: block;
+  }
+
+  .focus-strip div {
+    width: 100%;
+    padding: 16px 20px;
+  }
+
   .hero {
     min-height: 520px;
     background-position: 62% center;
+  }
+
+  .hero-copy {
+    width: min(340px, calc(100% - 32px));
+    margin-left: 20px;
+  }
+
+  .hero h1 {
+    max-width: 330px;
+    font-size: 40px;
+    overflow-wrap: anywhere;
+  }
+
+  .hero p:not(.eyebrow) {
+    max-width: 320px;
+    font-size: 17px;
   }
 
   .article-cover img {

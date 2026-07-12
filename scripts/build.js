@@ -5,9 +5,9 @@ const rootDir = path.resolve(__dirname, "..");
 const postsDir = path.join(rootDir, "content", "posts");
 const publicDir = path.join(rootDir, "public");
 const site = {
-  title: "Clinica al Dia",
+  title: "Estetica y Dental al Dia",
   description: "Actualidad seria sobre estetica medica, odontologia innovadora y nuevas tecnicas explicadas para pacientes.",
-  url: "https://blog-ia.vercel.app"
+  url: "https://esteticaydentalaldia.com"
 };
 
 function escapeHtml(value) {
@@ -269,7 +269,7 @@ function renderIndex(posts) {
   <section class="hero" style="background-image: linear-gradient(90deg, rgba(12,22,24,.78), rgba(12,22,24,.28), rgba(12,22,24,.06)), url('/assets/hero-ai-blog.png')">
     <div class="hero-copy">
       <p class="eyebrow">Estetica medica + dental innovador</p>
-      <h1>Clinica al Dia</h1>
+      <h1>Estetica y Dental al Dia</h1>
       <p>Actualidad, nuevas tecnicas y tratamientos explicados con evidencia, seguridad y lenguaje claro para pacientes.</p>
       ${latest ? `<a class="hero-action" href="${latest.url}">Leer ultimo articulo</a>` : ""}
     </div>
@@ -279,17 +279,17 @@ function renderIndex(posts) {
     <div>
       <span>01</span>
       <strong>Estetica medica</strong>
-      <p>Rellenos, toxina botulinica, lasers, bioestimulacion y seguridad.</p>
+      <p>Rellenos, toxina, lasers y seguridad.</p>
     </div>
     <div>
       <span>02</span>
       <strong>Dental innovador</strong>
-      <p>Implantes guiados, escaner intraoral, ortodoncia, periodoncia e impresion 3D.</p>
+      <p>Implantes, escaner, ortodoncia y 3D.</p>
     </div>
     <div>
       <span>03</span>
       <strong>Nuevas tecnicas</strong>
-      <p>Que aporta cada avance, para quien puede servir y que limites tiene.</p>
+      <p>Avances utiles, limites y preguntas clave.</p>
     </div>
   </section>
 
