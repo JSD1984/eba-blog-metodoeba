@@ -220,8 +220,6 @@ function layout({ title, description, body, active = "blog" }) {
   <a class="brand" href="/" aria-label="Inicio">${escapeHtml(site.title)}</a>
   <nav class="site-nav" aria-label="Principal">
     <a ${active === "blog" ? 'class="active"' : ""} href="/">Blog</a>
-    <a ${active === "write" ? 'class="active"' : ""} href="/admin.html">Redaccion</a>
-    <a href="/feed.xml">RSS</a>
   </nav>
 </header>
 ${body}
@@ -299,7 +297,6 @@ function renderIndex(posts) {
         <p class="eyebrow">Archivo</p>
         <h2 id="posts-title">Actualidad y guias</h2>
       </div>
-      <a class="text-link" href="/admin.html">Preparar post</a>
     </div>
     <div class="post-grid">
       ${posts.map(renderPostCard).join("\n")}
@@ -361,7 +358,7 @@ ${posts
 }
 
 function renderSitemap(posts) {
-  const urls = ["/", "/admin.html", ...posts.map((post) => post.url)];
+  const urls = ["/", ...posts.map((post) => post.url)];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((url) => `<url><loc>${site.url}${url}</loc></url>`).join("\n")}

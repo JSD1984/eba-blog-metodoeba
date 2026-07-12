@@ -27,6 +27,13 @@ function resolveRequest(url) {
     filePath = path.join(filePath, "index.html");
   }
 
+  if (!fs.existsSync(filePath) && !path.extname(filePath)) {
+    const htmlPath = `${filePath}.html`;
+    if (fs.existsSync(htmlPath)) {
+      filePath = htmlPath;
+    }
+  }
+
   if (!fs.existsSync(filePath)) {
     filePath = path.join(publicDir, "404.html");
     status = 404;

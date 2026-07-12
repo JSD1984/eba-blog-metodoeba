@@ -17,7 +17,7 @@ Abre `http://localhost:8770`.
 4. Revisa `public/index.html` y `public/posts/`.
 5. Haz commit.
 
-Tambien existe `public/admin.html`: genera el Markdown desde un formulario clinico y lo descarga para guardarlo en `content/posts/`.
+Tambien existe `public/acceso-redaccion-ia.html`: genera el Markdown desde un formulario clinico y lo descarga para guardarlo en `content/posts/`. No se enlaza desde el menu publico.
 
 ## Despliegue
 Vercel puede construirlo con:
