@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Jesus + IA</title>
+<link>https://blog-ia.vercel.app</link>
+<description>Ideas, procesos y publicaciones creadas por Jesus con apoyo de su agente IA.</description>
+<item>
+<title>Bienvenida al blog IA</title>
+<link>https://blog-ia.vercel.app/posts/bienvenida-al-blog-ia/</link>
+<guid>https://blog-ia.vercel.app/posts/bienvenida-al-blog-ia/</guid>
+<pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+<description>Una base simple para publicar ideas, procesos y avances con ayuda de un agente IA.</description>
+</item>
+</channel>
+</rss>

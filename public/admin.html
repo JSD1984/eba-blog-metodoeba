@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Redaccion local para preparar posts del blog Jesus + IA.">
+<title>Redaccion · Jesus + IA</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="/" aria-label="Inicio">Jesus + IA</a>
+  <nav class="site-nav" aria-label="Principal">
+    <a href="/">Blog</a>
+    <a class="active" href="/admin.html">Redaccion</a>
+    <a href="/feed.xml">RSS</a>
+  </nav>
+</header>
+
+<main class="writer">
+  <section class="writer-panel">
+    <div class="section-head compact">
+      <div>
+        <p class="eyebrow">Nuevo post</p>
+        <h1>Redaccion</h1>
+      </div>
+      <button class="button secondary" id="fill-example" type="button">Ejemplo</button>
+    </div>
+
+    <form id="post-form" class="post-form">
+      <label>Titulo
+        <input id="title" name="title" required placeholder="Idea clara del articulo">
+      </label>
+      <div class="form-grid">
+        <label>Fecha
+          <input id="date" name="date" type="date" required>
+        </label>
+        <label>Categoria
+          <input id="category" name="category" value="IA y negocio">
+        </label>
+      </div>
+      <label>Resumen
+        <textarea id="excerpt" name="excerpt" rows="3" required placeholder="Una frase para portada"></textarea>
+      </label>
+      <label>Etiquetas
+        <input id="tags" name="tags" placeholder="IA, Proceso, Clinica">
+      </label>
+      <label>Articulo
+        <textarea id="body" name="body" rows="15" required placeholder="Escribe aqui en Markdown"></textarea>
+      </label>
+      <div class="writer-actions">
+        <button class="button" id="download" type="button">Descargar Markdown</button>
+        <button class="button secondary" id="copy-agent" type="button">Copiar para agente</button>
+      </div>
+    </form>
+  </section>
+
+  <aside class="preview-panel">
+    <p class="eyebrow">Vista previa</p>
+    <article class="preview" id="preview"></article>
+  </aside>
+</main>
+
+<script src="/admin.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,19 @@
+[
+  {
+    "file": "2026-07-12-bienvenida-al-blog-ia.md",
+    "slug": "bienvenida-al-blog-ia",
+    "title": "Bienvenida al blog IA",
+    "date": "2026-07-12",
+    "author": "Jesus + Neo",
+    "category": "IA y negocio",
+    "excerpt": "Una base simple para publicar ideas, procesos y avances con ayuda de un agente IA.",
+    "status": "published",
+    "tags": [
+      "IA",
+      "Publicacion",
+      "Trabajo"
+    ],
+    "cover": "/assets/hero-ai-blog.png",
+    "url": "/posts/bienvenida-al-blog-ia/"
+  }
+]
