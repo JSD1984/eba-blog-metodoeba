@@ -19,6 +19,9 @@ Abre `http://localhost:8770`.
 
 Tambien existe `public/acceso-redaccion-ia.html`: genera el Markdown desde un formulario clinico y lo descarga para guardarlo en `content/posts/`. No se enlaza desde el menu publico.
 
+## Catalogo
+`public/catalogo.html` lista todos los articulos y permite buscar por texto, categoria y etiquetas.
+
 ## Despliegue
 Vercel puede construirlo con:
 ```bash

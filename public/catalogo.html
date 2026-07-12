@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Catalogo de articulos por tema, categoria y tratamiento.">
+<title>Catalogo · Estetica y Dental al Dia</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Estetica y Dental al Dia" href="/feed.xml">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="/" aria-label="Inicio">Estetica y Dental al Dia</a>
+  <nav class="site-nav" aria-label="Principal">
+    <a  href="/">Blog</a>
+    <a class="active" href="/catalogo.html">Catalogo</a>
+  </nav>
+</header>
+<main>
+  <section class="catalog-hero" aria-labelledby="catalog-title">
+    <p class="eyebrow">Catalogo</p>
+    <h1 id="catalog-title">Articulos por tema</h1>
+    <p>Busca por tratamiento, tecnica, categoria o palabra clave.</p>
+  </section>
+
+  <section class="catalog-panel" aria-label="Buscador de articulos">
+    <div class="catalog-controls">
+      <label>Buscar
+        <input id="catalog-search" type="search" placeholder="Implantes, escaner, rellenos...">
+      </label>
+      <label>Categoria
+        <select id="catalog-category">
+          <option value="">Todas</option>
+          <option>Dental innovador</option><option>Estetica medica</option><option>Nuevas tecnicas</option>
+        </select>
+      </label>
+    </div>
+    <div class="topic-row" id="topic-row">
+      <button class="topic-chip active" type="button" data-topic="">Todos</button>
+      <button class="topic-chip" type="button" data-topic="Cirugia guiada">Cirugia guiada</button><button class="topic-chip" type="button" data-topic="Dental innovador">Dental innovador</button><button class="topic-chip" type="button" data-topic="Escaner intraoral">Escaner intraoral</button><button class="topic-chip" type="button" data-topic="Estetica medica">Estetica medica</button><button class="topic-chip" type="button" data-topic="Implantes">Implantes</button><button class="topic-chip" type="button" data-topic="Nuevas tecnicas">Nuevas tecnicas</button><button class="topic-chip" type="button" data-topic="Odontologia digital">Odontologia digital</button><button class="topic-chip" type="button" data-topic="Periodoncia">Periodoncia</button><button class="topic-chip" type="button" data-topic="Rellenos">Rellenos</button><button class="topic-chip" type="button" data-topic="Seguridad">Seguridad</button>
+    </div>
+    <p class="result-count" id="result-count">4 articulos</p>
+    <div class="catalog-grid" id="catalog-grid"></div>
+  </section>
+</main>
+<script src="/catalogo.js"></script>
+<footer class="site-footer">
+  <span>Estetica y Dental al Dia</span>
+  <span>Divulgacion con fuentes, revision y criterio clinico.</span>
+</footer>
+</body>
+</html>

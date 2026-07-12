@@ -220,6 +220,7 @@ function layout({ title, description, body, active = "blog" }) {
   <a class="brand" href="/" aria-label="Inicio">${escapeHtml(site.title)}</a>
   <nav class="site-nav" aria-label="Principal">
     <a ${active === "blog" ? 'class="active"' : ""} href="/">Blog</a>
+    <a ${active === "catalog" ? 'class="active"' : ""} href="/catalogo.html">Catalogo</a>
   </nav>
 </header>
 ${body}
@@ -306,6 +307,40 @@ function renderIndex(posts) {
   return layout({ title: "Blog", description: site.description, body });
 }
 
+function renderCatalog(posts) {
+  const categories = [...new Set(posts.map((post) => post.category))].sort();
+  const topics = [...new Set(posts.flatMap((post) => post.tags))].sort();
+  const body = `<main>
+  <section class="catalog-hero" aria-labelledby="catalog-title">
+    <p class="eyebrow">Catalogo</p>
+    <h1 id="catalog-title">Articulos por tema</h1>
+    <p>Busca por tratamiento, tecnica, categoria o palabra clave.</p>
+  </section>
+
+  <section class="catalog-panel" aria-label="Buscador de articulos">
+    <div class="catalog-controls">
+      <label>Buscar
+        <input id="catalog-search" type="search" placeholder="Implantes, escaner, rellenos...">
+      </label>
+      <label>Categoria
+        <select id="catalog-category">
+          <option value="">Todas</option>
+          ${categories.map((category) => `<option>${escapeHtml(category)}</option>`).join("")}
+        </select>
+      </label>
+    </div>
+    <div class="topic-row" id="topic-row">
+      <button class="topic-chip active" type="button" data-topic="">Todos</button>
+      ${topics.map((topic) => `<button class="topic-chip" type="button" data-topic="${escapeHtml(topic)}">${escapeHtml(topic)}</button>`).join("")}
+    </div>
+    <p class="result-count" id="result-count">${posts.length} articulos</p>
+    <div class="catalog-grid" id="catalog-grid"></div>
+  </section>
+</main>
+<script src="/catalogo.js"></script>`;
+  return layout({ title: "Catalogo", description: "Catalogo de articulos por tema, categoria y tratamiento.", body, active: "catalog" });
+}
+
 function renderPost(post) {
   const body = `<main>
   <article class="article">
@@ -358,7 +393,7 @@ ${posts
 }
 
 function renderSitemap(posts) {
-  const urls = ["/", ...posts.map((post) => post.url)];
+  const urls = ["/", "/catalogo.html", ...posts.map((post) => post.url)];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((url) => `<url><loc>${site.url}${url}</loc></url>`).join("\n")}
@@ -378,6 +413,7 @@ function buildSite() {
 
   fs.rmSync(path.join(publicDir, "posts"), { recursive: true, force: true });
   writeFile(path.join(publicDir, "index.html"), renderIndex(posts));
+  writeFile(path.join(publicDir, "catalogo.html"), renderCatalog(posts));
   writeFile(path.join(publicDir, "posts.json"), JSON.stringify(posts.map(({ body, html, ...post }) => post), null, 2));
   writeFile(path.join(publicDir, "feed.xml"), renderFeed(posts));
   writeFile(path.join(publicDir, "sitemap.xml"), renderSitemap(posts));
