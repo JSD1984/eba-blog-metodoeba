@@ -251,6 +251,14 @@ function renderSourceList(sources) {
   </section>`;
 }
 
+function renderAdSlot(slot) {
+  return `<aside class="ad-slot" data-ad-slot="${escapeHtml(slot)}">
+    <span>Publicidad</span>
+    <strong>Zona para anuncio</strong>
+    <p>Espacio reservado para patrocinio, banner o campaña propia.</p>
+  </aside>`;
+}
+
 function renderPostCard(post, index) {
   return `<article class="post-card ${index === 0 ? "featured" : ""}">
   <a href="${post.url}" class="post-link">
@@ -292,6 +300,8 @@ function renderIndex(posts) {
     </div>
   </section>
 
+  ${renderAdSlot("home-before-archive")}
+
   <section class="posts-section" aria-labelledby="posts-title">
     <div class="section-head">
       <div>
@@ -316,6 +326,8 @@ function renderCatalog(posts) {
     <h1 id="catalog-title">Articulos por tema</h1>
     <p>Busca por tratamiento, tecnica, categoria o palabra clave.</p>
   </section>
+
+  ${renderAdSlot("catalog-top")}
 
   <section class="catalog-panel" aria-label="Buscador de articulos">
     <div class="catalog-controls">
@@ -361,9 +373,11 @@ function renderPost(post) {
     <aside class="notice-box">
       Informacion divulgativa. No sustituye una valoracion medica u odontologica individual ni una indicacion profesional.
     </aside>
+    ${renderAdSlot("article-after-notice")}
     <div class="article-body">
       ${post.html}
     </div>
+    ${renderAdSlot("article-before-sources")}
     ${renderSourceList(post.sources)}
   </article>
 </main>`;

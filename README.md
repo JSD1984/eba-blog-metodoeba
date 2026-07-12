@@ -22,6 +22,9 @@ Tambien existe `public/acceso-redaccion-ia.html`: genera el Markdown desde un fo
 ## Catalogo
 `public/catalogo.html` lista todos los articulos y permite buscar por texto, categoria y etiquetas.
 
+## Publicidad
+El sitio incluye zonas marcadas como `Publicidad` en portada, catalogo y articulos. Son espacios preparados para banners o patrocinio; no contienen anuncios reales todavia.
+
 ## Despliegue
 Vercel puede construirlo con:
 ```bash
