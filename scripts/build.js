@@ -10,6 +10,17 @@ const site = {
   url: "https://esteticaydentalaldia.com"
 };
 
+// Google AdSense. El publisher id es la cuenta de Jesus (pub-6858538787372520).
+// Con el loader en el <head> de cada pagina, AdSense coloca Auto Ads una vez
+// Google apruebe el sitio en la consola. ads.txt se genera en public/ para verificacion.
+const adsense = {
+  client: "ca-pub-6858538787372520",
+  adsTxt: "google.com, pub-6858538787372520, DIRECT, f08c47fec0942fa0\n"
+};
+
+const adsenseHead = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsense.client}" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="${adsense.client}">`;
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -211,6 +222,7 @@ function layout({ title, description, body, active = "blog" }) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="${escapeHtml(description || site.description)}">
+${adsenseHead}
 <title>${escapeHtml(title)} · ${escapeHtml(site.title)}</title>
 <link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.title)}" href="/feed.xml">
@@ -431,6 +443,7 @@ function buildSite() {
   writeFile(path.join(publicDir, "posts.json"), JSON.stringify(posts.map(({ body, html, ...post }) => post), null, 2));
   writeFile(path.join(publicDir, "feed.xml"), renderFeed(posts));
   writeFile(path.join(publicDir, "sitemap.xml"), renderSitemap(posts));
+  writeFile(path.join(publicDir, "ads.txt"), adsense.adsTxt);
 
   for (const post of posts) {
     writeFile(path.join(publicDir, "posts", post.slug, "index.html"), renderPost(post));
