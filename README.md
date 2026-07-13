@@ -19,6 +19,39 @@ Abre `http://localhost:8770`.
 
 Tambien existe `public/acceso-redaccion-ia.html`: genera el Markdown desde un formulario clinico y lo descarga para guardarlo en `content/posts/`. No se enlaza desde el menu publico.
 
+## API local para agentes
+Para que otro agente publique a diario sin tocar Vercel, usa el contrato JSON:
+
+```bash
+npm run publish:post -- post.json
+npm run check
+npm test
+npm run build
+git add content/posts public package.json scripts README.md AGENTS.md
+git commit -m "Publish daily article"
+git push
+```
+
+Ejemplo de `post.json`:
+```json
+{
+  "title": "Escaner intraoral: que debe saber el paciente",
+  "date": "2026-07-13",
+  "author": "Jesus + IA",
+  "category": "Dental innovador",
+  "evidence": "Guia clinica",
+  "excerpt": "Una guia clara sobre el uso del escaner intraoral en clinica dental.",
+  "readingTime": "4 min",
+  "reviewedBy": "Pendiente de revision clinica",
+  "tags": ["Escaner", "Odontologia digital", "Diagnostico"],
+  "sources": ["https://www.ada.org/"],
+  "status": "published",
+  "body": "## Que es\n\nTexto del articulo en Markdown."
+}
+```
+
+El script crea el Markdown en `content/posts/`. Si `status` no se indica, el post queda como `draft` y no se publica hasta cambiarlo a `published`.
+
 ## Catalogo
 `public/catalogo.html` lista todos los articulos y permite buscar por texto, categoria y etiquetas.
 

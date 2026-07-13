@@ -5,8 +5,9 @@
   "description": "Blog estatico para publicar Jesus y su agente IA.",
   "scripts": {
     "build": "node scripts/build.js",
-    "check": "node --check scripts/build.js && node --check scripts/serve.js && node --check scripts/build.test.js && node --check public/admin.js && node --check public/catalogo.js",
-    "test": "node --test scripts/build.test.js",
+    "check": "node --check scripts/build.js && node --check scripts/serve.js && node --check scripts/build.test.js && node --check scripts/publish-post.js && node --check scripts/publish-post.test.js && node --check public/admin.js && node --check public/catalogo.js",
+    "publish:post": "node scripts/publish-post.js",
+    "test": "node --test scripts/build.test.js scripts/publish-post.test.js",
     "start": "node scripts/serve.js"
   },
   "engines": {
