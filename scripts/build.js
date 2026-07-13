@@ -420,9 +420,14 @@ ${posts
 
 function renderSitemap(posts) {
   const urls = ["/", "/catalogo.html", ...posts.map((post) => post.url)];
+  const legacySitemapPath = path.join(rootDir, "sitemap.xml");
+  const legacyUrls = fs.existsSync(legacySitemapPath)
+    ? [...fs.readFileSync(legacySitemapPath, "utf8").matchAll(/<loc>(https:\/\/www\.lasaluddelmarketing\.com\/[^<]+)<\/loc>/g)].map((match) => match[1])
+    : [];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((url) => `<url><loc>${site.url}${url}</loc></url>`).join("\n")}
+${legacyUrls.map((url) => `<url><loc>${escapeHtml(url)}</loc></url>`).join("\n")}
 </urlset>`;
 }
 
