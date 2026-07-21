@@ -1,0 +1,85 @@
+---
+title: "Clasificación de periodontitis 2017: guía clínica de aplicación"
+date: "2026-07-21"
+author: "MarkIA — Estética y Dental al Día"
+category: "Periodoncia"
+evidence: "Guía clínica"
+excerpt: "Guía clínica para aplicar la clasificación AAP/EFP 2017 de periodontitis mediante estadios, grados, extensión y modificadores de riesgo."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Periodoncia", "Periodontitis", "Clasificación 2017", "Estadios", "Grados"]
+sources: ["Papapanou PN et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop. Journal of Periodontology. 2018. DOI: 10.1002/JPER.17-0721", "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. Journal of Periodontology. 2018. DOI: 10.1002/JPER.18-0006", "Sanz M et al. Treatment of stage I-III periodontitis: The EFP S3 level clinical practice guideline. Journal of Clinical Periodontology. 2020. DOI: 10.1111/jcpe.13290", "Herrera D et al. Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline. Journal of Clinical Periodontology. 2022. DOI: 10.1111/jcpe.13639", "Raza M et al. Ease and practicability of the 2017 classification of periodontal diseases and conditions: a study of dental electronic health records. BMC Oral Health. 2024. DOI: 10.1186/s12903-024-04385-5", "Saleh O et al. Periodontitis: Grade Modifiers Revisited. Oral Diseases. 2025. DOI: 10.1111/odi.15297"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Justificación clínica
+
+La clasificación AAP/EFP derivada del World Workshop de 2017 cambió la forma de diagnosticar la periodontitis porque dejó de basarse en etiquetas históricas como periodontitis crónica o agresiva y propuso una lectura multidimensional: estadio, grado, extensión y factores modificadores. En la práctica, esto obliga a separar dos preguntas que antes se mezclaban: cuánto daño periodontal acumulado tiene el paciente y cuál es su riesgo biológico de progresión.
+
+Para el clínico, la utilidad no está en memorizar una tabla, sino en convertir la exploración periodontal en un diagnóstico reproducible que oriente pronóstico, intensidad terapéutica, necesidad de interconsulta y frecuencia de mantenimiento. Una misma profundidad de sondaje no significa lo mismo en un paciente de 32 años fumador, con pérdida ósea rápida, que en un paciente de 72 años estable tras tratamiento periodontal. La clasificación 2017 permite registrar esa diferencia.
+
+## Evidencia base y metodología
+
+Se revisaron documentos de consenso AAP/EFP, guías EFP S3 y literatura reciente localizada en PubMed y revistas indexadas entre 2022 y 2025 sobre aplicación clínica, practicabilidad, modificadores de grado y tratamiento por estadios. La búsqueda combinó los términos 2017 periodontal classification, periodontitis staging grading, grade modifiers, EFP S3 guideline, stage IV periodontitis y electronic health records. Se priorizaron consensos, guías clínicas, revisiones y estudios de implementación con DOI verificable.
+
+Conviene recordar que la clasificación nace en 2018 como publicación formal de los consensos de 2017. Por tanto, las fuentes fundacionales son anteriores a 2022, pero siguen siendo obligatorias para definir los criterios. La literatura posterior ayuda a interpretar su aplicación y sus límites.
+
+## Diagnóstico inicial: confirmar que es periodontitis
+
+Antes de asignar estadio y grado, debe establecerse que el paciente cumple criterios de periodontitis. El diagnóstico no se basa en sangrado aislado ni en una bolsa puntual sin pérdida de inserción interproximal. Requiere integrar pérdida de inserción clínica, pérdida ósea radiográfica, profundidad de sondaje, patrón de distribución y exclusión de causas no periodontales de pérdida de inserción: recesión traumática, fractura radicular, lesión endodóntica, caries cervical extensa, margen restaurador subgingival o extracción traumática previa.
+
+El registro mínimo debería incluir sondaje periodontal de seis puntos por diente, sangrado al sondaje, supuración si existe, movilidad, furcaciones, recesiones, nivel clínico de inserción, radiografías adecuadas y factores sistémicos relevantes. Sin estos datos, el estadio se vuelve una aproximación débil y el grado una suposición.
+
+## Estadio: severidad y complejidad
+
+El estadio expresa daño acumulado y complejidad de manejo. El estadio I describe periodontitis inicial; el estadio II, enfermedad moderada; el estadio III, periodontitis severa con potencial de pérdida dentaria adicional; y el estadio IV, periodontitis severa con compromiso funcional, secuelas o necesidad de rehabilitación compleja.
+
+La asignación debe comenzar por pérdida de inserción interproximal y pérdida ósea radiográfica, pero no termina ahí. El número de dientes perdidos por periodontitis, la profundidad de sondaje, los defectos verticales, la afectación de furca, la movilidad, el colapso oclusal, la migración dentaria y la necesidad de rehabilitación modifican la lectura clínica. Por eso un paciente con pérdida ósea severa, furcas avanzadas y necesidad de estabilización protésica no debe clasificarse solo por el porcentaje de hueso perdido en una radiografía panorámica.
+
+La guía EFP S3 para estadios I-III refuerza un abordaje por pasos: control de factores de riesgo y biofilm, instrumentación subgingival, reevaluación, cirugía periodontal cuando está indicada y soporte periodontal. En estadio IV, la guía de 2022 añade el componente interdisciplinar: ortodoncia, ferulización, ajuste oclusal, prótesis o implantes pueden ser necesarios, pero la terapia periodontal activa y el control inflamatorio siguen siendo la base.
+
+## Grado: velocidad y riesgo de progresión
+
+El grado A, B o C estima progresión pasada o futura. Cuando existen radiografías previas comparables, el dato más robusto es la pérdida ósea longitudinal. Si no están disponibles, puede utilizarse la relación pérdida ósea/edad como aproximación, junto con fenotipo clínico, carga de biofilm y patrón de destrucción.
+
+Los modificadores más consolidados son tabaco y diabetes. Un paciente fumador importante o con mal control glucémico puede requerir elevar el grado aunque la destrucción observada parezca moderada. Este punto es clínicamente relevante porque el grado no es una etiqueta decorativa: condiciona el intervalo de mantenimiento, la intensidad del control de riesgo y la conversación interdisciplinar con medicina de familia, endocrinología o unidades de deshabituación tabáquica.
+
+La literatura reciente sobre modificadores de grado insiste en que el sistema es útil, pero no definitivo. Existen factores emergentes, como obesidad, estrés, susceptibilidad genética, marcadores inflamatorios o determinantes sociales, cuya integración todavía no tiene la misma solidez normativa que tabaco y diabetes. Deben considerarse en la valoración global, pero no convertirlos automáticamente en reglas de clasificación si no están recogidos con calidad suficiente.
+
+## Extensión y distribución
+
+La extensión se informa como localizada si afecta a menos del 30% de los dientes, generalizada si afecta al 30% o más, y patrón molar-incisivo cuando corresponde. Este dato evita diagnósticos incompletos. No es lo mismo una periodontitis estadio III localizada en molares e incisivos que una afectación generalizada con pérdida de soporte extensa y necesidades restauradoras múltiples.
+
+Para que la extensión sea útil, el registro debe diferenciar diente, sitio y severidad. La informatización ayuda, pero también puede inducir errores si el software fuerza categorías sin datos completos. Estudios recientes con historias clínicas electrónicas muestran que reclasificar pacientes antiguos según 2017 es posible, aunque la falta de radiografías comparables, registros de inserción o documentación de pérdida dentaria por causa periodontal limita la precisión.
+
+## Consolidado, prometedor y experimental
+
+**Consolidado.** El uso de estadio, grado, extensión y modificadores de riesgo es el marco diagnóstico vigente para periodontitis en adultos. También está consolidada la necesidad de reevaluación tras terapia inicial y de soporte periodontal individualizado.
+
+**Prometedor.** La integración de sistemas digitales, radiografía estandarizada y algoritmos de apoyo puede mejorar consistencia diagnóstica, siempre que el clínico conserve la interpretación periodontal. La clasificación también facilita auditorías internas de resultados si los datos se registran de forma uniforme.
+
+**Experimental.** Biomarcadores salivales, genética, inteligencia artificial diagnóstica y nuevos modificadores de grado son líneas de investigación relevantes, pero no sustituyen hoy a sondaje, radiografía, historia clínica y juicio periodontal. Su uso como base única de clasificación no es defendible como rutina.
+
+## Recomendaciones clínicas
+
+El diagnóstico periodontal debería redactarse completo: periodontitis, estadio, grado, extensión, patrón si procede y principales factores modificadores. Por ejemplo: periodontitis estadio III, grado C, generalizada, asociada a tabaquismo activo. Esa formulación es más útil que una etiqueta genérica de enfermedad periodontal avanzada.
+
+La clasificación debe actualizarse tras la reevaluación, especialmente si aparecen datos previos, se confirma pérdida dentaria atribuible a periodontitis o cambian los factores de riesgo. En equipos multidisciplinares, como puede ocurrir en centros con periodoncia, implantología y rehabilitación oral integradas, esta forma de registrar el diagnóstico mejora la comunicación clínica y evita planificaciones restauradoras antes de controlar la inflamación.
+
+No debe usarse el estadio para justificar tratamientos invasivos de forma automática. Un estadio alto describe complejidad, no una indicación quirúrgica por sí mismo. La indicación depende de respuesta a la terapia inicial, profundidad residual, anatomía, pronóstico dentario, higiene, riesgo sistémico y objetivos funcionales.
+
+## Conclusiones clínicas
+
+La clasificación de periodontitis 2017 es útil si se aplica como herramienta de decisión, no como casilla administrativa. El estadio ordena severidad y complejidad; el grado introduce biología, velocidad y riesgo; la extensión define distribución; y los modificadores obligan a mirar más allá de la bolsa periodontal.
+
+Su principal valor clínico es mejorar la trazabilidad: diagnóstico más preciso, plan terapéutico proporcional, reevaluación documentada y mantenimiento ajustado al riesgo. Sus límites también son claros: depende de registros completos, radiografías interpretables y criterio profesional. Cuando se usa bien, convierte la periodoncia en una disciplina menos reactiva y más pronóstica.
+
+## Fuentes
+
+1. Papapanou PN, Sanz M, Buduneli N, et al. Journal of Periodontology. 2018;89 Suppl 1:S173-S182. DOI: 10.1002/JPER.17-0721.
+2. Tonetti MS, Greenwell H, Kornman KS. Journal of Periodontology. 2018;89 Suppl 1:S159-S172. DOI: 10.1002/JPER.18-0006.
+3. Sanz M, Herrera D, Kebschull M, et al. Journal of Clinical Periodontology. 2020;47 Suppl 22:4-60. DOI: 10.1111/jcpe.13290.
+4. Herrera D, Sanz M, Kebschull M, et al. Journal of Clinical Periodontology. 2022;49 Suppl 24:4-71. DOI: 10.1111/jcpe.13639.
+5. Raza M, Abud DG, Wang J, Shariff JA. BMC Oral Health. 2024;24:621. DOI: 10.1186/s12903-024-04385-5.
+6. Saleh O, Abdulmunim A, Aboushakra I, et al. Oral Diseases. 2025;31(6):1637-1646. DOI: 10.1111/odi.15297.
