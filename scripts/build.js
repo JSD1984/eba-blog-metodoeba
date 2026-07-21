@@ -215,7 +215,8 @@ function formatDate(date) {
   return `${day}/${month}/${year}`;
 }
 
-function layout({ title, description, body, active = "blog" }) {
+function layout({ title, description, body, active = "blog", canonicalPath = "/" }) {
+  const canonicalUrl = new URL(canonicalPath, site.url).href;
   return `<!doctype html>
 <html lang="es">
 <head>
@@ -224,6 +225,7 @@ function layout({ title, description, body, active = "blog" }) {
 <meta name="description" content="${escapeHtml(description || site.description)}">
 ${adsenseHead}
 <title>${escapeHtml(title)} · ${escapeHtml(site.title)}</title>
+<link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 <link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.title)}" href="/feed.xml">
 </head>
@@ -326,7 +328,7 @@ function renderIndex(posts) {
     </div>
   </section>
 </main>`;
-  return layout({ title: "Blog", description: site.description, body });
+  return layout({ title: "Blog", description: site.description, body, canonicalPath: "/" });
 }
 
 function renderCatalog(posts) {
@@ -362,7 +364,7 @@ function renderCatalog(posts) {
   </section>
 </main>
 <script src="/catalogo.js"></script>`;
-  return layout({ title: "Catalogo", description: "Catalogo de articulos por tema, categoria y tratamiento.", body, active: "catalog" });
+  return layout({ title: "Catalogo", description: "Catalogo de articulos por tema, categoria y tratamiento.", body, active: "catalog", canonicalPath: "/catalogo.html" });
 }
 
 function renderPost(post) {
@@ -393,7 +395,7 @@ function renderPost(post) {
     ${renderSourceList(post.sources)}
   </article>
 </main>`;
-  return layout({ title: post.title, description: post.excerpt, body });
+  return layout({ title: post.title, description: post.excerpt, body, canonicalPath: post.url });
 }
 
 function renderFeed(posts) {
@@ -420,14 +422,9 @@ ${posts
 
 function renderSitemap(posts) {
   const urls = ["/", "/catalogo.html", ...posts.map((post) => post.url)];
-  const legacySitemapPath = path.join(rootDir, "sitemap.xml");
-  const legacyUrls = fs.existsSync(legacySitemapPath)
-    ? [...fs.readFileSync(legacySitemapPath, "utf8").matchAll(/<loc>(https:\/\/www\.lasaluddelmarketing\.com\/[^<]+)<\/loc>/g)].map((match) => match[1])
-    : [];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((url) => `<url><loc>${site.url}${url}</loc></url>`).join("\n")}
-${legacyUrls.map((url) => `<url><loc>${escapeHtml(url)}</loc></url>`).join("\n")}
 </urlset>`;
 }
 
