@@ -224,7 +224,7 @@ function layout({ title, description, body, active = "blog" }) {
 <meta name="description" content="${escapeHtml(description || site.description)}">
 ${adsenseHead}
 <title>${escapeHtml(title)} · ${escapeHtml(site.title)}</title>
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/css/estilo.css">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.title)}" href="/feed.xml">
 </head>
 <body>
