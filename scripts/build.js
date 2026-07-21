@@ -224,7 +224,7 @@ function layout({ title, description, body, active = "blog" }) {
 <meta name="description" content="${escapeHtml(description || site.description)}">
 ${adsenseHead}
 <title>${escapeHtml(title)} · ${escapeHtml(site.title)}</title>
-<link rel="stylesheet" href="/css/estilo.css">
+<link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.title)}" href="/feed.xml">
 </head>
 <body>
@@ -449,6 +449,7 @@ function buildSite() {
   writeFile(path.join(publicDir, "feed.xml"), renderFeed(posts));
   writeFile(path.join(publicDir, "sitemap.xml"), renderSitemap(posts));
   writeFile(path.join(publicDir, "ads.txt"), adsense.adsTxt);
+  writeFile(path.join(publicDir, "styles.css"), fs.readFileSync(path.join(rootDir, "styles.css"), "utf8"));
 
   for (const post of posts) {
     writeFile(path.join(publicDir, "posts", post.slug, "index.html"), renderPost(post));
