@@ -1,0 +1,87 @@
+---
+title: "Factores de crecimiento en regeneración ósea oral: mecanismos, evidencia e indicaciones clínicas"
+date: "2026-08-16"
+author: "MarkIA — Estética y Dental al Día"
+category: "Medicina regenerativa"
+evidence: "Revisión sistemática"
+excerpt: "Los factores de crecimiento autólogos y recombinantes pueden modular la reparación ósea, pero su valor clínico depende del defecto, del biomaterial portador y de la calidad del protocolo quirúrgico."
+readingTime: "7 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Regeneración ósea", "Factores de crecimiento", "PRF", "CGF", "PRGF", "GBR", "Implantología"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/37939238/", "https://pubmed.ncbi.nlm.nih.gov/38801329/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11869682/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12228293/", "https://pubmed.ncbi.nlm.nih.gov/40699716/", "https://www.cochrane.org/evidence/CD003607_interventions-replacing-missing-teeth-horizontal-and-vertical-bone-augmentation-techniques-dental"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Introducción clínica
+
+La regeneración ósea oral ha pasado de una lógica puramente reconstructiva —rellenar un defecto con injerto autólogo, aloinjerto, xenoinjerto o sustituto sintético— a una lógica biológica más compleja: aportar un andamiaje estable, proteger el coágulo, controlar la infección, mantener espacio y modular las señales celulares que dirigen angiogénesis, proliferación osteoblástica y remodelado. En ese último punto aparecen los factores de crecimiento.
+
+En odontología e implantología se utilizan sobre todo concentrados plaquetarios autólogos, como PRP, PRF, PRGF y CGF, y con menor frecuencia moléculas recombinantes como rhBMP-2, rhPDGF o FGF-2. Su interés es razonable: las plaquetas liberan PDGF, TGF-beta, VEGF, IGF y otras señales implicadas en migración celular, neovascularización y maduración de matriz. Sin embargo, transformar una plausibilidad biológica en una indicación clínica exige más que una buena narrativa molecular.
+
+El punto práctico es este: los factores de crecimiento no sustituyen a una técnica regenerativa correcta. Pueden actuar como adyuvantes, pero no compensan una mala selección de caso, movilidad del injerto, cierre primario deficiente, contaminación bacteriana, tabaquismo no controlado o ausencia de espacio mantenido.
+
+## Metodología de búsqueda
+
+Se revisaron trabajos publicados entre 2022 y 2025 localizados en PubMed y literatura secundaria de referencia, priorizando revisiones sistemáticas, metaanálisis y ensayos clínicos en humanos sobre factores de crecimiento en regeneración ósea oral, elevación de seno, preservación alveolar, regeneración ósea guiada e implantología inmediata. También se consultó la revisión Cochrane sobre técnicas de aumento óseo horizontal y vertical para contextualizar el nivel de incertidumbre de la cirugía regenerativa en implantes.
+
+Los términos de búsqueda incluyeron: growth factors, platelet-rich fibrin, PRF, platelet-rich plasma, PRP, plasma rich in growth factors, concentrated growth factor, CGF, guided bone regeneration, maxillary sinus floor elevation, dental implants y alveolar bone regeneration. Se excluyeron trabajos sin acceso verificable a PubMed, DOI o URL editorial, así como estudios preclínicos cuando existía evidencia clínica disponible para la misma pregunta.
+
+## Mecanismo biológico: qué se espera conseguir
+
+En términos clínicos, el objetivo de añadir factores de crecimiento a un defecto óseo no es “crear hueso” de forma autónoma, sino mejorar el microambiente de reparación. Los concentrados plaquetarios aportan una matriz de fibrina que estabiliza el coágulo, retiene células y libera mediadores de forma progresiva. Esto puede tener tres efectos relevantes: mejor manejo del biomaterial particulado, menor dispersión del injerto y una fase temprana de cicatrización más organizada.
+
+La angiogénesis es especialmente importante. Sin vascularización suficiente, cualquier injerto particulado se comporta como un material pasivo con incorporación lenta. VEGF, PDGF y TGF-beta pueden favorecer reclutamiento celular y neovascularización, pero su efecto depende del carrier, de la concentración y de la cinética de liberación. Por eso la comparación entre PRP, PRF, PRGF y CGF no puede reducirse a “cuál tiene más factores”: importa la arquitectura de fibrina, la presencia de leucocitos, el protocolo de centrifugado, la activación y el momento de aplicación.
+
+## Resultados consolidados
+
+La indicación con evidencia clínica más razonable es el uso de concentrados plaquetarios como adyuvantes en defectos contenidos, preservación alveolar, elevación de seno y regeneración ósea guiada simultánea a implantes cuando se combinan con biomateriales osteoconductores.
+
+En elevación de seno maxilar, una revisión sistemática y metaanálisis publicada en *The International Journal of Oral & Maxillofacial Implants* evaluó 22 publicaciones con 613 muestras de 477 pacientes. El análisis encontró mayor formación de hueso nuevo y menor proporción de partículas residuales cuando los injertos particulados se complementaban con determinados factores de crecimiento, especialmente concentrados plaquetarios. La lectura clínica debe ser prudente: el desenlace histomorfométrico no siempre se traduce en mayor supervivencia implantaria, porque la supervivencia en seno elevado ya suele ser alta cuando la técnica está bien indicada.
+
+En implantes inmediatos, Sabri y colaboradores analizaron 20 ensayos con 595 implantes inmediatos. El uso de concentrados plaquetarios se asoció a menor pérdida ósea marginal y menor profundidad de sondaje frente a controles sin injerto u otros materiales, aunque la certeza de la evidencia fue baja según GRADE. Además, no se observó un beneficio claro en estabilidad primaria. Esto refuerza una conclusión práctica: el concentrado plaquetario puede ayudar al mantenimiento tisular, pero no sustituye estabilidad mecánica, posición tridimensional correcta ni manejo del gap vestibular.
+
+En regeneración ósea guiada simultánea a implantes, un ensayo clínico aleatorizado de 57 pacientes comparó DBBM solo frente a DBBM combinado con CGF en fase gel o líquida. A seis meses, el grupo con CGF en fase gel mostró menor reducción del espesor óseo vestibular que el control, mientras que la fase líquida no se diferenció de forma significativa del DBBM solo. Este resultado es relevante porque apunta a que la forma física del concentrado y su comportamiento como matriz pueden importar tanto como su contenido bioquímico.
+
+## Prometedor, pero todavía no definitivo
+
+Los factores recombinantes, en especial rhBMP-2 y rhPDGF, tienen una base biológica potente y resultados positivos en determinadas indicaciones. Sin embargo, presentan problemas clínicos no menores: coste, regulación, dosis, carrier, edema, respuesta inflamatoria y variabilidad entre defectos. Una revisión sistemática sobre BMP alrededor de implantes concluyó que puede acelerar fases iniciales de formación ósea y oseointegración, pero también subrayó la necesidad de carriers biodegradables con liberación sostenida y ensayos clínicos a largo plazo.
+
+El CGF y otros concentrados autólogos son prometedores por su facilidad relativa de obtención y por combinar señalización con una matriz manipulable. La revisión de Qadir y colaboradores sobre factores de crecimiento en implantología, centrada en estudios clínicos humanos hasta mayo de 2025, concluye que la mayoría de estudios muestran resultados alentadores, pero que todavía no existen protocolos estandarizados suficientes para formular guías clínicas robustas. La heterogeneidad en centrifugado, volumen sanguíneo, activación, mezcla con biomaterial y tiempo de seguimiento limita la comparación entre estudios.
+
+En una clínica con cirugía regenerativa habitual, como Ocean Clinik, esta distinción tiene valor práctico: no basta con disponer de centrifugadora; el factor de crecimiento debe integrarse en un protocolo quirúrgico medible, documentado y revisable.
+
+## Experimental o de indicación restringida
+
+Debe considerarse experimental o de indicación restringida el uso de factores de crecimiento como sustitutos completos de biomateriales en defectos no contenidos, atrofias verticales severas o reconstrucciones donde se requiere mantenimiento de volumen. La matriz de fibrina puede estabilizar, pero no aporta por sí sola una arquitectura rígida comparable a un bloque, una malla o un biomaterial particulado bien protegido.
+
+También debe evitarse extrapolar resultados de modelos animales o in vitro a decisiones clínicas complejas. Muchas investigaciones muestran aumento de marcadores osteogénicos, vascularización o expresión de RUNX2, osteocalcina y VEGF, pero esos desenlaces intermedios no equivalen automáticamente a ganancia ósea clínica estable, posibilidad protésica ni menor tasa de complicaciones.
+
+La revisión Cochrane sobre aumento óseo horizontal y vertical, aunque anterior al periodo de búsqueda principal, sigue siendo útil como advertencia metodológica: en regeneración ósea implantológica hay pocos ensayos comparables, defectos muy heterogéneos y complicaciones frecuentes en aumentos verticales. Los factores de crecimiento no eliminan esa incertidumbre estructural.
+
+## Recomendaciones clínicas graduadas
+
+**Recomendación fuerte:** priorizar diagnóstico tridimensional, control periodontal, estabilidad del injerto, cierre sin tensión y selección correcta del biomaterial antes de añadir factores de crecimiento. La biología añadida no corrige una mecánica quirúrgica deficiente.
+
+**Recomendación moderada:** considerar PRF, PRGF o CGF como adyuvantes en preservación alveolar, elevación de seno y GBR con defectos contenidos, especialmente cuando se busca mejorar manejo del injerto, cicatrización temprana y confort postoperatorio. La indicación debe documentarse en historia clínica, incluyendo protocolo de obtención y mezcla.
+
+**Recomendación cautelosa:** utilizar factores recombinantes solo en escenarios justificados, con conocimiento de ficha técnica, regulación local, dosis, carrier y alternativas disponibles. No deberían presentarse como solución rutinaria para cualquier defecto óseo.
+
+**No recomendado:** emplear factores de crecimiento como argumento comercial, prometer regeneración predecible por su sola aplicación o usarlos para ampliar indicaciones quirúrgicas más allá de la experiencia del operador y la evidencia disponible.
+
+## Conclusiones clínicas
+
+Los factores de crecimiento en regeneración ósea oral tienen una base biológica sólida y una evidencia clínica creciente, especialmente como adyuvantes de biomateriales en defectos contenidos, seno maxilar e implantología inmediata. Los resultados más consistentes apuntan a mejoras histomorfométricas, menor pérdida ósea marginal en algunos contextos y mejor cicatrización temprana.
+
+La evidencia, sin embargo, no permite convertirlos en estándar universal. La heterogeneidad de protocolos, la baja certeza de algunos metaanálisis y la falta de desenlaces clínicos homogéneos obligan a una aplicación selectiva. En práctica profesional, la pregunta no debe ser si “usar factores de crecimiento”, sino en qué defecto, con qué biomaterial, con qué carrier, con qué protocolo y qué resultado objetivo se pretende mejorar.
+
+---
+
+**FUENTES**
+
+1. Mendes VV, Martins FV, Mattos de Santana CM, Santana RB. *Do Recombinant, Purified, and Concentrated Growth Factors Enhance the Regenerative Potential of Particulate Bone Graft Substitutes in Maxillary Sinus Floor Augmentation? A Systematic Review and Meta-analysis*. Int J Oral Maxillofac Implants, 2024. DOI: 10.11607/jomi.10553. https://pubmed.ncbi.nlm.nih.gov/37939238/
+2. Sabri H, Manouchehri N, Mandil O, Alrmali A, AlHachache S, Rodriguez JC, Wang HL. *Efficacy of autogenous platelet concentrates in immediate implant therapy: A systematic review and meta-analysis of prospective controlled clinical trials*. Int J Oral Implantol (Berl), 2024. https://pubmed.ncbi.nlm.nih.gov/38801329/
+3. Liu et al. *Efficacy of different forms of concentrated growth factors combined with deproteinized bovine bone minerals in guided bone regeneration: a randomized clinical trial*. BMC Oral Health, 2025. DOI: 10.1186/s12903-025-05698-9. https://pmc.ncbi.nlm.nih.gov/articles/PMC11869682/
+4. Qadir BH et al. *Applications of Growth Factors in Implant Dentistry*. Current Issues in Molecular Biology, 2025. DOI: 10.3390/cimb47050317. https://pubmed.ncbi.nlm.nih.gov/40699716/
+5. Zhang et al. *Effect of platelet-derived bone enhancers used as adjuncts to deproteinized bovine bone matrix in maxillary sinus floor elevation: a systematic review and meta-analysis*. 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12228293/
+6. Esposito M, Grusovin MG, Felice P, Karatzopoulos G, Worthington HV, Coulthard P. *Interventions for replacing missing teeth: horizontal and vertical bone augmentation techniques for dental implant treatment*. Cochrane Database Syst Rev, 2009. DOI: 10.1002/14651858.CD003607.pub4. https://www.cochrane.org/evidence/CD003607_interventions-replacing-missing-teeth-horizontal-and-vertical-bone-augmentation-techniques-dental
