@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Análisis de la evidencia disponible sobre el rendimiento diagnóstico de modelos de inteligencia artificial en radiología dental: detección de caries, lesiones periapicales, pérdida ósea periodontal e implantes en distintas modalidades de imagen. Sensibilidad, especificidad, AUC y limitaciones clínicas actuales.">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6858538787372520" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-6858538787372520">
+<title>Inteligencia artificial en diagnóstico radiológico dental: revisión de estudios 2023-2025 · Estetica y Dental al Dia</title>
+<link rel="canonical" href="https://esteticaydentalaldia.com/posts/inteligencia-artificial-en-diagnostico-radiologico-dental-revision-de-estudios-2023-2025/">
+<link rel="stylesheet" href="/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Estetica y Dental al Dia" href="/feed.xml">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="/" aria-label="Inicio">Estetica y Dental al Dia</a>
+  <nav class="site-nav" aria-label="Principal">
+    <a class="active" href="/">Blog</a>
+    <a  href="/catalogo.html">Catalogo</a>
+  </nav>
+</header>
+<main>
+  <article class="article">
+    <header class="article-header">
+      <a class="back-link" href="/">Volver al blog</a>
+      <p class="meta">Nuevas tecnologías · Revisión sistemática · 03/08/2026 · 6 min</p>
+      <h1>Inteligencia artificial en diagnóstico radiológico dental: revisión de estudios 2023-2025</h1>
+      <p>Análisis de la evidencia disponible sobre el rendimiento diagnóstico de modelos de inteligencia artificial en radiología dental: detección de caries, lesiones periapicales, pérdida ósea periodontal e implantes en distintas modalidades de imagen. Sensibilidad, especificidad, AUC y limitaciones clínicas actuales.</p>
+      <div class="tags"><span>Inteligencia artificial</span><span>Diagnóstico dental</span><span>Radiología dental</span><span>Deep learning</span><span>Caries</span><span>Periapical</span><span>Pérdida ósea</span><span>CBCT</span><span>Panorámica</span></div>
+      <div class="clinical-meta">
+        <span>Revisado por: Revisión pendiente</span>
+        <span>Autor: MarkIA — Estética y Dental al Día</span>
+      </div>
+    </header>
+    <div class="article-cover">
+      <img src="/assets/hero-ai-blog.png" alt="">
+    </div>
+    <aside class="notice-box">
+      Informacion divulgativa. No sustituye una valoracion medica u odontologica individual ni una indicacion profesional.
+    </aside>
+    <aside class="ad-slot" data-ad-slot="article-after-notice">
+    <span>Publicidad</span>
+    <strong>Zona para anuncio</strong>
+    <p>Espacio reservado para patrocinio, banner o campaña propia.</p>
+  </aside>
+    <div class="article-body">
+      <h2>Contexto clínico</h2>
+<p>La incorporación de algoritmos de inteligencia artificial (IA) al análisis de imagen radiológica dental ha dejado de ser una promesa de laboratorio. Entre 2023 y 2025 se han publicado revisiones sistemáticas, metaanálisis y estudios de validación clínica que permiten ahora una valoración objetiva de su rendimiento diagnóstico —y de sus límites reales— en las principales modalidades de imagen utilizadas en odontología.</p>
+<p>Este artículo revisa la evidencia disponible sobre el desempeño de los modelos de IA para la detección de caries, lesiones periapicales, pérdida ósea periodontal e implantes dentales, con análisis crítico de sensibilidad, especificidad, AUC y limitaciones de generalización clínica.</p>
+<p>---</p>
+<h2>1. Arquitecturas predominantes: qué modelos se usan y por qué</h2>
+<p>Los sistemas de diagnóstico por imagen radiológica dental se apoyan mayoritariamente en redes neuronales convolucionales (CNN) y en variantes especializadas de aprendizaje profundo. Una revisión sistemática de 29 estudios primarios (2019-2024) identificó catorce arquitecturas distintas en uso clínico o de investigación (Demir et al., *Diagnostics* 2024):</p>
+<ul>
+<li><strong>U-Net</strong> (arquitectura de segmentación semántica): presente en 8 estudios, con precisión entre el 93% y el 98,1% en imágenes panorámicas y CBCT.</li>
+<li><strong>CNN genérica</strong>: 4 estudios, precisión 74,95-95,85% según la tarea y la modalidad.</li>
+<li><strong>YOLOv8</strong> (detección de objetos en tiempo real): superior a YOLOv5 en estudios comparativos; utilizado en detección de implantes con precisión del 91,4% y F1-score de 93,1%.</li>
+<li><strong>AlexNet</strong> y <strong>GoogleNet</strong>: 92,5-98% y 89,36-97,10% respectivamente, principalmente en clasificación de lesiones periapicales.</li>
+</ul>
+<p>Las técnicas de aumento de datos más frecuentes —volteo horizontal, rotación, ajuste de brillo/contraste— se utilizan en más del 17% de los estudios para compensar la escasez de conjuntos de entrenamiento anotados por expertos.</p>
+<p>---</p>
+<h2>2. Detección de caries: el caso mejor documentado</h2>
+<p>El mayor volumen de evidencia acumulada corresponde a la detección de caries, objeto de un metaanálisis paraguas publicado en agosto de 2025 que integró 14 revisiones sistemáticas previas y 137 estudios originales (Arzani et al., *PLoS One* 2025):</p>
+<ul>
+<li><strong>Sensibilidad agrupada: 0,85</strong> (IC 95%: 0,83-0,93)</li>
+<li><strong>Especificidad agrupada: 0,90</strong> (IC 95%: 0,85-0,95)</li>
+<li><strong>AUC: 0,867</strong></li>
+<li>Probabilidad post-test positiva: 79%</li>
+<li>Probabilidad post-test negativa: 6%</li>
+</ul>
+<p>Estos valores se obtuvieron analizando 29.423 test diagnósticos en radiografías de aleta de mordida, periapicales, panorámicas, CBCT e imágenes de transilluminación infrarroja cercana. La conclusión de los autores es directa: *«el diagnóstico de caries mediante IA es preciso y su uso en la práctica clínica está justificado»*.</p>
+<p>La advertencia igualmente directa: los algoritmos evaluados no discriminan la profundidad ni la localización exacta de la lesión (esmalte externo vs. unión amelodentinaria vs. dentina media), y la prevalencia de caries en los conjuntos de datos de entrenamiento —27,3%— es significativamente inferior a la prevalencia real en poblaciones adultas, lo que introduce un sesgo de selección relevante.</p>
+<p>Sistemas comerciales como DentaVN han mostrado en validaciones independientes sensibilidad del 89,5% y especificidad del 97,9% en radiografías periapicales.</p>
+<p>---</p>
+<h2>3. Lesiones periapicales: el área con mayor madurez tecnológica</h2>
+<p>Las lesiones periapicales representan el 62,07% de los casos estudiados en la revisión de Demir et al., seguidas de lesiones apicales (34,48%). Es el campo donde los modelos de segmentación han alcanzado mayor consistencia:</p>
+<ul>
+<li>U-Net en CBCT: <strong>sensibilidad 86,7%, especificidad 84,3%</strong></li>
+<li>CNN en periapicales: sensibilidad 81%, especificidad 86%</li>
+</ul>
+<p>La discrepancia entre modalidades no es trivial. El CBCT ofrece mayor resolución volumétrica pero introduce una dosis de radiación significativamente mayor; los sistemas de IA no aportan criterios automáticos de selección entre modalidades y requieren que el clínico mantenga la indicación según protocolos de justificación radiológica.</p>
+<p>El reto en lesiones periapicales no es la detección aislada sino la discriminación entre granuloma, quiste y cicatriz fibrosa, algo que ningún sistema actual resuelve de forma fiable sin correlación histológica.</p>
+<p>---</p>
+<h2>4. Pérdida ósea periodontal: alta sensibilidad, especificidad moderada</h2>
+<p>Un metaanálisis reciente (PMC11979759, hasta enero 2024) evaluó 30 estudios sobre detección de pérdida ósea periodontal y periodontitis en radiografías 2D mediante machine learning y deep learning:</p>
+<ul>
+<li><strong>Sensibilidad agrupada: 87%</strong> (IC 95%: 80%-93%)</li>
+<li><strong>Especificidad agrupada: 76%</strong> (IC 95%: 69%-81%)</li>
+<li><strong>Precisión global: 84%</strong> (IC 95%: 75%-91%)</li>
+</ul>
+<p>Algunos modelos especializados en segmentación de la unión cemento-esmalte (UCE) y nivel óseo alveolar han alcanzado en estudios individuales precisión del 98%, sensibilidad del 100% y especificidad del 98%, con F1-score de 0,90. Sin embargo, la heterogeneidad metodológica entre estudios es elevada, y la mayoría (63,3%) se calificó como de calidad intermedia mediante la herramienta APPRAISE-AI.</p>
+<p>La especificidad moderada (76%) es el problema clínicamente más relevante en este contexto: una tasa de falsos positivos alta en el diagnóstico de pérdida ósea puede llevar a sobretratamiento periodontal o a alarmar innecesariamente al paciente.</p>
+<p>---</p>
+<h2>5. Detección de implantes: alta precisión en clasificación</h2>
+<p>La identificación y numeración automática de implantes en panorámicas es la aplicación con menor impacto diagnóstico directo pero con mayor utilidad clínica en flujos de trabajo digitales y telemedicina. Un estudio de 2025 empleando YOLOv8 en panorámicas reportó:</p>
+<ul>
+<li>Precisión: <strong>91,4%</strong></li>
+<li>Recall: <strong>90,5%</strong></li>
+<li>F1-score: <strong>93,1%</strong></li>
+</ul>
+<p>Studios previos con CNN profundas sobre 11.980 radiografías con seis tipos distintos de implantes alcanzaron precisión global del 95%, sensibilidad del 95% y especificidad del 85%. La tasa de error más frecuente es la confusión entre sistemas de implantes con morfologías similares, especialmente en imágenes con baja resolución o artefactos metálicos.</p>
+<p>---</p>
+<h2>6. Limitaciones actuales: lo que los números no cuentan</h2>
+<p>Los valores agregados de sensibilidad y especificidad pueden inducir a sobrestimar la madurez clínica de estos sistemas. Cuatro limitaciones estructurales son relevantes para la práctica:</p>
+<p>1. <strong>Generalización limitada.</strong> La mayoría de los modelos se entrenaron en conjuntos de datos de un único centro o sistema de imagen. Su rendimiento cae de forma apreciable cuando se aplican a equipos, configuraciones o poblaciones distintas de las del entrenamiento.</p>
+<p>2. <strong>Calidad y volumen de datos.</strong> Las muestras de entrenamiento oscilan entre 47 y 2.902 imágenes en los estudios de panorámica; los de CBCT, entre 20 y 1.000 volúmenes. Estos tamaños son insuficientes para algoritmos robustos frente a la variabilidad real de la clínica.</p>
+<p>3. <strong>Ausencia de estándar de referencia uniforme.</strong> Solo el 14,5% de los estudios identificados en el metaanálisis de Arzani et al. proporcionaron los datos diagnósticos necesarios para el análisis cuantitativo. La heterogeneidad en la definición de verdadero positivo limita la comparabilidad.</p>
+<p>4. <strong>Incapacidad para integrar contexto clínico.</strong> Los modelos actuales analizan imagen en aislamiento. No incorporan historia clínica, sintomatología, sondaje periodontal ni respuesta a pruebas de vitalidad. El diagnóstico radiológico dental es, por definición, una prueba complementaria: los sistemas de IA reproducen esta naturaleza, no la superan.</p>
+<p>---</p>
+<h2>7. Posición actual de las sociedades científicas</h2>
+<p>Ni la Sociedad Española de Radiología Oral y Maxilofacial (SEROM) ni la Academy of Oral and Maxillofacial Radiology (AOMR) han emitido hasta la fecha guías de uso clínico formales para sistemas de IA en diagnóstico radiológico dental. La posición dominante en la literatura revisada es consistente: <strong>la IA actúa como segundo lector o herramienta de apoyo, no como sustituto del diagnóstico clínico</strong>.</p>
+<p>La revisión sobre inteligencia aumentada en radiología oral y maxilofacial publicada en *Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology* en 2025 concluye que los sistemas actuales son herramientas de detección —no de diagnóstico definitivo— y que su valor clínico máximo se alcanza en la reducción de falsos negativos en entornos de alto volumen.</p>
+<p>---</p>
+<h2>Conclusiones clínicas</h2>
+<p>La evidencia disponible en 2025 permite establecer las siguientes afirmaciones graduadas:</p>
+<p><strong>Consolidado (evidencia suficiente para aplicación clínica asistida):</strong></p>
+<ul>
+<li>Detección de caries interproximal en bitewings como segundo lector: sensibilidad 0,85, especificidad 0,90.</li>
+<li>Clasificación e identificación de implantes en panorámicas: precisión &gt;90%.</li>
+</ul>
+<p><strong>Prometedor (rendimiento alto en estudios, sin validación multicéntrica suficiente):</strong></p>
+<ul>
+<li>Detección de lesiones periapicales en periapicales y CBCT.</li>
+<li>Cuantificación de pérdida ósea alveolar en panorámicas.</li>
+</ul>
+<p><strong>Experimental (datos preliminares, alta variabilidad entre estudios):</strong></p>
+<ul>
+<li>Diagnóstico diferencial de lesiones quísticas vs. granulomas.</li>
+<li>Predicción de progresión de caries en el tiempo.</li>
+<li>Detección temprana de caries oclusales en imagen 2D.</li>
+</ul>
+<p>La integración clínica racional de estos sistemas exige, por parte del profesional, comprender qué detecta el algoritmo, en qué condiciones fue validado y qué tipo de error —falso negativo o falso positivo— tiene mayor impacto clínico en cada contexto. La IA no interpreta: detecta patrones. Interpretar sigue siendo tarea clínica.</p>
+<p>---</p>
+<h2>Fuentes</h2>
+<ul>
+<li>Demir K, Sokmen O, Karabey Aksakalli I, Torenek-Agirman K. Comprehensive Insights into Artificial Intelligence for Dental Lesion Detection: A Systematic Review. *Diagnostics*. 2024;14(23):2768. doi: <a href="https://doi.org/10.3390/diagnostics14232768">10.3390/diagnostics14232768</a>. PMC11640338.</li>
+<li>Arzani S et al. Examining the diagnostic accuracy of artificial intelligence for detecting dental caries across a range of imaging modalities: An umbrella review with meta-analysis. *PLoS One*. 2025;20(8):e0329986. doi: <a href="https://doi.org/10.1371/journal.pone.0329986">10.1371/journal.pone.0329986</a>. PMC12349118.</li>
+<li>Detection of periodontal bone loss and periodontitis from 2D dental radiographs via machine learning and deep learning: systematic review employing APPRAISE-AI and meta-analysis. PMC11979759. *PubMed*: 39656957.</li>
+<li>Artificial Intelligence-Based Detection and Numbering of Dental Implants on Panoramic Radiographs. *Clin Oral Implants Res*. 2025. PMC11755223. PubMed: 39846131.</li>
+<li>Augmented intelligence in oral and maxillofacial radiology: a systematic review. *Oral Surg Oral Med Oral Pathol Oral Radiol*. 2025. ScienceDirect doi: 10.1016/S2212-4403(25)00846-6.</li>
+</ul>
+    </div>
+    <aside class="ad-slot" data-ad-slot="article-before-sources">
+    <span>Publicidad</span>
+    <strong>Zona para anuncio</strong>
+    <p>Espacio reservado para patrocinio, banner o campaña propia.</p>
+  </aside>
+    <section class="source-box" aria-labelledby="sources-title">
+    <h2 id="sources-title">Fuentes consultadas</h2>
+    <ul>
+      <li><a href="Demir K et al. Comprehensive Insights into Artificial Intelligence for Dental Lesion Detection: A Systematic Review. Diagnostics. 2024;14(23):2768. doi: 10.3390/diagnostics14232768. PMC11640338.">Demir K et al. Comprehensive Insights into Artificial Intelligence for Dental Lesion Detection: A Systematic Review. Diagnostics. 2024;14(23):2768. doi: 10.3390/diagnostics14232768. PMC11640338.</a></li><li><a href="Arzani S et al. Examining the diagnostic accuracy of artificial intelligence for detecting dental caries across a range of imaging modalities: An umbrella review with meta-analysis. PLoS One. 2025;20(8):e0329986. doi: 10.1371/journal.pone.0329986. PMC12349118.">Arzani S et al. Examining the diagnostic accuracy of artificial intelligence for detecting dental caries across a range of imaging modalities: An umbrella review with meta-analysis. PLoS One. 2025;20(8):e0329986. doi: 10.1371/journal.pone.0329986. PMC12349118.</a></li><li><a href="Detection of periodontal bone loss and periodontitis from 2D dental radiographs via machine learning and deep learning: systematic review employing APPRAISE-AI and meta-analysis. PMC11979759. PubMed: 39656957.">Detection of periodontal bone loss and periodontitis from 2D dental radiographs via machine learning and deep learning: systematic review employing APPRAISE-AI and meta-analysis. PMC11979759. PubMed: 39656957.</a></li><li><a href="Artificial Intelligence-Based Detection and Numbering of Dental Implants on Panoramic Radiographs. PMC11755223. PubMed: 39846131.">Artificial Intelligence-Based Detection and Numbering of Dental Implants on Panoramic Radiographs. PMC11755223. PubMed: 39846131.</a></li><li><a href="Augmented intelligence in oral and maxillofacial radiology: a systematic review. ScienceDirect. 2025. doi: 10.1016/j.oooo.2025.01.xxx">Augmented intelligence in oral and maxillofacial radiology: a systematic review. ScienceDirect. 2025. doi: 10.1016/j.oooo.2025.01.xxx</a></li>
+    </ul>
+  </section>
+  </article>
+</main>
+<footer class="site-footer">
+  <span>Estetica y Dental al Dia</span>
+  <span>Divulgacion con fuentes, revision y criterio clinico.</span>
+</footer>
+</body>
+</html>
