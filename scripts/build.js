@@ -324,6 +324,18 @@ function renderPostCard(post, index) {
 
 function renderIndex(posts) {
   const latest = posts[0];
+  const headExtra = `<script type="application/ld+json">${JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: site.title,
+    url: site.url,
+    description: site.description,
+    publisher: {
+      "@type": "Organization",
+      name: site.title,
+      url: site.url
+    }
+  })}</script>`;
   const body = `<main>
   <section class="hero" style="background-image: linear-gradient(90deg, rgba(12,22,24,.78), rgba(12,22,24,.28), rgba(12,22,24,.06)), url('/assets/hero-ai-blog.png')">
     <div class="hero-copy">
@@ -366,12 +378,24 @@ function renderIndex(posts) {
     </div>
   </section>
 </main>`;
-  return layout({ title: "Blog", description: site.description, body, canonicalPath: "/" });
+  return layout({ title: "Blog", description: site.description, body, canonicalPath: "/", headExtra });
 }
 
 function renderCatalog(posts) {
   const categories = [...new Set(posts.map((post) => post.category))].sort();
   const topics = [...new Set(posts.flatMap((post) => post.tags))].sort();
+  const headExtra = `<script type="application/ld+json">${JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Catalogo de articulos",
+    url: new URL("/catalogo.html", site.url).href,
+    description: "Catalogo de articulos por tema, categoria y tratamiento.",
+    isPartOf: {
+      "@type": "WebSite",
+      name: site.title,
+      url: site.url
+    }
+  })}</script>`;
   const body = `<main>
   <section class="catalog-hero" aria-labelledby="catalog-title">
     <p class="eyebrow">Catalogo</p>
@@ -402,7 +426,7 @@ function renderCatalog(posts) {
   </section>
 </main>
 <script src="/catalogo.js"></script>`;
-  return layout({ title: "Catalogo", description: "Catalogo de articulos por tema, categoria y tratamiento.", body, active: "catalog", canonicalPath: "/catalogo.html" });
+  return layout({ title: "Catalogo", description: "Catalogo de articulos por tema, categoria y tratamiento.", body, active: "catalog", canonicalPath: "/catalogo.html", headExtra });
 }
 
 function renderPost(post) {
