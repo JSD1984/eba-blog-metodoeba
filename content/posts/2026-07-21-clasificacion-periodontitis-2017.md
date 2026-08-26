@@ -10,7 +10,7 @@ reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Periodoncia", "Periodontitis", "Clasificación 2017", "Estadios", "Grados", "Diagnóstico periodontal"]
 sources: ["Papapanou PN et al. J Periodontol. 2018. DOI: 10.1002/JPER.17-0721", "Tonetti MS et al. J Periodontol. 2018. DOI: 10.1002/JPER.18-0006", "Sanz M et al. J Clin Periodontol. 2020. DOI: 10.1111/jcpe.13290", "Herrera D et al. J Clin Periodontol. 2022. DOI: 10.1111/jcpe.13639", "Raza M et al. BMC Oral Health. 2024. DOI: 10.1186/s12903-024-04385-5", "Saleh O et al. Oral Diseases. 2025. DOI: 10.1111/odi.15297", "Salinas TJ et al. J Periodontol. 2024;95(8). PMC11284269", "PMC8959339 — Tobacco, diabetes and periodontal disease. 2022"]
 status: "published"
-cover: "/assets/blog/art001_periodontitis_cover.jpg"
+cover: "/assets/hero-ai-blog.png"
 ---
 
 Entra un paciente. Cuarenta y dos años. Fumador de siete cigarrillos al día. La panorámica muestra pérdida ósea en molares y en los dos incisivos centrales inferiores. Sondaje: tres bolsas de 6 mm y una de 7 mm. Sin movilidad. Con higiene aceptable.

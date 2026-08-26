@@ -29,6 +29,25 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
+function truncateText(value, maxLength) {
+  const text = String(value || "").replace(/\s+/g, " ").trim();
+  if (text.length <= maxLength) {
+    return text;
+  }
+  const cut = text.slice(0, maxLength - 1);
+  const lastSpace = cut.lastIndexOf(" ");
+  return `${cut.slice(0, lastSpace > 48 ? lastSpace : cut.length).trim()}…`;
+}
+
+function pageTitle(title) {
+  const base = String(title || site.title).trim();
+  const withBrand = `${base} · ${site.title}`;
+  if (withBrand.length <= 68) {
+    return withBrand;
+  }
+  return truncateText(base, 68);
+}
+
 function slugify(value) {
   return String(value)
     .normalize("NFD")
@@ -215,19 +234,21 @@ function formatDate(date) {
   return `${day}/${month}/${year}`;
 }
 
-function layout({ title, description, body, active = "blog", canonicalPath = "/" }) {
+function layout({ title, description, body, active = "blog", canonicalPath = "/", headExtra = "" }) {
   const canonicalUrl = new URL(canonicalPath, site.url).href;
+  const metaDescription = truncateText(description || site.description, 158);
   return `<!doctype html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="${escapeHtml(description || site.description)}">
+<meta name="description" content="${escapeHtml(metaDescription)}">
 ${adsenseHead}
-<title>${escapeHtml(title)} · ${escapeHtml(site.title)}</title>
+<title>${escapeHtml(pageTitle(title))}</title>
 <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
 <link rel="stylesheet" href="/styles.css">
 <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.title)}" href="/feed.xml">
+${headExtra}
 </head>
 <body>
 <header class="site-header">
@@ -385,6 +406,32 @@ function renderCatalog(posts) {
 }
 
 function renderPost(post) {
+  const canonicalUrl = new URL(post.url, site.url).href;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    headline: post.title,
+    description: truncateText(post.excerpt, 158),
+    datePublished: post.date,
+    dateModified: post.date,
+    author: {
+      "@type": "Person",
+      name: post.author
+    },
+    reviewedBy: {
+      "@type": "Person",
+      name: post.reviewedBy
+    },
+    publisher: {
+      "@type": "Organization",
+      name: site.title,
+      url: site.url
+    },
+    mainEntityOfPage: canonicalUrl,
+    image: new URL(post.cover, site.url).href,
+    citation: post.sources
+  };
+  const headExtra = `<script type="application/ld+json">${JSON.stringify(schema)}</script>`;
   const body = `<main>
   <article class="article">
     <header class="article-header">
@@ -412,7 +459,7 @@ function renderPost(post) {
     ${renderSourceList(post.sources)}
   </article>
 </main>`;
-  return layout({ title: post.title, description: post.excerpt, body, canonicalPath: post.url });
+  return layout({ title: post.title, description: post.excerpt, body, canonicalPath: post.url, headExtra });
 }
 
 function renderFeed(posts) {
@@ -451,17 +498,34 @@ function writeFile(filePath, content) {
 }
 
 function buildSite() {
+  const preservedAssets = {};
+  for (const asset of ["assets/hero-ai-blog.png"]) {
+    const assetPath = path.join(publicDir, asset);
+    if (fs.existsSync(assetPath)) {
+      preservedAssets[asset] = fs.readFileSync(assetPath);
+    }
+  }
+
   const posts = readPosts().map((post) => ({
     ...post,
     url: `/posts/${post.slug}/`
   }));
 
-  fs.rmSync(path.join(publicDir, "posts"), { recursive: true, force: true });
+  fs.rmSync(publicDir, { recursive: true, force: true });
+  for (const [asset, buffer] of Object.entries(preservedAssets)) {
+    writeFile(path.join(publicDir, asset), buffer);
+  }
+
   writeFile(path.join(publicDir, "index.html"), renderIndex(posts));
   writeFile(path.join(publicDir, "catalogo.html"), renderCatalog(posts));
   writeFile(path.join(publicDir, "posts.json"), JSON.stringify(posts.map(({ body, html, ...post }) => post), null, 2));
   writeFile(path.join(publicDir, "feed.xml"), renderFeed(posts));
   writeFile(path.join(publicDir, "sitemap.xml"), renderSitemap(posts));
+  writeFile(path.join(publicDir, "robots.txt"), `User-agent: *
+Allow: /
+
+Sitemap: ${site.url}/sitemap.xml
+`);
   writeFile(path.join(publicDir, "ads.txt"), adsense.adsTxt);
   writeFile(path.join(publicDir, "styles.css"), fs.readFileSync(path.join(rootDir, "styles.css"), "utf8"));
 
