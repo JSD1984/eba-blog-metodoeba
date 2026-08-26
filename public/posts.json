@@ -1238,33 +1238,35 @@
   {
     "file": "2026-07-21-clasificacion-periodontitis-2017.md",
     "slug": "clasificacion-periodontitis-2017",
-    "title": "Clasificación de periodontitis 2017: guía clínica de aplicación",
+    "title": "Clasificación de periodontitis 2017: lo que cambia en la consulta cuando dejas de usar etiquetas viejas",
     "date": "2026-07-21",
-    "author": "MarkIA — Estética y Dental al Día",
+    "author": "Dr. J. Sánchez",
     "category": "Periodoncia",
-    "evidence": "Guía clínica",
-    "excerpt": "Guía clínica para aplicar la clasificación AAP/EFP 2017 de periodontitis mediante estadios, grados, extensión y modificadores de riesgo.",
-    "readingTime": "6 min",
-    "reviewedBy": "Revisión pendiente",
+    "evidence": "Revisión clínica con fuentes indexadas",
+    "excerpt": "La clasificación AAP/EFP 2017 no es un trámite burocrático. Cambia cómo decides el tratamiento, el mantenimiento y la conversación con el paciente.",
+    "readingTime": "7 min",
+    "reviewedBy": "Dr. J. Sánchez",
     "status": "published",
     "tags": [
       "Periodoncia",
       "Periodontitis",
       "Clasificación 2017",
       "Estadios",
-      "Grados"
+      "Grados",
+      "Diagnóstico periodontal"
     ],
     "sources": [
-      "Papapanou PN et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop. Journal of Periodontology. 2018. DOI: 10.1002/JPER.17-0721",
-      "\"Tonetti MS",
-      "Greenwell H",
-      "Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. Journal of Periodontology. 2018. DOI: 10.1002/JPER.18-0006\"",
-      "Sanz M et al. Treatment of stage I-III periodontitis: The EFP S3 level clinical practice guideline. Journal of Clinical Periodontology. 2020. DOI: 10.1111/jcpe.13290",
-      "Herrera D et al. Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline. Journal of Clinical Periodontology. 2022. DOI: 10.1111/jcpe.13639",
-      "Raza M et al. Ease and practicability of the 2017 classification of periodontal diseases and conditions: a study of dental electronic health records. BMC Oral Health. 2024. DOI: 10.1186/s12903-024-04385-5",
-      "Saleh O et al. Periodontitis: Grade Modifiers Revisited. Oral Diseases. 2025. DOI: 10.1111/odi.15297"
+      "Papapanou PN et al. J Periodontol. 2018. DOI: 10.1002/JPER.17-0721",
+      "Tonetti MS et al. J Periodontol. 2018. DOI: 10.1002/JPER.18-0006",
+      "Sanz M et al. J Clin Periodontol. 2020. DOI: 10.1111/jcpe.13290",
+      "Herrera D et al. J Clin Periodontol. 2022. DOI: 10.1111/jcpe.13639",
+      "Raza M et al. BMC Oral Health. 2024. DOI: 10.1186/s12903-024-04385-5",
+      "Saleh O et al. Oral Diseases. 2025. DOI: 10.1111/odi.15297",
+      "Salinas TJ et al. J Periodontol. 2024;95(8). PMC11284269",
+      "\"PMC8959339 — Tobacco",
+      "diabetes and periodontal disease. 2022\""
     ],
-    "cover": "/assets/hero-ai-blog.png",
+    "cover": "/assets/blog/art001_periodontitis_cover.jpg",
     "url": "/posts/clasificacion-periodontitis-2017/"
   },
   {
