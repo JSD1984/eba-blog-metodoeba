@@ -257,10 +257,27 @@ function renderSourceList(sources) {
   if (!sources.length) {
     return "";
   }
+
+  function renderSource(source) {
+    const value = String(source);
+    const escaped = escapeHtml(value);
+    if (/^https?:\/\//i.test(value)) {
+      return `<a href="${escaped}">${escaped}</a>`;
+    }
+    return escaped.replace(
+      /(https?:\/\/[^\s)]+|\bdoi:\s*10\.[^\s,;]+|\bDOI:\s*10\.[^\s,;]+)/g,
+      (match) => {
+        const clean = match.replace(/^doi:\s*/i, "");
+        const href = /^https?:\/\//i.test(clean) ? clean : `https://doi.org/${clean}`;
+        return `<a href="${escapeHtml(href)}">${escapeHtml(match)}</a>`;
+      }
+    );
+  }
+
   return `<section class="source-box" aria-labelledby="sources-title">
     <h2 id="sources-title">Fuentes consultadas</h2>
     <ul>
-      ${sources.map((source) => `<li><a href="${escapeHtml(source)}">${escapeHtml(source)}</a></li>`).join("")}
+      ${sources.map((source) => `<li>${renderSource(source)}</li>`).join("")}
     </ul>
   </section>`;
 }

@@ -1,12 +1,12 @@
 ---
 title: "Enfisema subcutaneo en odontologia: causas, diagnostico y manejo urgente"
 date: "2026-07-30"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Complicaciones y manejo"
 evidence: "Guia clinica"
 excerpt: "Guia clinica sobre el enfisema subcutaneo como complicacion iatrogenica dental: mecanismo de propagacion, procedimientos de riesgo, diagnostico diferencial y protocolo de actuacion urgente."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Enfisema subcutaneo", "Complicaciones dentales", "Cirugia oral", "Urgencias odontologicas", "Neumomediastino"]
 sources: ["Jones A, Stagnell S, Renton T, Aggarwal VR, Moore R. Causes of subcutaneous emphysema following dental procedures: a systematic review of cases 1993-2020. Br Dent J. 2021;231(8):493-500. doi: 10.1038/s41415-021-3564-0", "Lee SW, Huh YH, Cha MS. Iatrogenic subcutaneous cervicofacial emphysema with pneumomediastinum after class V restoration. J Korean Assoc Oral Maxillofac Surg. 2017;43(1):49-52. doi: 10.5125/jkaoms.2017.43.1.49", "Mascarenhas RJ. Management of subcutaneous facial emphysema secondary to a class V dental restoration. Clin Case Rep. 2019;7(5):1025-1030. doi: 10.1002/ccr3.2141", "Bilecenoglu B, Onul M, Altay OT, Sakul BU. Cervicofacial emphysema after dental treatment with emphasis on the anatomy of the cervical fascia. J Craniofac Surg. 2012;23(6):e544-e548. doi: 10.1097/SCS.0b013e31825aef02", "Hernandez Mingorance A, et al. Enfisema subcutaneo como complicacion de procedimientos de cirugia oral. Rev Esp Cirug Oral Maxilofac. 2020. https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1130-05582020000100010"]
 status: "published"

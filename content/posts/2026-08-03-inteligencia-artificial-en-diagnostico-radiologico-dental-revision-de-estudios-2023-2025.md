@@ -1,12 +1,12 @@
 ---
 title: "Inteligencia artificial en diagnóstico radiológico dental: revisión de estudios 2023-2025"
 date: "2026-08-03"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Nuevas tecnologías"
 evidence: "Revisión sistemática"
 excerpt: "Análisis de la evidencia disponible sobre el rendimiento diagnóstico de modelos de inteligencia artificial en radiología dental: detección de caries, lesiones periapicales, pérdida ósea periodontal e implantes en distintas modalidades de imagen. Sensibilidad, especificidad, AUC y limitaciones clínicas actuales."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Inteligencia artificial", "Diagnóstico dental", "Radiología dental", "Deep learning", "Caries", "Periapical", "Pérdida ósea", "CBCT", "Panorámica"]
 sources: ["Demir K et al. Comprehensive Insights into Artificial Intelligence for Dental Lesion Detection: A Systematic Review. Diagnostics. 2024;14(23):2768. doi: 10.3390/diagnostics14232768. PMC11640338.", "Arzani S et al. Examining the diagnostic accuracy of artificial intelligence for detecting dental caries across a range of imaging modalities: An umbrella review with meta-analysis. PLoS One. 2025;20(8):e0329986. doi: 10.1371/journal.pone.0329986. PMC12349118.", "Detection of periodontal bone loss and periodontitis from 2D dental radiographs via machine learning and deep learning: systematic review employing APPRAISE-AI and meta-analysis. PMC11979759. PubMed: 39656957.", "Artificial Intelligence-Based Detection and Numbering of Dental Implants on Panoramic Radiographs. PMC11755223. PubMed: 39846131.", "Augmented intelligence in oral and maxillofacial radiology: a systematic review. ScienceDirect. 2025. doi: 10.1016/j.oooo.2025.01.xxx"]
 status: "published"

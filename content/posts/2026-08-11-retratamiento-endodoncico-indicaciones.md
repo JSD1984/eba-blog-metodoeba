@@ -1,12 +1,12 @@
 ---
 title: "Retratamiento endodoncico frente a extraccion e implante: criterios clinicos de decision"
 date: "2026-08-11"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Endodoncia"
 evidence: "Comparativa"
 excerpt: "Comparativa profesional para decidir entre retratamiento ortogrado, cirugia apical, extraccion e implante en dientes endodonciados con periodontitis apical persistente."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Endodoncia", "Retratamiento", "Periodontitis apical", "Implantes", "Toma de decisiones"]
 sources: ["https://doi.org/10.1111/iej.13793", "https://doi.org/10.1111/iej.13914", "https://doi.org/10.7759/cureus.98601", "https://doi.org/10.1002/14651858.CD005511.pub3", "https://www.aae.org/patients/root-canal-treatment/endodontic-treatment-options/"]
 status: "published"
@@ -43,13 +43,13 @@ La extraccion con implante es una opcion restauradora consolidada, pero no es el
 
 El implante introduce otros riesgos: periimplantitis, complicaciones biologicas y mecanicas, necesidad de regeneracion, exigencias esteticas en zona anterior y dependencia de mantenimiento. Por eso, en un diente restaurable y periodontablemente estable, la extraccion temprana no siempre mejora el pronostico del paciente; cambia un problema endodontico por un escenario implantoprotesico.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-Consolidado: diagnostico causal, evaluacion de restaurabilidad, retratamiento ortogrado cuando existe infeccion intrarradicular corregible, cirugia apical cuando el acceso ortogrado no es razonable, y extraccion cuando el diente no puede mantenerse con pronostico funcional. Tambien esta consolidado que el sellado coronario y la restauracion definitiva son parte del tratamiento, no un paso administrativo posterior.
+Lo suficientemente establecido: diagnostico causal, evaluacion de restaurabilidad, retratamiento ortogrado cuando existe infeccion intrarradicular corregible, cirugia apical cuando el acceso ortogrado no es razonable, y extraccion cuando el diente no puede mantenerse con pronostico funcional. Tambien esta consolidado que el sellado coronario y la restauracion definitiva son parte del tratamiento, no un paso administrativo posterior.
 
-Prometedor: el uso sistematico de CBCT de pequeno campo para afinar casos complejos, magnificacion operatoria, ultrasonidos, puntas microquirurgicas y materiales bioceramicos para sellado apical o reparaciones. Estas herramientas mejoran la ejecucion, pero no compensan una indicacion mal planteada.
+Aún en desarrollo: el uso sistematico de CBCT de pequeno campo para afinar casos complejos, magnificacion operatoria, ultrasonidos, puntas microquirurgicas y materiales bioceramicos para sellado apical o reparaciones. Estas herramientas mejoran la ejecucion, pero no compensan una indicacion mal planteada.
 
-Experimental o insuficientemente establecido: atribuir el exito a tecnologias aisladas, protocolos antimicrobianos no validados o decisiones basadas solo en imagen volumetrica sin correlacion clinica. La evidencia Cochrane sobre procedimientos de retratamiento ya advertia que la comparacion entre abordajes esta limitada por la calidad y heterogeneidad de los estudios; las revisiones mas recientes no eliminan por completo esa incertidumbre.
+No lo trataría como estándar o insuficientemente establecido: atribuir el exito a tecnologias aisladas, protocolos antimicrobianos no validados o decisiones basadas solo en imagen volumetrica sin correlacion clinica. La evidencia Cochrane sobre procedimientos de retratamiento ya advertia que la comparacion entre abordajes esta limitada por la calidad y heterogeneidad de los estudios; las revisiones mas recientes no eliminan por completo esa incertidumbre.
 
 ## Recomendacion practica
 

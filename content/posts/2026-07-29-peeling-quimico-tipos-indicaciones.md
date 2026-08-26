@@ -1,12 +1,12 @@
 ---
 title: "Peelings quimicos: profundidad, indicaciones y seleccion del paciente"
 date: "2026-07-29"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Dermatología estética"
 evidence: "Guía clínica"
 excerpt: "Guia profesional sobre peelings quimicos: clasificacion por profundidad, agentes habituales, indicaciones razonables, contraindicaciones y prevencion de complicaciones."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Peeling quimico", "Dermatologia estetica", "Melasma", "Acne", "Fotoenvejecimiento"]
 sources: ["Ding Y, Gao L, He L, et al. Expert Consensus on the Clinical Application of Chemical Peels in China (2022). Int J Dermatol Venereol. 2024;7(4):249-256. doi: 10.1097/JD9.0000000000000363", "Almeman AA. Evaluating the Efficacy and Safety of Alpha-Hydroxy Acids in Dermatological Practice: A Comprehensive Clinical and Legal Review. Clin Cosmet Investig Dermatol. 2024;17:1661-1685. doi: 10.2147/CCID.S453243", "Sarkar R, Katoch S. Chemical Peels in Treatment of Melasma. Dermatol Clin. 2024;42(1):21-32. doi: 10.1016/j.det.2023.06.003", "Murray TN, Lohray R, Schultz KP, Boutros S, Friedman PM. Complications of Chemical Peels, Lasers, and Energy-Based Device Procedures Performed by Core Cosmetic Physicians: A Retrospective Analysis. Lasers Surg Med. 2024;56(7):619-624. doi: 10.1002/lsm.23820", "Waldman A, Bolotin D, Arndt KA, et al. ASDS Guidelines Task Force: Consensus Recommendations Regarding the Safety of Lasers, Dermabrasion, Chemical Peels, Energy Devices, and Skin Surgery During and After Isotretinoin Use. Dermatol Surg. 2017;43(10):1249-1262. doi: 10.1097/DSS.0000000000001166", "Vemula S, Maymone MBC, Secemsky EA, et al. Assessing the safety of superficial chemical peels in darker skin: A retrospective study. J Am Acad Dermatol. 2018;79(3):508-513.e2. doi: 10.1016/j.jaad.2018.02.064"]
 status: "published"
@@ -39,7 +39,7 @@ En acne activo, el peeling superficial puede integrarse como adyuvante de tratam
 
 En melasma, la evidencia favorece el uso de peelings como complemento, no como monoterapia definitiva. Sarkar y Katoch revisan en 2024 que la respuesta puede ser util, pero el melasma es cronico y recurrente; la inflamacion excesiva puede empeorarlo. La preparacion con despigmentantes, retinoides si procede, fotoproteccion visible y ultravioleta, y control de desencadenantes hormonales o inflamatorios son parte del tratamiento, no detalles accesorios.
 
-En fotoenvejecimiento, el peeling superficial seriado puede mejorar textura y pigmento epidermico. El peeling medio puede ser mas adecuado para queratosis actinicas, lentigos y arruga fina, siempre que se valore el balance entre beneficio esperado y recuperacion. En Ocean Clinik, cuando se integra esta tecnica, se plantea dentro de una valoracion dermatologica y no como un procedimiento aislado de agenda estetica.
+En fotoenvejecimiento, el peeling superficial seriado puede mejorar textura y pigmento epidermico. El peeling medio puede ser mas adecuado para queratosis actinicas, lentigos y arruga fina, siempre que se valore el balance entre beneficio esperado y recuperacion.
 
 ## Contraindicaciones y preparacion
 
@@ -55,6 +55,6 @@ La respuesta profesional ante una complicacion debe ser precoz. Dolor desproporc
 
 ## Puntos clave
 
-Consolidado: los peelings superficiales son herramientas utiles para acne, dischromias, melasma como adyuvante y fotoenvejecimiento leve cuando se seleccionan por diagnostico y fototipo. Prometedor: combinaciones secuenciales y protocolos personalizados por barrera cutanea, pigmentacion y exposicion solar pueden mejorar tolerancia y resultados, pero requieren medicion objetiva y no solo impresion visual. Experimental o de alto riesgo: peelings profundos, combinaciones agresivas y promesas de correccion global deben reservarse a profesionales entrenados y a indicaciones estrictas.
+Lo suficientemente establecido: los peelings superficiales son herramientas utiles para acne, dischromias, melasma como adyuvante y fotoenvejecimiento leve cuando se seleccionan por diagnostico y fototipo. Prometedor: combinaciones secuenciales y protocolos personalizados por barrera cutanea, pigmentacion y exposicion solar pueden mejorar tolerancia y resultados, pero requieren medicion objetiva y no solo impresion visual. Experimental o de alto riesgo: peelings profundos, combinaciones agresivas y promesas de correccion global deben reservarse a profesionales entrenados y a indicaciones estrictas.
 
 El peeling quimico no es un producto; es una decision clinica dosificada. Su seguridad procede menos del nombre del acido que del criterio con el que se indica, se prepara, se ejecuta y se revisa.

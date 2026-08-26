@@ -1,12 +1,12 @@
 ---
 title: "Er:YAG en tejido duro y blando: configuración clínica y comparativa con bisturí"
 date: "2026-08-15"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Láser médico"
 evidence: "Comparativa"
 excerpt: "El láser Er:YAG (2940 nm) trabaja sobre esmalte, dentina, hueso y mucosa en un mismo dispositivo. Revisamos los parámetros de configuración, las indicaciones validadas y los resultados comparados con instrumental convencional."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Láser Er:YAG", "Tejido duro", "Tejido blando", "Cirugía oral", "Periodoncia", "Implantología", "Odontología mínimamente invasiva"]
 sources: ["https://pmc.ncbi.nlm.nih.gov/articles/PMC10750110/", "https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-024-05120-w", "https://link.springer.com/article/10.1007/s10103-023-03868-1", "https://www.sciencedirect.com/science/article/pii/S0300571225001423", "https://www.mdpi.com/2079-4983/17/6/287", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12194413/", "https://www.jocpd.com/articles/10.22514/jocpd.2024.118"]
 status: "published"

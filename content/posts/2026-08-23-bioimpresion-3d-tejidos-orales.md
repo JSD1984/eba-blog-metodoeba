@@ -1,12 +1,12 @@
 ---
 title: "Bioimpresión 3D de tejidos orales: investigación actual y aplicabilidad clínica"
 date: "2026-08-23"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Nuevas tecnologías"
 evidence: "Evidencia experimental"
 excerpt: "La bioimpresión 3D abre una vía para fabricar constructos personalizados de pulpa-dentina, periodonto y hueso alveolar, pero su traslación clínica sigue limitada por la vascularización, la maduración tisular y la ausencia de ensayos robustos."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Bioimpresión 3D", "Ingeniería tisular", "Regeneración oral", "Periodonto", "Pulpa dental", "Biomateriales"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/38456006/", "https://pubmed.ncbi.nlm.nih.gov/39194459/", "https://pubmed.ncbi.nlm.nih.gov/38391897/", "https://pubmed.ncbi.nlm.nih.gov/36931083/"]
 status: "published"
@@ -49,7 +49,7 @@ La impresión de andamiajes personalizados para reconstrucción alveolar es una 
 
 En reconstrucción ósea, la impresión 3D puede entenderse hoy como una herramienta de diseño y fabricación de biomateriales, no como una sustitución directa de injertos autólogos, xenoinjertos, aloinjertos o membranas en protocolos clínicos establecidos.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
 ### Consolidado
 

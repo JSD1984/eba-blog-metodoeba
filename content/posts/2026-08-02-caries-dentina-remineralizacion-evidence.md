@@ -1,12 +1,12 @@
 ---
 title: "Remineralización de caries de dentina: revisión de protocolos no invasivos"
 date: "2026-08-02"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Revisiones científicas"
 evidence: "Revisión sistemática"
 excerpt: "Revisión actualizada de los protocolos no invasivos para la remineralización de caries de dentina: fluoruro diamino de plata, agentes biomimético-miméticos (CPP-ACP, hidroxiapatita carbonatada), biocerámicos y resinas infiltrantes. Análisis de la evidencia disponible, indicaciones clínicas y recomendaciones graduadas para la toma de decisiones."
 readingTime: "5 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Remineralización", "Caries de dentina", "Fluoruro diamino de plata", "CPP-ACP", "Biomimético", "Odontología mínimamente invasiva", "Revisión sistemática"]
 sources: ["Taha NA et al. Effectiveness of remineralizing dentifrices against caries lesions: A systematic approach. PMC12799551. J Dent. 2025.", "Gao SS et al. The role of silver diamine fluoride as dental caries preventive and arresting agent: a systematic review and meta-analysis. J Dent Res. 2024. PMC11628507. doi: 10.1177/00220345241290012", "Duangthip D et al. Effectiveness of Silver Diamine Fluoride in Arresting Caries in Primary and Early Mixed Dentition: A Systematic Review. PMC9497160. Caries Res. 2022.", "Nedelcu AM et al. Evaluating the remineralisation potential and clinical evidence of emerging biocompatible materials in restorative dentistry: a systematic review. PMC13093248. J Dent. 2025.", "Valizadeh S et al. Comparative Efficacy of Novel Biomimetic Remineralising Technologies. Biomimetics. 2023;8(1):17. doi: 10.3390/biomimetics8010017", "Crystal YO et al. Evidence-based approaches for nonrestorative treatments within modern caries management. J Am Dent Assoc. 2024;155(9). doi: 10.1016/j.adaj.2024.07.002", "Hannigan M et al. Biomimetic Remineralization Strategies for Dentin Bond Stability—Systematic Review and Network Meta-Analysis. PMC12027409. J Dent. 2025.", "Can New Remineralizing Agents Serve as Fluoride Alternatives in Caries Prevention? A Scoping Review. Dent J (Basel). 2023;5(3):47. doi: 10.3390/dj5030047"]
 status: "published"
@@ -43,7 +43,7 @@ El mecanismo es dual:
 
 La principal limitación estética —la pigmentación negra irreversible de la dentina arrestada— condiciona su aplicabilidad en sectores anteriores y en pacientes con alta demanda estética. La combinación SDF + KI (ioduro potásico) reduce parcialmente la tinción, aunque una revisión sistemática de 2022 (Duangthip et al., PMC9497160) señala que la adición de KI puede reducir la fracción preventiva en aproximadamente 10 puntos porcentuales.
 
-**Indicación consolidada:** lesiones cavitadas de dentina activas en sectores posteriores, pacientes pediátricos, adultos mayores, pacientes con limitaciones de acceso. **Prometedor:** lesiones profundas en adultos jóvenes en combinación con restauración diferida.
+**Indicación consolidada:** lesiones cavitadas de dentina activas en sectores posteriores, pacientes pediátricos, adultos mayores, pacientes con limitaciones de acceso. **Aún en desarrollo:** lesiones profundas en adultos jóvenes en combinación con restauración diferida.
 
 ---
 
@@ -55,7 +55,7 @@ Un estudio comparativo publicado en *Biomimetics* (Valizadeh et al., 2023) que e
 
 La evidencia clínica en dentina cariosa —a diferencia de la bien documentada en mancha blanca y lesiones de esmalte— sigue siendo escasa. Una revisión sistemática y metaanálisis de red publicada en 2025 (Hannigan et al., PMC12027409) sobre estabilidad adhesiva y remineralización dentinaria biomimética concluye que CPP-ACP mejora estadísticamente la microdureza de la dentina desmineralizada, pero que los estudios con seguimiento clínico de lesiones activas son insuficientes para recomendaciones de Clase I.
 
-**Indicación consolidada:** adyuvante en protocolos de remineralización de lesiones iniciales de dentina y protección del tejido dentinario en procedimientos adhesivos. **Prometedor:** integración en protocolos de «caries control» diferidos antes de restauración.
+**Indicación consolidada:** adyuvante en protocolos de remineralización de lesiones iniciales de dentina y protección del tejido dentinario en procedimientos adhesivos. **Aún en desarrollo:** integración en protocolos de «caries control» diferidos antes de restauración.
 
 ---
 

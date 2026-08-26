@@ -1,12 +1,12 @@
 ---
 title: "Cerámicas dentales: feldespática, disilicato de litio y zirconia — propiedades y selección clínica"
 date: "2026-08-25"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Materiales y biomateriales"
 evidence: "Comparativa"
 excerpt: "La selección entre cerámica feldespática, disilicato de litio y zirconia no debe basarse solo en estética o resistencia aislada, sino en microestructura, adhesión, espesor disponible, carga funcional, desgaste antagonista y evidencia clínica por indicación."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Cerámicas dentales", "Disilicato de litio", "Zirconia", "Feldespática", "Prótesis fija", "Biomateriales"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/36216448/", "https://pubmed.ncbi.nlm.nih.gov/37213959/", "https://pubmed.ncbi.nlm.nih.gov/39687636/", "https://www.sciencedirect.com/science/article/pii/S0300571224005529"]
 status: "published"
@@ -63,13 +63,13 @@ Para carillas de alta exigencia estética con esmalte suficiente, la feldespáti
 
 En puentes, la decisión debe ser más conservadora. La longitud, el tamaño de conectores, el soporte periodontal, la oclusión y el historial de chipping pesan más que la preferencia estética inicial. En rehabilitaciones extensas, la planificación debe integrar encerado diagnóstico, análisis oclusal, mock-up cuando proceda, provisionales evaluables y comunicación estrecha con el laboratorio.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-Consolidado: uso de feldespática en carillas seleccionadas, disilicato de litio en restauraciones unitarias adhesivas y zirconia monolítica en coronas posteriores o indicaciones de alta carga, siempre con protocolos de superficie adecuados.
+Lo suficientemente establecido: uso de feldespática en carillas seleccionadas, disilicato de litio en restauraciones unitarias adhesivas y zirconia monolítica en coronas posteriores o indicaciones de alta carga, siempre con protocolos de superficie adecuados.
 
-Prometedor: zirconias multicapa de alta translucidez, cerámicas híbridas y flujos CAD/CAM que optimizan espesores, ajuste marginal y comunicación clínica-laboratorio. Su interés es real, pero debe valorarse por estudios independientes y seguimiento clínico, no por claims de catálogo.
+Aún en desarrollo: zirconias multicapa de alta translucidez, cerámicas híbridas y flujos CAD/CAM que optimizan espesores, ajuste marginal y comunicación clínica-laboratorio. Su interés es real, pero debe valorarse por estudios independientes y seguimiento clínico, no por claims de catálogo.
 
-Experimental o no estándar: indicar materiales nuevos sin datos clínicos suficientes, extrapolar resultados in vitro a rehabilitaciones completas o asumir que una generación translúcida de zirconia sustituye de forma automática a una cerámica vítrea en estética anterior.
+No lo trataría como estándar o no estándar: indicar materiales nuevos sin datos clínicos suficientes, extrapolar resultados in vitro a rehabilitaciones completas o asumir que una generación translúcida de zirconia sustituye de forma automática a una cerámica vítrea en estética anterior.
 
 ## Conclusiones clínicas
 

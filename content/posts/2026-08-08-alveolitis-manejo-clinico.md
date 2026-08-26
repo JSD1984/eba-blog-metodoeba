@@ -1,12 +1,12 @@
 ---
 title: "Alveolitis seca: fisiopatología, prevención y manejo clínico"
 date: "2026-08-08"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Cirugía oral"
 evidence: "Protocolo clínico"
 excerpt: "Protocolo clínico-profesional para la prevención, diagnóstico y manejo de la alveolitis seca tras exodoncia, con lectura crítica de la evidencia sobre clorhexidina, antibióticos, apósitos intraalveolares y fotobiomodulación."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Cirugía oral", "Alveolitis seca", "Alveolar osteitis", "Exodoncia", "Tercer molar", "Clorhexidina", "Fotobiomodulación"]
 sources: ["Daly BJM, Sharif MO, Jones K, Worthington HV, Beattie A. Local interventions for the management of alveolar osteitis (dry socket). Cochrane Database Syst Rev. 2022;9(9):CD006968. doi:10.1002/14651858.CD006968.pub3.", "Ghosh A, Aggarwal VR, Moore R. Aetiology, Prevention and Management of Alveolar Osteitis-A Scoping Review. J Oral Rehabil. 2022;49(1):103-113. doi:10.1111/joor.13268.", "ALHarthi SS, Ali D, Alamry NZ, Alshehri MK, Divakar DD, BinShabaib MS. Photobiomodulation for managing dry socket: a randomised controlled trial. Int Dent J. 2023;73(2):267-273. doi:10.1016/j.identj.2022.06.002.", "Rosa A, Pujia AM, Arcuri C. Investigation of alveolar osteitis and the effectiveness of laser treatment: a unified meta-analysis and review of the literature. BMC Oral Health. 2024;24:700. doi:10.1186/s12903-024-04461-w.", "Tandon P, Sahoo SK, Mohanty L, Jain N, Hittalamani V, Kamble SS. Dry Socket Prevalence and Risk Factors in Third Molar Extractions: A Prospective Observational Study. Cureus. 2024;16(3):e56721. doi:10.7759/cureus.56721."]
 status: "published"
@@ -79,11 +79,11 @@ No están indicados de rutina en alveolitis seca no complicada. Se reservan para
 
 ---
 
-## Consolidado / prometedor / experimental
+## Lectura crítica de la evidencia
 
-**Consolidado:** diagnóstico clínico, irrigación suave con suero, analgesia pautada, protección temporal del alvéolo cuando el dolor lo requiere, y seguimiento cercano. En prevención, técnica quirúrgica atraumática, reducción del tabaquismo perioperatorio e instrucciones postoperatorias precisas.
+**Lo suficientemente establecido:** diagnóstico clínico, irrigación suave con suero, analgesia pautada, protección temporal del alvéolo cuando el dolor lo requiere, y seguimiento cercano. En prevención, técnica quirúrgica atraumática, reducción del tabaquismo perioperatorio e instrucciones postoperatorias precisas.
 
-**Prometedor:** clorhexidina en pacientes seleccionados de riesgo alto, especialmente gel intraalveolar, con lectura individualizada del beneficio absoluto y del perfil de seguridad. La fotobiomodulación también es prometedora. El ensayo aleatorizado de ALHarthi et al. (2023) y la revisión/meta-análisis de Rosa et al. (2024) apuntan a reducción del dolor y posible mejora de la cicatrización, pero la heterogeneidad de longitudes de onda, potencia, dosis y comparadores impide convertirla en estándar universal.
+**Aún en desarrollo:** clorhexidina en pacientes seleccionados de riesgo alto, especialmente gel intraalveolar, con lectura individualizada del beneficio absoluto y del perfil de seguridad. La fotobiomodulación también es prometedora. El ensayo aleatorizado de ALHarthi et al. (2023) y la revisión/meta-análisis de Rosa et al. (2024) apuntan a reducción del dolor y posible mejora de la cicatrización, pero la heterogeneidad de longitudes de onda, potencia, dosis y comparadores impide convertirla en estándar universal.
 
 **Experimental o insuficientemente establecido:** uso rutinario de concentrados plaquetarios, ácido hialurónico, ozono u otros biomateriales como prevención universal. Pueden tener plausibilidad biológica y estudios preliminares, pero todavía requieren ensayos clínicos bien diseñados, con desenlaces comparables y seguimiento suficiente.
 

@@ -1,12 +1,12 @@
 ---
 title: "CBCT vs panorámica: cuándo cada una según el hallazgo clínico"
 date: "2026-07-23"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Radiología"
 evidence: "Guía clínica"
 excerpt: "Guía clínica para seleccionar radiografía panorámica o CBCT según indicación, rendimiento diagnóstico, campo de visión y principio de justificación radiológica."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Radiología dental", "CBCT", "Panorámica", "Diagnóstico", "Dosis"]
 sources: ["Lübbers HT et al. Revised consensus guidelines for the use of cone-beam computed tomography/digital volume tomography. Swiss Dental Journal. 2024;134(4):86-115. DOI: 10.61872/sdj-2024-04-07", "MacDonald D, Telyakova V. An Overview of Cone-Beam Computed Tomography and Dental Panoramic Radiography in Dentistry in the Community. Tomography. 2024;10(8):1222-1237. DOI: 10.3390/tomography10080092", "American Dental Association Council on Scientific Affairs. Optimizing radiation safety in dentistry: Clinical recommendations and regulatory considerations. JADA. 2024. URL: https://jada.ada.org/article/S0002-8177(23)00734-1/abstract", "American Academy of Periodontology. Associated risks with periodontal x-rays or CBCT scans: Are there risks? Clinical Advances in Periodontics. 2023. DOI: 10.1002/cap.10261", "European Commission. Radiation Protection No. 172: Cone beam CT for dental and maxillofacial radiology. Evidence-based guidelines. 2012. URL: https://op.europa.eu/en/publication-detail/-/publication/ec5936c7-5a29-4a93-9b3a-01a5d78d7b2e/language-en"]
 status: "published"
@@ -45,13 +45,13 @@ En seguridad radiológica, las recomendaciones recientes de la ADA insisten en q
 
 **ATM y patología ósea.** La panorámica puede identificar alteraciones groseras, pero tiene baja sensibilidad para diagnóstico definitivo de muchas patologías temporomandibulares. El CBCT aporta detalle óseo condilar, erosiones y cambios degenerativos, aunque no valora disco ni tejidos blandos; para estos, la resonancia magnética sigue siendo superior. En lesiones óseas maxilares, quistes, tumores benignos o fracturas, el CBCT puede ser adecuado si la pregunta es ósea y el campo cubre toda la lesión.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado.** Uso de panorámica como exploración inicial cuando se necesita visión global; CBCT para planificación implantológica, terceros molares de riesgo, endodoncia compleja, inclusiones dentarias seleccionadas, cirugía oral y lesiones óseas donde la relación tridimensional modifica el tratamiento.
+**Lo suficientemente establecido.** Uso de panorámica como exploración inicial cuando se necesita visión global; CBCT para planificación implantológica, terceros molares de riesgo, endodoncia compleja, inclusiones dentarias seleccionadas, cirugía oral y lesiones óseas donde la relación tridimensional modifica el tratamiento.
 
-**Prometedor.** Integración CBCT con escaneado intraoral, planificación guiada, segmentación anatómica asistida y reconstrucciones específicas por indicación. Su valor aumenta cuando el equipo domina interpretación radiológica, control de artefactos y protocolos de baja dosis.
+**Aún en desarrollo.** Integración CBCT con escaneado intraoral, planificación guiada, segmentación anatómica asistida y reconstrucciones específicas por indicación. Su valor aumenta cuando el equipo domina interpretación radiológica, control de artefactos y protocolos de baja dosis.
 
-**Experimental.** Uso de CBCT como cribado amplio, sustitución sistemática de radiología intraoral por volúmenes 3D, algoritmos de decisión automática sin supervisión clínica y aplicaciones que no demuestran cambio en conducta terapéutica.
+**No lo trataría como estándar.** Uso de CBCT como cribado amplio, sustitución sistemática de radiología intraoral por volúmenes 3D, algoritmos de decisión automática sin supervisión clínica y aplicaciones que no demuestran cambio en conducta terapéutica.
 
 ## Puntos clave
 

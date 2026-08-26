@@ -1,12 +1,12 @@
 ---
 title: "Composites de última generación: clasificación, propiedades mecánicas y criterios de selección clínica"
 date: "2026-08-06"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Materiales y biomateriales"
 evidence: "Revisión sistemática"
 excerpt: "Revisión actualizada de los composites dentales de última generación: clasificación por tamaño de partícula, propiedades mecánicas comparadas (nanorrelleno, nanohíbrido, bulk-fill), contracción de polimerización y criterios de selección basados en evidencia 2022-2025."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Composites", "Biomateriales", "Bulk-fill", "Nanorrelleno", "Propiedades mecánicas", "Materiales dentales", "Restauración directa"]
 sources: ["Latoui M et al. Dental composites: a comprehensive review on formulation, properties and recent developments. Polymer International. 2026. doi:10.1002/pi.70085", "Menezes SL et al. Clinical Outcomes of Bulk-Fill Resin Composite Restorations: A 10-Year Mapping Review. J Esthet Restor Dent. 2025. PMID:39462873. doi:10.1111/jerd.13339", "Chisini LA et al. Five-year clinical performance of posterior bulk-filled resin composite restorations: double-blind RCT. J Dent. 2023. doi:10.1016/j.jdent.2023.104190", "Tavares GRM et al. Five-year survival of class II restorations with and without base bulk-fill composite. Clin Oral Investig. 2024. doi:10.1007/s00784-024-05965-z", "Kamali S et al. Clinical Performance and Survival of Bulk-Fill Resin Composites vs Conventional Resin Composites. Systematic Review and Meta-analysis. PMC12723424. 2025.", "Layton D. Clinical performance of bulk-fill vs incremental layered application of direct resin composite: systematic review. Evid Based Dent. 2023. doi:10.1038/s41432-023-00905-4"]
 status: "published"
@@ -84,11 +84,11 @@ Un estudio de cohorte retrospectivo (Tavares et al., *Clin Oral Investig* 2024) 
 
 ---
 
-## Consolidado / prometedor / experimental
+## Lectura crítica de la evidencia
 
-- **Consolidado:** nanohíbridos y nanorrellenos con técnica incremental; bulk-fill de alta viscosidad en incrementos de 4-5 mm con evidencia hasta 10 años en dientes posteriores.
-- **Prometedor:** composites con bioactividad (liberación de iones calcio y flúor, capacidad de remineralización en interfase); composites reforzados con fibras de vidrio para cavidades amplias con soporte cuspídeo comprometido.
-- **Experimental:** composites autoadhesivos de nueva generación que prescinden del sistema adhesivo; composites con fotoiniciadores alternativos activados por luz ambiental (luz azul difusa) en desarrollo para aplicaciones específicas.
+- **Lo suficientemente establecido:** nanohíbridos y nanorrellenos con técnica incremental; bulk-fill de alta viscosidad en incrementos de 4-5 mm con evidencia hasta 10 años en dientes posteriores.
+- **Aún en desarrollo:** composites con bioactividad (liberación de iones calcio y flúor, capacidad de remineralización en interfase); composites reforzados con fibras de vidrio para cavidades amplias con soporte cuspídeo comprometido.
+- **No lo trataría como estándar:** composites autoadhesivos de nueva generación que prescinden del sistema adhesivo; composites con fotoiniciadores alternativos activados por luz ambiental (luz azul difusa) en desarrollo para aplicaciones específicas.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "Remodelación de labios mayores con ácido hialurónico: técnica, seguridad y límites de la evidencia"
 date: "2026-08-17"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Ginecoestética / medicina sexual"
 evidence: "Protocolo clínico"
 excerpt: "Protocolo profesional para restauración de volumen de labios mayores con rellenos: selección de pacientes, técnica con cánula, consentimiento, complicaciones y lectura crítica de la evidencia disponible."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Ginecoestética", "Labios mayores", "Ácido hialurónico", "Rellenos", "Seguridad vascular", "Medicina sexual"]
 sources: ["https://pmc.ncbi.nlm.nih.gov/articles/PMC12287212/", "https://pubmed.ncbi.nlm.nih.gov/38800301/", "https://pubmed.ncbi.nlm.nih.gov/37673803/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11866467/", "https://pubmed.ncbi.nlm.nih.gov/41023231/", "https://clinicaltrials.gov/study/NCT04147689"]
 status: "published"
@@ -55,11 +55,11 @@ Lo que no debe minimizarse es la posibilidad, rara pero grave, de compromiso vas
 
 Ante dolor intenso inmediato, palidez, livedo, frialdad, úlcera incipiente o necrosis, la actuación debe ser urgente: suspender procedimiento, valorar perfusión, aplicar hialuronidasa si el producto es ácido hialurónico y la clínica es compatible, analgesia, calor local prudente, antiagregación si procede según criterio médico, derivación hospitalaria cuando haya progresión o afectación extensa, y seguimiento estrecho. La hialuronidasa debe estar disponible antes de iniciar, no localizarse después de la complicación.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado:** selección cuidadosa, diagnóstico diferencial vulvar, consentimiento específico, técnica con cánula, volúmenes conservadores, documentación del producto y disponibilidad de hialuronidasa. También está consolidado que no debe prometerse mejora sexual ni funcional sin medir síntomas y sin descartar otras causas.
+**Lo suficientemente establecido:** selección cuidadosa, diagnóstico diferencial vulvar, consentimiento específico, técnica con cánula, volúmenes conservadores, documentación del producto y disponibilidad de hialuronidasa. También está consolidado que no debe prometerse mejora sexual ni funcional sin medir síntomas y sin descartar otras causas.
 
-**Prometedor:** restauración de volumen con ácido hialurónico en pacientes con hipotrofia o atrofia de labios mayores, especialmente cuando la protrusión relativa de labios menores o la pérdida de almohadillado produce molestias mecánicas. Los datos prospectivos a 52 semanas son relevantes, aunque todavía sin control aleatorizado.
+**Aún en desarrollo:** restauración de volumen con ácido hialurónico en pacientes con hipotrofia o atrofia de labios mayores, especialmente cuando la protrusión relativa de labios menores o la pérdida de almohadillado produce molestias mecánicas. Los datos prospectivos a 52 semanas son relevantes, aunque todavía sin control aleatorizado.
 
 **Experimental o de evidencia débil:** mezclas híbridas HA/CaHA, biostimuladores en indicación íntima, uso para mejora sexual inespecífica, protocolos agresivos de volumen o combinaciones con energía sin desenlaces clínicos comparativos. En estos escenarios, el lenguaje debe ser de investigación clínica, no de prestación rutinaria.
 

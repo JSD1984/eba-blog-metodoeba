@@ -1,12 +1,12 @@
 ---
 title: "Protocolo de primera visita en odontología: historia clínica, registros y plan de tratamiento"
 date: "2026-08-04"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Protocolos clínicos"
 evidence: "Protocolo clínico"
 excerpt: "Guía clínica estructurada para la primera visita odontológica: secuencia de anamnesis, exploración extraoral e intraoral, periograma, valoración del riesgo de caries y periodontal, registros radiográficos y elaboración del plan de tratamiento. Basada en las directrices de la ADA, AAPD, AAP y evidencia de 2022-2025."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Primera visita", "Historia clínica", "Exploración odontológica", "Plan de tratamiento", "Riesgo de caries", "Valoración periodontal", "Protocolo clínico"]
 sources: ["American Dental Association. Evidence-Based Dentistry: integrating patient history, clinical expertise and scientific evidence. ADA Policy. ada.org. Acceso 2026.", "ADA/AAOMR. Patient Selection for Dental Radiographic Examinations: Clinical Practice Guideline. J Am Dent Assoc. 2024. health.ri.gov/sites/g/files/xkgbur1006/files/2026-01/ADA-AAOMR-patient-selection.pdf", "AAPD. Periodicity of Examination, Preventive Dental Services, Anticipatory Guidance and Oral Treatment for Infants, Children and Adolescents. Pediatr Dent. 2023. aapd.org/globalassets/media/policies_guidelines/bp_periodicity.pdf", "Alemán-Navas RM et al. Patients' Awareness and Attitudes About the Importance of Sharing Medical History with Dentists. PMC12607543. Saudi Dent J. 2024.", "Chapple ILC et al. Interaction of lifestyle, behaviour or systemic diseases with dental caries and periodontal diseases. Consensus report, EFP workshop 2022. J Clin Periodontol. 2023;50(Suppl 26):51-73. doi:10.1111/jcpe.13822", "Tonetti MS et al. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Periodontol. 2018;89(Suppl 1):S159-S172. doi:10.1002/JPER.18-0006", "Young DA et al. The CAMBRA Protocol Efficacy: A Systematic Review and Critical Appraisal. PMC9221725. J Evid Based Dent Pract. 2022. doi:10.1016/j.jebdp.2022.101682", "Slot DE et al. Oral hygiene instruction — a systematic review on the assessment tools to measure oral health outcomes. Int J Dent Hyg. 2020;18(3):218-230. doi:10.1111/idh.12437"]
 status: "published"

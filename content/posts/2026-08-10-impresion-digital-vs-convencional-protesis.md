@@ -1,12 +1,12 @@
 ---
 title: "Impresión digital vs convencional en prótesis fija: precisión, flujo clínico y límites reales"
 date: "2026-08-10"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Prótesis"
 evidence: "Comparativa"
 excerpt: "Comparativa científico-clínica entre escaneado intraoral e impresión convencional en prótesis fija: indicaciones consolidadas, ventajas de flujo, sesgos técnicos y escenarios donde la impresión convencional sigue siendo relevante."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Prótesis fija", "Impresión digital", "Escáner intraoral", "Impresión convencional", "CAD/CAM"]
 sources: ["Kaitatzidou A et al. Digital scans versus conventional impressions in fixed prosthodontics: An overview of systematic reviews. Journal of Prosthetic Dentistry. 2025. DOI: 10.1016/j.prosdent.2024.11.002", "Bessadet M et al. Time efficiency and cost analysis between digital and conventional workflows for the fabrication of fixed dental prostheses: A systematic review. Journal of Prosthetic Dentistry. 2025. DOI: 10.1016/j.prosdent.2024.01.003", "Bessadet M et al. Comparative analyses of time efficiency and cost in fabricating fixed implant-supported prostheses in digital, hybrid, and conventional workflows: A systematic review and meta-analysis. Journal of Prosthetic Dentistry. 2025. DOI: 10.1016/j.prosdent.2024.06.024", "El Osta N et al. Accuracy of conventional impressions and digital scans for implant-supported fixed prostheses in maxillary free-ended partial edentulism: An in vitro study. Journal of Dentistry. 2024. DOI: 10.1016/j.jdent.2024.104892", "Mikulás K et al. Accuracy of Digital Impression Methods for Capturing the Peri-Implant Emergence Profile: A Systematic Review. Clinical Oral Implants Research. 2025. DOI: 10.1111/clr.14441"]
 status: "published"
@@ -53,11 +53,11 @@ El estudio in vitro de El Osta sobre edentulismo parcial maxilar distal en prót
 
 La revisión sistemática de Mikulás sobre perfil de emergencia periimplantario añade otro punto relevante: capturar forma de tejido blando no es lo mismo que capturar posición de implante. Los flujos digitales prometen reproducir mejor el perfil condicionado por provisionales, pero la evidencia todavía depende de técnicas específicas, tiempos de escaneado tras retirar el provisional y estabilidad del tejido periimplantario.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado.** El escaneado intraoral es una opción sólida para coronas unitarias, incrustaciones, carillas seleccionadas y puentes cortos cuando los márgenes son visibles y el campo está controlado. También es razonable en restauraciones implantosoportadas unitarias o parciales cortas con scan bodies compatibles y protocolo validado.
+**Lo suficientemente establecido.** El escaneado intraoral es una opción sólida para coronas unitarias, incrustaciones, carillas seleccionadas y puentes cortos cuando los márgenes son visibles y el campo está controlado. También es razonable en restauraciones implantosoportadas unitarias o parciales cortas con scan bodies compatibles y protocolo validado.
 
-**Prometedor.** Los flujos híbridos, combinando escaneo intraoral, escaneo de provisionales, modelos impresos, fotogrametría en implantes múltiples y verificación radiográfica o clínica, son especialmente interesantes en rehabilitaciones implantosoportadas. Su valor está en asignar a cada herramienta el registro que mejor captura.
+**Aún en desarrollo.** Los flujos híbridos, combinando escaneo intraoral, escaneo de provisionales, modelos impresos, fotogrametría en implantes múltiples y verificación radiográfica o clínica, son especialmente interesantes en rehabilitaciones implantosoportadas. Su valor está en asignar a cada herramienta el registro que mejor captura.
 
 **Experimental o no indicado como rutina.** Sustituir toda impresión convencional por escaneado intraoral en arcos completos, prótesis completas fijas sobre implantes o márgenes subgingivales no controlables no está respaldado como estándar universal. La evidencia reciente sigue pidiendo estudios clínicos de mayor calidad, especialmente en resultados a largo plazo, coste real y complicaciones protésicas.
 

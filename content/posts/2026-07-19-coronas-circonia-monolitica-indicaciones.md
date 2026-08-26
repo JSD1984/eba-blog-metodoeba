@@ -1,12 +1,12 @@
 ---
 title: "Coronas de circonia monolítica: indicaciones, desgaste y estética"
 date: "2026-07-19"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Prótesis"
 evidence: "Guía clínica"
 excerpt: "Guía clínica para seleccionar coronas de circonia monolítica, diferenciando indicaciones consolidadas, límites estéticos, desgaste antagonista y protocolos de cementado."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Prótesis fija", "Circonia monolítica", "CAD/CAM", "Desgaste antagonista", "Cementado"]
 sources: ["Sola-Ruiz MF et al. Prospective study of monolithic zirconia crowns: clinical behavior and survival rate at a 5-year follow-up. Journal of Prosthodontic Research. 2021. DOI: 10.2186/jpr.JPR_D_20_00034", "Sahebi M et al. Antagonist enamel tooth wear produced by different dental ceramic systems: A systematic review and network meta-analysis of controlled clinical trials. Journal of Dentistry. 2024. DOI: 10.1016/j.jdent.2024.104832", "Alqutaibi AY, Ali RMM. Polished monolithic zirconia crowns may cause less antagonist enamel wear compared to metal-ceramic restorations. Journal of Evidence-Based Dental Practice. 2025. DOI: 10.1016/j.jebdp.2025.102088", "Dondani JR et al. Comparative Evaluation of Wear of Natural Enamel Antagonist Against Glazed Monolithic Zirconia Crowns and Polished Monolithic Zirconia Crowns: An In Vivo Study. The International Journal of Prosthodontics. 2023. DOI: 10.11607/ijp.7798", "Elmowafy ME et al. Wear of enamel antagonist to gradient zirconia vs full strength monolithic zirconia: a randomized clinical trial. BMC Oral Health. 2025. DOI: 10.1186/s12903-025-07566-y", "Ma Y et al. Different surface treatments and adhesive monomers for zirconia-resin bonds: A systematic review and network meta-analysis. Japanese Dental Science Review. 2024. DOI: 10.1016/j.jdsr.2024.05.004", "Pedreira APRV et al. Zirconia Cementation: A Systematic Review of the Most Currently Used Protocols. The Open Dentistry Journal. 2024. DOI: 10.2174/0118742106300869240621074459"]
 status: "published"
@@ -41,9 +41,9 @@ El pulido es más relevante que el glaseado en las zonas oclusales funcionales. 
 
 ## Estética: consolidado, prometedor y experimental
 
-**Consolidado.** En sectores posteriores y premolares poco expuestos, la circonia monolítica ofrece una combinación favorable de resistencia, adaptación digital y estética aceptable. Las circonias multicapa permiten gradación cromática y mejor integración que las generaciones más opacas, siempre que el laboratorio controle espesor, sinterización, maquillaje y pulido.
+**Lo suficientemente establecido.** En sectores posteriores y premolares poco expuestos, la circonia monolítica ofrece una combinación favorable de resistencia, adaptación digital y estética aceptable. Las circonias multicapa permiten gradación cromática y mejor integración que las generaciones más opacas, siempre que el laboratorio controle espesor, sinterización, maquillaje y pulido.
 
-**Prometedor.** En zonas anteriores seleccionadas, las circonias de mayor translucidez pueden ser útiles en coronas sobre muñones no muy discromáticos, biotipos gingivales favorables y pacientes que aceptan una estética correcta pero no necesariamente equivalente a una cerámica vítrea estratificada. Aquí la comunicación clínica-laboratorio es determinante: color del sustrato, fotografía polarizada, mapa de masas y prueba estética deben guiar la selección.
+**Aún en desarrollo.** En zonas anteriores seleccionadas, las circonias de mayor translucidez pueden ser útiles en coronas sobre muñones no muy discromáticos, biotipos gingivales favorables y pacientes que aceptan una estética correcta pero no necesariamente equivalente a una cerámica vítrea estratificada. Aquí la comunicación clínica-laboratorio es determinante: color del sustrato, fotografía polarizada, mapa de masas y prueba estética deben guiar la selección.
 
 **Experimental o no recomendable como rutina.** Utilizar circonia monolítica translúcida como sustituto universal de cerámicas vítreas en el frente anterior, sin valorar sustrato, espesor mínimo, fluorescencia, textura y línea de sonrisa, no está justificado. Tampoco es prudente elegir materiales multicapa solo por estética sin considerar la evidencia emergente sobre desgaste y propiedades mecánicas de cada formulación.
 
@@ -63,11 +63,11 @@ El control postcementado debe incluir evaluación de contactos en seco, papel ar
 
 ## Recomendaciones graduadas
 
-**Consolidado.** Indicar circonia monolítica en coronas posteriores unitarias con demanda mecánica, preparación adecuada, margen controlable y protocolo de acabado/pulido completo.
+**Lo suficientemente establecido.** Indicar circonia monolítica en coronas posteriores unitarias con demanda mecánica, preparación adecuada, margen controlable y protocolo de acabado/pulido completo.
 
-**Consolidado.** Pulir, no solo glasear, las zonas oclusales funcionales, especialmente tras cualquier ajuste. La prevención del desgaste antagonista empieza en la superficie que se entrega.
+**Lo suficientemente establecido.** Pulir, no solo glasear, las zonas oclusales funcionales, especialmente tras cualquier ajuste. La prevención del desgaste antagonista empieza en la superficie que se entrega.
 
-**Prometedor.** Usar circonias multicapa o translúcidas en zonas visibles seleccionadas, integrando fotografía clínica, color del sustrato y expectativas realistas.
+**Aún en desarrollo.** Usar circonias multicapa o translúcidas en zonas visibles seleccionadas, integrando fotografía clínica, color del sustrato y expectativas realistas.
 
 **Experimental o no recomendable como rutina.** Sustituir todas las indicaciones de disilicato o cerámica estratificada por circonia monolítica solo por resistencia. La selección debe responder al caso, no a una preferencia de material.
 

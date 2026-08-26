@@ -1,12 +1,12 @@
 ---
 title: "AINE vs paracetamol en el dolor postquirúrgico dental: revisión comparada y recomendaciones actuales"
 date: "2026-08-20"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Farmacología"
 evidence: "Revisión sistemática"
 excerpt: "La guía de práctica clínica de la ADA (2024) establece los AINE como primera línea en el dolor agudo dental inflamatorio. La combinación ibuprofeno 400 mg + paracetamol 1000 mg supera a cualquiera de los dos en monoterapia. Este artículo revisa la evidencia comparada, los mecanismos, las dosis óptimas y los criterios de selección por perfil de paciente."
 readingTime: "5 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["farmacología dental", "AINE", "ibuprofeno", "paracetamol", "dolor postoperatorio", "analgesia multimodal", "terceros molares", "cirugía oral"]
 sources: ["Gillard ME et al. Evidence-based clinical practice guideline for the pharmacologic management of acute dental pain in adolescents, adults, and older adults. J Am Dent Assoc. 2024 Feb;155(2):P103-P121. doi:10.1016/j.adaj.2023.10.003. PMID: 38334470. PMC10919895", "Derry S et al. Single dose oral ibuprofen plus paracetamol (acetaminophen) for acute postoperative pain. Cochrane Database Syst Rev. 2013;(6):CD010210. doi:10.1002/14651858.CD010210.pub2", "Bailey E et al. Ibuprofen and/or paracetamol (acetaminophen) for pain relief after surgical removal of lower wisdom teeth. Cochrane Database Syst Rev. 2013;12:CD004624. doi:10.1002/14651858.CD004624.pub2", "Moore RA et al. Combining analgesics for dental surgery: efficacy and safety. Oral Maxillofac Surg Clin North Am. 2022;34(1):1–14. doi:10.1016/j.coms.2021.08.004", "Hersh EV et al. Analgesic efficacy and safety of an intraoral lidocaine patch in adults with postoperative pain. J Am Dent Assoc. 2022;153(5):445–453. doi:10.1016/j.adaj.2021.12.010", "Aznar-Arasa L et al. Preemptive ibuprofen vs. placebo 4 days after lower third molar removal: systematic review and meta-analysis. Med Oral Patol Oral Cir Bucal. 2023;28(1):e1–e10. doi:10.4317/medoral.25430"]
 status: "published"

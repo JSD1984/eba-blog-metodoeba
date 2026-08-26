@@ -1,12 +1,12 @@
 ---
 title: "Protocolo de urgencia por dolor odontogénico agudo: diagnóstico y manejo"
 date: "2026-08-24"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Protocolos clínicos"
 evidence: "Protocolo clínico"
 excerpt: "El dolor odontogénico agudo exige triaje, diagnóstico pulpar y periapical estructurado, tratamiento causal temprano y analgesia no opioide como primera línea; los antibióticos solo tienen indicación en escenarios concretos con diseminación o riesgo sistémico."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Urgencias odontológicas", "Dolor odontogénico", "Endodoncia", "Antibióticos", "Analgesia", "Triaje"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/38325969/", "https://pubmed.ncbi.nlm.nih.gov/31668170/", "https://pubmed.ncbi.nlm.nih.gov/39764906/", "https://pubmed.ncbi.nlm.nih.gov/36925739/"]
 status: "published"
@@ -67,19 +67,19 @@ El fallo más frecuente es tratar el dolor como síntoma aislado y diferir el di
 
 Todo paciente manejado de forma ambulatoria debe salir con diagnóstico presuntivo, tratamiento realizado, pauta analgésica, criterios de alarma por escrito y cita de reevaluación. Si no se puede realizar tratamiento causal el mismo día, conviene asegurar revisión en 24-72 horas según intensidad, diagnóstico y riesgo.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-Consolidado: triaje de signos sistémicos, diagnóstico pulpar/periapical estructurado, drenaje cuando hay colección, tratamiento endodóntico inicial o extracción según pronóstico, y analgesia no opioide como primera línea.
+Lo suficientemente establecido: triaje de signos sistémicos, diagnóstico pulpar/periapical estructurado, drenaje cuando hay colección, tratamiento endodóntico inicial o extracción según pronóstico, y analgesia no opioide como primera línea.
 
-Prometedor: guías vivas y herramientas de ayuda clínica integradas en historia electrónica para reducir variabilidad en analgesia, antibióticos y derivación.
+Aún en desarrollo: guías vivas y herramientas de ayuda clínica integradas en historia electrónica para reducir variabilidad en analgesia, antibióticos y derivación.
 
-Experimental o no estándar: decisiones automatizadas basadas solo en inteligencia artificial, biomarcadores salivales para diferenciar dolor pulpar y periapical, y protocolos farmacológicos que sustituyan el tratamiento causal.
+No lo trataría como estándar o no estándar: decisiones automatizadas basadas solo en inteligencia artificial, biomarcadores salivales para diferenciar dolor pulpar y periapical, y protocolos farmacológicos que sustituyan el tratamiento causal.
 
 ## Conclusiones clínicas
 
 El dolor odontogénico agudo debe abordarse como un problema diagnóstico y causal, no como una receta rápida. La prioridad es descartar gravedad, localizar el origen, iniciar tratamiento dental efectivo y usar analgesia basada en evidencia. La combinación de AINE y paracetamol, cuando es segura para el paciente, ocupa el centro del manejo farmacológico actual. El antibiótico se reserva para infección con repercusión sistémica, progresión o imposibilidad de control local adecuado.
 
-Un protocolo sólido mejora resultados clínicos, reduce prescripción innecesaria y protege al paciente. En entornos clínicos con flujo multidisciplinar, como Ocean Clinik, esta estructura permite que la urgencia no rompa el criterio diagnóstico ni la continuidad del tratamiento.
+Un protocolo sólido mejora resultados clínicos, reduce prescripción innecesaria y protege al paciente. En entornos clínicos con flujo multidisciplinar, esta estructura permite que la urgencia no rompa el criterio diagnóstico ni la continuidad del tratamiento.
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: "PRP, CGF y PRGF en cirugía oral e implantología: comparativa clínica basada en evidencia"
 date: "2026-07-27"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Medicina regenerativa"
 evidence: "Comparativa"
 excerpt: "Comparativa profesional de PRP, CGF y PRGF en cirugía oral e implantología: fundamentos biológicos, diferencias técnicas, indicaciones razonables y límites de la evidencia actual."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["PRP", "CGF", "PRGF", "Medicina regenerativa", "Implantología", "Cirugía oral"]
 sources: ["Acerra A, Caggiano M, Chiacchio A, Scognamiglio B, D'Ambrosio F. PRF and PRP in Dentistry: An Umbrella Review. J Clin Med. 2025;14(9):3224. doi: 10.3390/jcm14093224", "Inchingolo F, Inchingolo AM, Latini G, et al. Guided Bone Regeneration: CGF and PRF Combined With Various Types of Scaffolds-A Systematic Review. Int J Dent. 2024;2024:4990295. doi: 10.1155/ijod/4990295", "Guan S, Xiao T, Bai J, et al. Clinical application of platelet-rich fibrin to enhance dental implant stability: A systematic review and meta-analysis. Heliyon. 2023;9(2):e13196. doi: 10.1016/j.heliyon.2023.e13196", "Siawasch SAM, Yu J, Castro AB, Temmerman A, Teughels W, Quirynen M. Autologous platelet concentrates after third molar extraction: A systematic review. Periodontol 2000. 2025;97(1):131-152. doi: 10.1111/prd.12600", "Carames JMM, Marques D, Portugal J, et al. Guided Bone Regeneration in the Edentulous Atrophic Maxilla Using Deproteinized Bovine Bone Mineral (DBBM) Combined with Platelet-Rich Fibrin (PRF)-A Prospective Study. J Clin Med. 2022;11(3):894. doi: 10.3390/jcm11030894", "Zhu L, Du X, Fu G, et al. Efficacy of different forms of concentrated growth factors combined with deproteinized bovine bone minerals in guided bone regeneration: a randomized clinical trial. BMC Oral Health. 2025;25:320. doi: 10.1186/s12903-025-05698-9"]
 status: "published"
@@ -51,11 +51,11 @@ En implantología, los datos más consistentes favorecen a los concentrados de f
 
 En extracción de terceros molares, la evidencia es clínicamente interesante para dolor, edema, trismus, alveolitis y cierre de tejidos blandos, pero no homogénea. En regeneración ósea guiada, los concentrados pueden mejorar manejo del injerto y entorno biológico, pero no reemplazan membranas, estabilidad del coágulo, cierre sin tensión ni selección adecuada del biomaterial.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado:** uso de concentrados plaquetarios autólogos como coadyuvantes de cicatrización en cirugía oral seleccionada, especialmente cuando se busca mejorar hemostasia, manejo del coágulo, cierre de tejidos blandos o confort postoperatorio. También es razonable su empleo combinado con biomateriales cuando mejora la cohesión y manipulación del injerto.
+**Lo suficientemente establecido:** uso de concentrados plaquetarios autólogos como coadyuvantes de cicatrización en cirugía oral seleccionada, especialmente cuando se busca mejorar hemostasia, manejo del coágulo, cierre de tejidos blandos o confort postoperatorio. También es razonable su empleo combinado con biomateriales cuando mejora la cohesión y manipulación del injerto.
 
-**Prometedor:** uso en preservación alveolar, regeneración ósea guiada, elevación de seno, aumento horizontal moderado y mejora de estabilidad implantaria temprana. Aquí la evidencia apunta a beneficio potencial, pero la magnitud del efecto depende del defecto, el biomaterial, la técnica y el protocolo de obtención.
+**Aún en desarrollo:** uso en preservación alveolar, regeneración ósea guiada, elevación de seno, aumento horizontal moderado y mejora de estabilidad implantaria temprana. Aquí la evidencia apunta a beneficio potencial, pero la magnitud del efecto depende del defecto, el biomaterial, la técnica y el protocolo de obtención.
 
 **Experimental o no suficientemente cerrado:** selección de PRP, CGF o PRGF como técnica superior de forma universal; sustitución de injertos o membranas por concentrados plaquetarios en defectos complejos; extrapolación de resultados entre sistemas comerciales sin verificar protocolo, composición y desenlace.
 

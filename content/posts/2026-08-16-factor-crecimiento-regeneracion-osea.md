@@ -1,12 +1,12 @@
 ---
 title: "Factores de crecimiento en regeneración ósea oral: mecanismos, evidencia e indicaciones clínicas"
 date: "2026-08-16"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Medicina regenerativa"
 evidence: "Revisión sistemática"
 excerpt: "Los factores de crecimiento autólogos y recombinantes pueden modular la reparación ósea, pero su valor clínico depende del defecto, del biomaterial portador y de la calidad del protocolo quirúrgico."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Regeneración ósea", "Factores de crecimiento", "PRF", "CGF", "PRGF", "GBR", "Implantología"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/37939238/", "https://pubmed.ncbi.nlm.nih.gov/38801329/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11869682/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12228293/", "https://pubmed.ncbi.nlm.nih.gov/40699716/", "https://www.cochrane.org/evidence/CD003607_interventions-replacing-missing-teeth-horizontal-and-vertical-bone-augmentation-techniques-dental"]
 status: "published"
@@ -43,7 +43,7 @@ En implantes inmediatos, Sabri y colaboradores analizaron 20 ensayos con 595 imp
 
 En regeneración ósea guiada simultánea a implantes, un ensayo clínico aleatorizado de 57 pacientes comparó DBBM solo frente a DBBM combinado con CGF en fase gel o líquida. A seis meses, el grupo con CGF en fase gel mostró menor reducción del espesor óseo vestibular que el control, mientras que la fase líquida no se diferenció de forma significativa del DBBM solo. Este resultado es relevante porque apunta a que la forma física del concentrado y su comportamiento como matriz pueden importar tanto como su contenido bioquímico.
 
-## Prometedor, pero todavía no definitivo
+## Qué está en desarrollo
 
 Los factores recombinantes, en especial rhBMP-2 y rhPDGF, tienen una base biológica potente y resultados positivos en determinadas indicaciones. Sin embargo, presentan problemas clínicos no menores: coste, regulación, dosis, carrier, edema, respuesta inflamatoria y variabilidad entre defectos. Una revisión sistemática sobre BMP alrededor de implantes concluyó que puede acelerar fases iniciales de formación ósea y oseointegración, pero también subrayó la necesidad de carriers biodegradables con liberación sostenida y ensayos clínicos a largo plazo.
 
@@ -51,7 +51,7 @@ El CGF y otros concentrados autólogos son prometedores por su facilidad relativ
 
 En una clínica con cirugía regenerativa habitual, como Ocean Clinik, esta distinción tiene valor práctico: no basta con disponer de centrifugadora; el factor de crecimiento debe integrarse en un protocolo quirúrgico medible, documentado y revisable.
 
-## Experimental o de indicación restringida
+## Qué no debe tratarse como estándar
 
 Debe considerarse experimental o de indicación restringida el uso de factores de crecimiento como sustitutos completos de biomateriales en defectos no contenidos, atrofias verticales severas o reconstrucciones donde se requiere mantenimiento de volumen. La matriz de fibrina puede estabilizar, pero no aporta por sí sola una arquitectura rígida comparable a un bloque, una malla o un biomaterial particulado bien protegido.
 

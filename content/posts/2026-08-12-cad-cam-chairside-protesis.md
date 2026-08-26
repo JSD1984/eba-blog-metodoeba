@@ -1,12 +1,12 @@
 ---
 title: "CAD/CAM chairside: materiales, indicaciones clínicas y curva de aprendizaje"
 date: "2026-08-12"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Odontología digital"
 evidence: "Revisión sistemática"
 excerpt: "Análisis crítico de los materiales disponibles para restauraciones CAD/CAM chairside —feldespáticas, disilicato de litio, PICN, RNC y circonia—, sus tasas de supervivencia documentadas, indicaciones clínicas reales y los factores que determinan la curva de aprendizaje del flujo en sesión única."
 readingTime: "8 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["CAD/CAM", "Chairside", "CEREC", "IPS e.max CAD", "Vita Enamic", "Inlays", "Onlays", "Restauraciones cerámicas"]
 sources: ["Autor colectivo. A state-of-the-art review on chairside CAD/CAM ceramic materials in restorative dentistry. Dental Materials Plus. 2026. https://www.sciencedirect.com/science/article/pii/S2772950826001810", "Fasbinder DJ et al. Clinical evaluation of chairside Computer Assisted Design/Computer Assisted Machining onlays: 5-year status. Journal of Esthetic and Restorative Dentistry. 2020. DOI: 10.1111/jerd.12516", "Multicenter RCT. 5-year survival of screw-retained Cerec chairside-made hybrid abutment posterior ceramic crowns. Journal of Dentistry. 2025. https://www.sciencedirect.com/science/article/pii/S0109564125006815", "Otto T, De Nisco S. Computer-aided direct ceramic restorations: a 10-year prospective clinical study of Cerec CAD/CAM inlays and onlays. International Journal of Prosthodontics. 2002;15:122–128", "Otto T. Up to 27-years clinical long-term results of chairside Cerec 1 CAD/CAM inlays and onlays. International Journal of Computerized Dentistry. 2017;20:315–329"]
 status: "published"
@@ -81,13 +81,13 @@ La adopción del flujo chairside no se limita a la inversión en equipamiento. L
 
 La evidencia publicada sitúa el tiempo necesario para obtener resultados consistentes entre 20 y 50 casos según el operador y el tipo de restauración. Este número no es trivial en entornos de práctica general.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado.** Inlays, onlays y coronas unitarias en sectores posteriores con disilicato de litio, ZLS o cerámicas feldespáticas. El flujo en sesión única es clínicamente viable y los datos de supervivencia a 5-17 años son suficientemente robustos para justificar su adopción en práctica general correctamente formada.
+**Lo suficientemente establecido.** Inlays, onlays y coronas unitarias en sectores posteriores con disilicato de litio, ZLS o cerámicas feldespáticas. El flujo en sesión única es clínicamente viable y los datos de supervivencia a 5-17 años son suficientemente robustos para justificar su adopción en práctica general correctamente formada.
 
-**Prometedor.** Las cerámicas PICN en sectores anteriores y como material para prótesis implantosoportada en configuraciones distintas al híbrido sobre TiBase. También el uso de ZLS en endocoronas, donde la evidencia crece, aunque los estudios a largo plazo son todavía escasos.
+**Aún en desarrollo.** Las cerámicas PICN en sectores anteriores y como material para prótesis implantosoportada en configuraciones distintas al híbrido sobre TiBase. También el uso de ZLS en endocoronas, donde la evidencia crece, aunque los estudios a largo plazo son todavía escasos.
 
-**Experimental.** La integración de IA para generación automática de morfología oclusal en el diseño CAD, el fresado de restauraciones plurales en flujo chairside, y el uso de RNC como material de elección en bruxistas o sectores con alta carga oclusal —donde los datos existentes no son suficientes para hacer una recomendación sólida.
+**No lo trataría como estándar.** La integración de IA para generación automática de morfología oclusal en el diseño CAD, el fresado de restauraciones plurales en flujo chairside, y el uso de RNC como material de elección en bruxistas o sectores con alta carga oclusal —donde los datos existentes no son suficientes para hacer una recomendación sólida.
 
 ## Conclusiones clínicas
 

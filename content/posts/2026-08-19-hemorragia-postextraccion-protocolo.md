@@ -1,12 +1,12 @@
 ---
 title: "Hemorragia postextracción en el paciente anticoagulado: protocolo actualizado 2024"
 date: "2026-08-19"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Complicaciones y manejo"
 evidence: "Protocolo clínico"
 excerpt: "La evidencia actual respalda mantener la anticoagulación en la mayoría de las extracciones ambulatorias y aplicar hemostasia local reforzada. Este artículo presenta el protocolo actualizado con evidencia de ensayos clínicos y revisiones sistemáticas de 2022-2024."
 readingTime: "4 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["anticoagulantes", "hemorragia postextracción", "DOACs", "warfarina", "ácido tranexámico", "hemostasia local", "cirugía oral"]
 sources: ["Agha-Hosseini F et al. Management of Patients Receiving Anticoagulation Therapy in Dental Practice: A Systematic Review. Dent J (Basel). 2024. doi:10.3390/dj12080248. PMCID: PMC11311453", "Pippi R et al. Local Tranexamic Acid for Preventing Hemorrhage in Anticoagulated Patients. Healthcare. 2022;10(12):2523. doi:10.3390/healthcare10122523. PMCID: PMC9778130", "Miron RJ et al. Autologous Platelet Concentrates as Hemostatic Agents after Tooth Extraction in Anticoagulated Patients: Systematic Review of RCTs. PubMed. 2023. PMCID: PMC10455824", "DENTST Study Group. Dental Extractions on DOACs vs. Warfarin. J Oral Maxillofac Surg. 2022. doi:10.1016/j.omsu.2022.100241", "Elbarbary A et al. Continuous use of DOACs during tooth extractions: prospective cohort study. Clin Oral Investig. 2024. PMCID: PMC11993950", "Grupo HEMOMAS-II. Manejo de la hemorragia masiva. Primera actualización 2023. Med Intensiva. 2023. doi:10.1016/j.medin.2023.03.004"]
 status: "published"

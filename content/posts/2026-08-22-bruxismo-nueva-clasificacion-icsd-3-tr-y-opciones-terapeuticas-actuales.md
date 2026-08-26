@@ -1,12 +1,12 @@
 ---
 title: "Bruxismo: nueva clasificación ICSD-3-TR y opciones terapéuticas actuales"
 date: "2026-08-22"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Revisiones científicas"
 evidence: "Revisión sistemática"
 excerpt: "La revisión ICSD-3-TR de 2023 formaliza un sistema de graduación diagnóstica del bruxismo en tres niveles. Revisión de criterios diagnósticos, instrumentos disponibles y evidencia actualizada sobre tratamientos."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Bruxismo", "ICSD-3-TR", "Diagnóstico del sueño", "Férula oclusal", "Toxina botulínica", "Odontología del sueño"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/23121262/", "https://pubmed.ncbi.nlm.nih.gov/29926505/", "https://pubmed.ncbi.nlm.nih.gov/41192107/", "https://www.ncbi.nlm.nih.gov/books/NBK482466/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11937739/"]
 status: "published"

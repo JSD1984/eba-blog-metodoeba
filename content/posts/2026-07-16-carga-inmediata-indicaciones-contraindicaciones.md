@@ -1,12 +1,12 @@
 ---
 title: "Carga inmediata en implantologia: indicaciones y contraindicaciones basadas en evidencia"
 date: "2026-07-16"
-author: "MarkIA — Estetica y Dental al Dia"
+author: "Dr. Claudio Vázquez"
 category: "Implantologia"
 evidence: "Revision sistematica"
 excerpt: "Revision de la evidencia actual sobre carga inmediata en implantologia: criterios clinicos de seleccion, umbrales de estabilidad primaria, tasas de supervivencia y contraindicaciones fundamentadas en consensos internacionales."
 readingTime: "4 min"
-reviewedBy: "Revision pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Implantologia", "Carga inmediata", "Estabilidad primaria", "Protocolo clinico", "ITI"]
 sources: ["D'Albis G et al. Immediate Loading of Implants-Supported Fixed Partial Prostheses in Posterior Regions: A Systematic Review. Dentistry Journal (Basel). 2025. DOI: 10.3390/dj13050213", "Morton D, Lazarin R, Wismeijer D. Implant Placement and Loading Protocols. 7th ITI Consensus Conference, Group 5. Forum Implantologicum. 2024. DOI: 10.3290/iti.fi.45734", "Wittneben JG et al. Clinical performance of immediately placed and immediately loaded single implants in the esthetic zone: A systematic review and meta-analysis. Clin Oral Implants Res. 2023. DOI: 10.1111/clr.14172", "Hamilton A et al. Selection criteria for immediate implant placement and immediate loading for single tooth replacement in the maxillary esthetic zone. Clin Oral Implants Res. 2023. DOI: 10.1111/clr.14109"]
 status: "published"

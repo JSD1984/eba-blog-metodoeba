@@ -1,12 +1,12 @@
 ---
 title: "Armonización facial con ácido hialurónico: planificación estructural por tercios"
 date: "2026-08-14"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Medicina estética facial"
 evidence: "Revisión sistemática"
 excerpt: "La planificación por tercios faciales y la selección de planos de inyección son los ejes que determinan el resultado clínico y la seguridad en el tratamiento con rellenos de ácido hialurónico. Revisión de protocolos, selección de producto y evidencia actualizada sobre complicaciones."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Ácido hialurónico", "Rellenos dérmicos", "Medicina estética facial", "Armonización facial", "Complicaciones vasculares"]
 sources: ["https://doi.org/10.1097/GOX.0000000000006668", "https://doi.org/10.3390/medicina61010025", "https://doi.org/10.1111/jocd.70741", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8279269/"]
 status: "published"

@@ -1,12 +1,12 @@
 ---
 title: "Manejo del paciente bruxista con implantes: protocolo clínico actualizado"
 date: "2026-08-07"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Implantología"
 evidence: "Revisión sistemática"
 excerpt: "El bruxismo multiplica por 4,7 el riesgo de fracaso de implantes. Revisión de la evidencia 2023-2025 y protocolo estructurado de selección, planificación, diseño protésico y seguimiento para el paciente bruxista que requiere rehabilitación implantosoportada."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Implantología", "Bruxismo", "Parafunción", "Protocolo clínico", "Complicaciones protésicas", "Férula oclusal", "Rehabilitación implantosoportada"]
 sources: ["Ionfrida JA, Stiller HL, Kämmerer PW, Walter C. Dental Implant Failure Risk in Patients with Bruxism — A Systematic Review and Meta-Analysis of the Literature. Dent J (Basel). 2025 Jan;13(1):11. doi:10.3390/dj13010011. PMC11763436.", "Häggman-Henrikson B et al. Bruxism and dental implants: A systematic review and meta-analysis. J Oral Rehabil. 2024;51(1):109-119. PMID:37589382. doi:10.1111/joor.13567.", "Shafiee E, Nourizadeh A. Bruxism in implant-supported rehabilitations: a narrative review of clinical complications and management strategies. BMC Oral Health. 2025;25:862. doi:10.1186/s12903-025-07005-y. PMC12512445."]
 status: "published"
@@ -103,11 +103,11 @@ El retorqueo preventivo de tornillos protésicos (protocolo semestral) se justif
 
 ---
 
-## Consolidado / prometedor / experimental
+## Lectura crítica de la evidencia
 
-- **Consolidado:** férula oclusal de descarga pre y postimplantación; ferulización de la restauración; implantes de mayor número y dimensión en sectores de riesgo; seguimiento semestral.
-- **Prometedor:** toxina botulínica maseterina como modulador de carga (evidencia indirecta favorable pero sin ensayos clínicos específicos en implantados); superficies de implante con mayor área de contacto óseo (SLA activo, hidroxiapatita) para compensar la sobrec arga.
-- **Experimental:** dispositivos intraorales inteligentes con sensores de presión que alertan en tiempo real de episodios parafuncionales y permiten ajustar la intensidad de intervención; implantes con amortiguadores piezoelásticos para absorción de picos de carga.
+- **Lo suficientemente establecido:** férula oclusal de descarga pre y postimplantación; ferulización de la restauración; implantes de mayor número y dimensión en sectores de riesgo; seguimiento semestral.
+- **Aún en desarrollo:** toxina botulínica maseterina como modulador de carga (evidencia indirecta favorable pero sin ensayos clínicos específicos en implantados); superficies de implante con mayor área de contacto óseo (SLA activo, hidroxiapatita) para compensar la sobrec arga.
+- **No lo trataría como estándar:** dispositivos intraorales inteligentes con sensores de presión que alertan en tiempo real de episodios parafuncionales y permiten ajustar la intensidad de intervención; implantes con amortiguadores piezoelásticos para absorción de picos de carga.
 
 ---
 

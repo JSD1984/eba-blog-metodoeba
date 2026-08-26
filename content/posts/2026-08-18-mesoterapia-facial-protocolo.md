@@ -1,12 +1,12 @@
 ---
 title: "Mesoterapia facial: cócteles, profundidad de inyección y evidencia clínica actual"
 date: "2026-08-18"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Dermatología estética"
 evidence: "Protocolo clínico"
 excerpt: "Revisión del estado actual de la mesoterapia facial: composición de los cócteles más utilizados, profundidad de inyección óptima según zona anatómica, técnicas de aplicación y síntesis de la evidencia disponible en ensayos controlados."
 readingTime: "4 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["mesoterapia", "biorevitalización", "ácido hialurónico", "rejuvenecimiento facial", "dermatología estética", "protocolo clínico"]
 sources: ["Nazem S, Mohammadnejad A. Depth of Treatment in the Facial Rejuvenation: The Neglected Point in Facial Mesotherapy. PMC12078099. PMID: 40386795. https://pmc.ncbi.nlm.nih.gov/articles/PMC12078099/", "Fanian F et al. A hyaluronic acid-based micro-filler improves superficial wrinkles and skin quality: a randomized prospective controlled multicenter study. J Dermatolog Treat. 2023;34(1):2216323. PMID: 37577796. DOI: 10.1080/09546634.2023.2216323", "Deglesne PA et al. In vitro study of RRS HA injectable mesotherapy/biorevitalization product on human skin fibroblasts and its clinical utilization. Clin Cosmet Investig Dermatol. 2016;9:41-52. PMC4770068. PMID: 26966384. https://pmc.ncbi.nlm.nih.gov/articles/PMC4770068/", "Tedeschi A, Lacarrubba F, Micali G. Mesotherapy with an Intradermal Hyaluronic Acid Formulation for Skin Rejuvenation: An Intrapatient, Placebo-Controlled, Long-Term Trial Using High-Frequency Ultrasound. Aesthetic Plast Surg. 2015;39(1):129-33. PMID: 25539986. DOI: 10.1007/s00266-014-0432-1", "Cosmetic dermatology. Clinical and biometrological efficacy of a hyaluronic acid-based mesotherapy product: a randomised controlled study. Arch Dermatol Res. 2013. DOI: 10.1007/s00403-013-1360-7", "Aesthetic Surgery Journal. Streamlined Facial Rejuvenation: A Randomized Split-Face Trial of Premixed Intradermal Botulinum Toxin Type A and Hyaluronic Acid Biorevitalization. Aesthetic Surg J. 2025;46(5). DOI: 10.1093/asj/sjae262"]
 status: "published"

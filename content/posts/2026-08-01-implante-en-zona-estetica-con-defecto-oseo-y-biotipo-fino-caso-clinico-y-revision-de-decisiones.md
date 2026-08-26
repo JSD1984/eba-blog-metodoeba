@@ -1,12 +1,12 @@
 ---
 title: "Implante en zona estética con defecto óseo y biotipo fino: caso clínico y revisión de decisiones"
 date: "2026-08-01"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Casos clínicos"
 evidence: "Caso clínico"
 excerpt: "Presentación de un caso clínico de implantación en incisivo central superior con pérdida parcial de la tabla vestibular y biotipo periodontal fino. Análisis del proceso de toma de decisiones, la estrategia de regeneración combinada y los resultados a 18 meses, a la luz de la evidencia disponible hasta 2025."
 readingTime: "4 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Zona estética", "Implantología", "Biotipo fino", "Defecto óseo", "Injerto de tejido conjuntivo", "Regeneración ósea guiada", "Caso clínico"]
 sources: ["Nassani MZ. Immediate versus delayed single-tooth implant placement in bony defect sockets in the aesthetic zone: Is an intact buccal wall necessary? Evid Based Dent. 2025;26(2):80-82. doi: 10.1038/s41432-025-01152-5", "Zuiderveld EG, Meijer HJA, Gareb B, Vissink A, Raghoebar GM. Single immediate implant placement in the maxillary aesthetic zone with and without connective tissue grafting: Results of a 5-year randomized controlled trial. J Clin Periodontol. 2024. doi: 10.1111/jcpe.13918", "Park WB, Gonzalez Yumar R, Han JY, Kang P. Periodontal Phenotype Modification of Peri-Implant Soft Tissue Deficiency Using Subepithelial Connective Tissue Grafts and Bone Grafts in the Esthetic Region. Medicina (Kaunas). 2024;60(6):841. doi: 10.3390/medicina60060841", "Fettouh AIA et al. Hard and soft tissue alterations using dual-zone concept versus connective tissue graft at maxillary immediate implant placement: A 1-year randomized clinical and volumetric trial. Clin Oral Implants Res. 2024. doi: 10.1111/clr.14247"]
 status: "published"

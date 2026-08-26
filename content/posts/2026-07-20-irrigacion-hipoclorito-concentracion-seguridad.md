@@ -1,12 +1,12 @@
 ---
 title: "Irrigación con hipoclorito sódico: concentración, activación y seguridad"
 date: "2026-07-20"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Endodoncia"
 evidence: "Guía clínica"
 excerpt: "Guía clínica para seleccionar concentración, secuencia, activación y medidas de seguridad del hipoclorito sódico en endodoncia contemporánea."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Endodoncia", "Irrigación", "Hipoclorito sódico", "Activación ultrasónica", "Seguridad clínica"]
 sources: ["Tonini R et al. Irrigating Solutions and Activation Methods Used in Clinical Endodontics: A Systematic Review. Frontiers in Oral Health. 2022. DOI: 10.3389/froh.2022.838043", "Zou X et al. Expert consensus on irrigation and intracanal medication in root canal therapy. International Journal of Oral Science. 2024. DOI: 10.1038/s41368-024-00280-5", "Fedorowicz Z et al. Irrigants for non-surgical root canal treatment in mature permanent teeth. Cochrane Database of Systematic Reviews. 2022. DOI: 10.1002/14651858.CD008948.pub2", "Kumar KRS et al. Effectiveness of various irrigant activation techniques on the penetration of sodium hypochlorite into lateral canals of mature permanent teeth: A systematic review and meta-analysis. The Saudi Dental Journal. 2023. DOI: 10.1016/j.sdentj.2022.12.004", "American Association of Endodontists. Update on Irrigation Disinfection. URL: https://www.aae.org/specialty/update-on-irrigation-disinfection/"]
 status: "published"
@@ -49,11 +49,11 @@ La CBCT no está indicada de forma rutinaria solo para irrigar, pero sí puede a
 
 Si ocurre extrusión, el manejo inicial incluye detener el procedimiento, aspirar sin forzar, tranquilizar al paciente, controlar dolor, valorar edema y compromiso funcional, documentar el evento y revisar la necesidad de derivación según extensión, síntomas sistémicos o afectación de espacios anatómicos. No debe minimizarse ni dramatizarse: debe tratarse como una complicación química aguda que requiere seguimiento estrecho.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado.** El NaOCl es el irrigante principal en endodoncia convencional por su acción antimicrobiana y capacidad de disolver tejido orgánico. La combinación de instrumentación, renovación frecuente, volumen suficiente, EDTA secuencial y técnica de aguja segura es la base del protocolo clínico.
+**Lo suficientemente establecido.** El NaOCl es el irrigante principal en endodoncia convencional por su acción antimicrobiana y capacidad de disolver tejido orgánico. La combinación de instrumentación, renovación frecuente, volumen suficiente, EDTA secuencial y técnica de aguja segura es la base del protocolo clínico.
 
-**Prometedor.** La activación ultrasónica pasiva, los sistemas sónicos, los dispositivos de presión negativa y algunas estrategias combinadas pueden mejorar el intercambio de irrigante en anatomías complejas. Su utilidad depende de la conformación previa, la anatomía y el control de riesgo apical.
+**Aún en desarrollo.** La activación ultrasónica pasiva, los sistemas sónicos, los dispositivos de presión negativa y algunas estrategias combinadas pueden mejorar el intercambio de irrigante en anatomías complejas. Su utilidad depende de la conformación previa, la anatomía y el control de riesgo apical.
 
 **Experimental o no justificable como rutina.** Sustituir protocolos validados por soluciones alternativas, nanopartículas o sistemas altamente dependientes de dispositivo sin evidencia clínica robusta no debería convertirse en estándar. Tampoco es prudente escalar concentración como respuesta automática ante todo caso infectado.
 

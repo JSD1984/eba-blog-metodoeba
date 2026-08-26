@@ -1,12 +1,12 @@
 ---
 title: "Terapia periodontal no quirurgica: efectividad, protocolo y limites clinicos"
 date: "2026-08-12"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Periodoncia"
 evidence: "Guía clínica"
 excerpt: "Guia clinica profesional sobre instrumentacion subgingival, control del biofilm, coadyuvantes y criterios de reevaluacion en el tratamiento periodontal no quirurgico."
 readingTime: "6 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Periodoncia", "Periodontitis", "Instrumentacion subgingival", "Mantenimiento periodontal", "Biofilm"]
 sources: ["https://doi.org/10.1111/jcpe.13290", "https://doi.org/10.1111/jcpe.13245", "https://www.ada.org/resources/research/science/evidence-based-dental-research/nonsurgical-treatment-of-periodontitis-guideline", "https://doi.org/10.61872/sdj-2025-02-08", "https://doi.org/10.3389/fcimb.2025.1601464", "https://doi.org/10.1186/s12903-024-04433-0"]
 status: "published"
@@ -41,11 +41,11 @@ Si el paciente presenta bajo sangrado, buena higiene y bolsas residuales control
 
 ## Coadyuvantes: consolidado, prometedor y experimental
 
-Consolidado: instrumentacion subgingival mecanica, control supragingival del biofilm, modificacion de factores de riesgo y terapia periodontal de soporte. Tambien esta consolidada la necesidad de reevaluar antes de escalar el tratamiento. En defectos residuales profundos o furcas, la cirugia no es un fracaso de la fase no quirurgica; puede ser la continuacion indicada tras comprobar limites de acceso.
+Lo suficientemente establecido: instrumentacion subgingival mecanica, control supragingival del biofilm, modificacion de factores de riesgo y terapia periodontal de soporte. Tambien esta consolidada la necesidad de reevaluar antes de escalar el tratamiento. En defectos residuales profundos o furcas, la cirugia no es un fracaso de la fase no quirurgica; puede ser la continuacion indicada tras comprobar limites de acceso.
 
-Prometedor: enfoques minimamente invasivos no quirurgicos con magnificacion, microinstrumentos y mejor visualizacion. La revision de Lessang, Purba y Ayuningtyas sobre MINST en periodontitis estadio III/IV sugiere resultados comparables a tecnicas minimamente invasivas quirurgicas en defectos seleccionados y posible mejora con materiales coadyuvantes. Sin embargo, el numero de ensayos es pequeno y las poblaciones son heterogeneas, por lo que no debe presentarse como sustituto universal de la cirugia periodontal.
+Aún en desarrollo: enfoques minimamente invasivos no quirurgicos con magnificacion, microinstrumentos y mejor visualizacion. La revision de Lessang, Purba y Ayuningtyas sobre MINST en periodontitis estadio III/IV sugiere resultados comparables a tecnicas minimamente invasivas quirurgicas en defectos seleccionados y posible mejora con materiales coadyuvantes. Sin embargo, el numero de ensayos es pequeno y las poblaciones son heterogeneas, por lo que no debe presentarse como sustituto universal de la cirugia periodontal.
 
-Experimental o insuficientemente establecido: atribuir el resultado a lasers, fotodinamica, probioticos, antisepticos o biomateriales sin una indicacion concreta y sin control mecanico del biofilm. La literatura sobre coadyuvantes suele mostrar beneficios estadisticos pequenos, heterogeneidad metodologica y alto riesgo de extrapolacion comercial.
+No lo trataría como estándar o insuficientemente establecido: atribuir el resultado a lasers, fotodinamica, probioticos, antisepticos o biomateriales sin una indicacion concreta y sin control mecanico del biofilm. La literatura sobre coadyuvantes suele mostrar beneficios estadisticos pequenos, heterogeneidad metodologica y alto riesgo de extrapolacion comercial.
 
 ## Antibioticos y stewardship
 

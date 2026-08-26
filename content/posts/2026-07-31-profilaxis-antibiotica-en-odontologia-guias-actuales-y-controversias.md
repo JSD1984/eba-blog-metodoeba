@@ -1,12 +1,12 @@
 ---
 title: "Profilaxis antibiótica en odontología: guías actuales y controversias"
 date: "2026-07-31"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Farmacología"
 evidence: "Guía clínica"
 excerpt: "Actualización sobre los dos escenarios principales de profilaxis antibiótica en odontología: prevención de endocarditis infecciosa según las guías ESC 2023 y uso perioperatorio en cirugía de implantes, con análisis crítico de la evidencia y recomendaciones graduadas."
 readingTime: "4 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Profilaxis antibiótica", "Endocarditis infecciosa", "Cirugía de implantes", "Farmacología dental", "Resistencia antibiótica", "ESC 2023"]
 sources: ["Delgado V et al. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J. 2023;44(39):3948-4042. doi: 10.1093/eurheartj/ehad193", "Temmerman A et al. Is routine antibiotic prophylaxis warranted in dental implant surgery to prevent early implant failure? A systematic review. Clin Oral Implants Res. 2024;35(8). PMC11270919. doi: 10.1111/clr.14311", "Hannigan A et al. Endocarditis prevention: time for a review of NICE guidance. Lancet Reg Health Eur. 2024;40:100883. PMC10933542. doi: 10.1016/j.lanepe.2024.100883", "Rodríguez-Núñez A et al. Antibiotics in Dentistry: A Narrative Review of the Evidence beyond the Myth. Antibiotics (Basel). 2023;12(5):867. PMC10252486. doi: 10.3390/antibiotics12050867", "Sollecito TP et al. Antibiotic Prophylaxis in Dental and Oral Surgery Practice. StatPearls. NCBI Bookshelf. NBK587360. 2024"]
 status: "published"

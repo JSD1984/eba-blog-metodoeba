@@ -1,12 +1,12 @@
 ---
 title: "Técnica periapical paralela: principios, control de calidad y errores frecuentes"
 date: "2026-08-13"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Radiología"
 evidence: "Comparativa"
 excerpt: "Análisis comparativo entre la técnica paralela y la bisectriz para la toma de radiografías periapicales, clasificación de errores técnicos más frecuentes y criterios actuales de control de calidad según las guías FGDP."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Radiología dental", "Técnica periapical", "Control de calidad", "Endodoncia", "Diagnóstico por imagen"]
 sources: ["https://doi.org/10.3390/dj11070155", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11447568/", "https://doi.org/10.1038/s41415-023-5441-5", "https://www.nature.com/articles/s41598-026-35100-9"]
 status: "published"

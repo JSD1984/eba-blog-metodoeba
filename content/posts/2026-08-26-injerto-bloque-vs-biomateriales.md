@@ -1,12 +1,12 @@
 ---
 title: "Injerto en bloque vs biomateriales en regeneración ósea horizontal: revisión comparativa clínica"
 date: "2026-08-26"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Implantología"
 evidence: "Comparativa"
 excerpt: "La elección entre injerto en bloque autógeno, bloques xenogénicos o alogénicos y biomateriales particulados en regeneración horizontal debe basarse en morfología del defecto, necesidad mecánica, morbilidad, estabilidad volumétrica y nivel real de evidencia."
 readingTime: "8 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Implantología", "Regeneración ósea guiada", "Injerto en bloque", "Biomateriales", "Aumento horizontal", "GBR"]
 sources: ["https://pubmed.ncbi.nlm.nih.gov/37521322/", "https://pubmed.ncbi.nlm.nih.gov/36046167/", "https://pubmed.ncbi.nlm.nih.gov/37750519/", "https://pubmed.ncbi.nlm.nih.gov/36054285/", "https://pubmed.ncbi.nlm.nih.gov/36796081/", "https://pubmed.ncbi.nlm.nih.gov/38093400/", "https://academy.iti.org/academy/consensus-database/consensus-statement/-/consensus/horizontal-ridge-augmentation-in-the-anterior-maxilla/1215"]
 status: "published"
@@ -49,13 +49,13 @@ El 7.º consenso ITI de 2023 añade un punto clínico relevante: una pared ósea
 
 Los ensayos recientes sobre bloques alogénicos personalizados y bloques xenogénicos collagenados aportan señales interesantes. El estudio aleatorizado de Wang et al. comparó bloques alogénicos personalizados con bloques autógenos y evaluó ganancia horizontal, reabsorción, dolor y hallazgos histológicos a seis meses. El estudio piloto split-mouth de Marques et al. informó mayor ganancia horizontal con bloques xenogénicos collagenados, aunque con menor densidad y menor porcentaje de tejido mineralizado que los bloques autógenos. Estos datos son útiles, pero deben interpretarse como evidencia emergente, no como sustitución definitiva del estándar.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-Consolidado: regeneración horizontal con injerto autógeno en bloque en defectos no contenidos o de alta demanda estructural; regeneración ósea guiada con partículas y membrana en defectos moderados y contenidos; planificación mediante CBCT, incisiones que permitan cierre pasivo y fijación estable del material.
+Lo suficientemente establecido: regeneración horizontal con injerto autógeno en bloque en defectos no contenidos o de alta demanda estructural; regeneración ósea guiada con partículas y membrana en defectos moderados y contenidos; planificación mediante CBCT, incisiones que permitan cierre pasivo y fijación estable del material.
 
-Prometedor: bloques alogénicos personalizados, bloques xenogénicos collagenados, membranas reabsorbibles o no reabsorbibles seleccionadas según defecto, y combinaciones con fibrina rica en plaquetas inyectable. Un ensayo clínico de Zahedi et al. evaluó aloinjerto particulado con o sin i-PRF en aumento horizontal, lo que ilustra el interés por mejorar cicatrización y calidad del tejido, aunque la indicación debe apoyarse en resultados reproducibles.
+Aún en desarrollo: bloques alogénicos personalizados, bloques xenogénicos collagenados, membranas reabsorbibles o no reabsorbibles seleccionadas según defecto, y combinaciones con fibrina rica en plaquetas inyectable. Un ensayo clínico de Zahedi et al. evaluó aloinjerto particulado con o sin i-PRF en aumento horizontal, lo que ilustra el interés por mejorar cicatrización y calidad del tejido, aunque la indicación debe apoyarse en resultados reproducibles.
 
-Experimental o no estándar: extrapolar materiales nuevos a defectos severos sin seguimiento suficiente, sustituir el análisis quirúrgico por promesas comerciales de biomateriales o asumir que una ganancia radiográfica temprana equivale a estabilidad volumétrica a largo plazo.
+No lo trataría como estándar o no estándar: extrapolar materiales nuevos a defectos severos sin seguimiento suficiente, sustituir el análisis quirúrgico por promesas comerciales de biomateriales o asumir que una ganancia radiográfica temprana equivale a estabilidad volumétrica a largo plazo.
 
 ## Recomendación práctica
 

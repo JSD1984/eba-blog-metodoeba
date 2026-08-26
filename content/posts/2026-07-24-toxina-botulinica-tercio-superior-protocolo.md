@@ -1,12 +1,12 @@
 ---
 title: "Toxina botulínica en el tercio superior: protocolo clínico y seguridad anatómica"
 date: "2026-07-24"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Medicina estética facial"
 evidence: "Guía clínica"
 excerpt: "Guía clínica profesional para el uso de toxina botulínica tipo A en glabela, frente y región periocular, con indicaciones, técnica, límites de evidencia y complicaciones."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Medicina estética facial", "Toxina botulínica", "Tercio superior", "Glabela", "Seguridad anatómica"]
 sources: ["Braccini F, Catoni I, Belfkira F, et al. SAMCEP Society consensus on the treatment of upper facial lines with botulinum neurotoxin type A: A tailored approach. Journal of Cosmetic Dermatology. 2023;22(10):2692-2704. DOI: 10.1111/jocd.15768", "Gold MH, Donofrio L, Shridharani S, et al. Patient-Reported Outcomes for Glabellar Line Improvement and Satisfaction With the RelabotulinumtoxinA Ready-to-Use Liquid Formulation: Data From the Phase 3 READY-1 Trial. Aesthetic Surgery Journal. 2025;45(8):828-835. DOI: 10.1093/asj/sjaf063", "Pavicic T, Burgess C, Fabi S, et al. Aesthetic Improvements Over Time: Long-Term Efficacy and Additional Outcomes of IncobotulinumtoxinA in the Simultaneous Treatment of Upper Facial Lines. Journal of Cosmetic Dermatology. 2025;24(9):e70460. DOI: 10.1111/jocd.70460", "Safia A, Hassan H. Cosmetic Botulinum Toxin A Injections to the Upper Face: A Systematic Review and Meta-Analysis of Clinical Studies. Journal of Cosmetic Dermatology. 2025. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12783872/", "Shridharani SM, Moradi A, Schwarcz RM, et al. Efficacy and Safety of RelabotulinumtoxinA, a New Ready-to-Use Liquid Formulation, in the Treatment of Glabellar Lines: READY-1 Study. Aesthetic Surgery Journal. 2024;44(12):1330-1343. DOI: 10.1093/asj/sjae122"]
 status: "published"
@@ -49,13 +49,13 @@ Las complicaciones más frecuentes son equimosis, dolor local, cefalea transitor
 
 El manejo comienza con diagnóstico anatómico. La ptosis de ceja suele relacionarse con exceso de debilitamiento frontal o dosis demasiado bajas en frente; la ptosis palpebral puede aparecer por difusión hacia el elevador del párpado superior. La prevención se basa en dosis conservadora, distancia anatómica, volumen controlado, no masajear, técnica estable y selección correcta del paciente. Cuando ocurre, se informa con claridad, se documenta evolución y se aplican medidas sintomáticas según criterio médico.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-Consolidado: tratamiento de líneas glabelares moderadas o severas con toxina botulínica tipo A, uso prudente en frente y región periocular lateral, evaluación dinámica previa, documentación fotográfica y revisión temprana. La evidencia es consistente en mejoría clínica frente a placebo en ensayos controlados, con perfil de seguridad favorable cuando se realiza por profesionales entrenados.
+Lo suficientemente establecido: tratamiento de líneas glabelares moderadas o severas con toxina botulínica tipo A, uso prudente en frente y región periocular lateral, evaluación dinámica previa, documentación fotográfica y revisión temprana. La evidencia es consistente en mejoría clínica frente a placebo en ensayos controlados, con perfil de seguridad favorable cuando se realiza por profesionales entrenados.
 
-Prometedor: protocolos simultáneos del tercio superior, formulaciones líquidas listas para usar, análisis de resultados reportados por pacientes y esquemas individualizados por patrón muscular. Los ensayos recientes aportan datos interesantes de duración, satisfacción y respuesta, pero su traslación debe considerar conflictos de interés, diseño del estudio y diferencias regulatorias.
+Aún en desarrollo: protocolos simultáneos del tercio superior, formulaciones líquidas listas para usar, análisis de resultados reportados por pacientes y esquemas individualizados por patrón muscular. Los ensayos recientes aportan datos interesantes de duración, satisfacción y respuesta, pero su traslación debe considerar conflictos de interés, diseño del estudio y diferencias regulatorias.
 
-Experimental: planificación automática basada solo en imagen, simuladores predictivos no validados, extrapolación directa de unidades entre productos, tratamientos preventivos en pacientes sin indicación dinámica clara y combinaciones agresivas sin seguimiento. Estas líneas pueden generar hipótesis, no estándares clínicos.
+No lo trataría como estándar: planificación automática basada solo en imagen, simuladores predictivos no validados, extrapolación directa de unidades entre productos, tratamientos preventivos en pacientes sin indicación dinámica clara y combinaciones agresivas sin seguimiento. Estas líneas pueden generar hipótesis, no estándares clínicos.
 
 ## Conclusiones clínicas
 

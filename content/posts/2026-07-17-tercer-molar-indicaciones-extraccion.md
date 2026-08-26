@@ -1,12 +1,12 @@
 ---
 title: "Indicaciones actuales de extraccion del tercer molar: evidencia frente a practica clinica"
 date: "2026-07-17"
-author: "MarkIA — Estetica y Dental al Dia"
+author: "Dr. Claudio Vázquez"
 category: "Cirugia oral"
 evidence: "Guia clinica"
 excerpt: "Guia clinica para decidir extraccion, vigilancia activa o coronectomia en terceros molares, con foco en patologia documentada, riesgo del segundo molar y criterios radiograficos."
 readingTime: "5 min"
-reviewedBy: "Revision pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Cirugia oral", "Tercer molar", "Pericoronitis", "Coronectomia", "Guia clinica"]
 sources: ["Sanchez-Garces MA et al. Diagnosis and indications for the extraction of third molars - The SECIB clinical practice guideline. Med Oral Patol Oral Cir Bucal. 2024. DOI: 10.4317/medoral.26524", "Ghaeminia H et al. Surgical removal versus retention for the management of asymptomatic disease-free impacted wisdom teeth. Cochrane Database Syst Rev. 2020. DOI: 10.1002/14651858.CD003879.pub5", "Louizakis A et al. Prophylactic and Therapeutic Indications for Third Molar Extractions as Compared to Observation and Conservative Management: A Systematic Review and Meta-Analysis. Surgeries. 2025. DOI: 10.3390/surgeries6020037", "de Oliveira Peixoto A et al. Benefits of Coronectomy in Lower Third Molar Surgery: A Systematic Review and Meta-analysis. J Oral Maxillofac Surg. 2024. DOI: 10.1016/j.joms.2023.09.024", "Faculty of Dental Surgery, Royal College of Surgeons of England. Parameters of care for patients undergoing mandibular third molar surgery. 2021. URL: https://www.rcseng.ac.uk/-/media/files/rcs/fds/guidelines/3rd-molar-guidelines--april-2021.pdf"]
 status: "published"
@@ -45,9 +45,9 @@ La indicacion es mas fuerte cuando el CBCT confirma contacto intimo o perdida de
 
 ## Recomendaciones practicas graduadas
 
-**Consolidado.** Extraer terceros molares sintomaticos o con enfermedad objetivable: pericoronitis recurrente, infeccion, caries no restaurable, dano al segundo molar, reabsorcion, patologia quistica o indicacion quirurgica asociada. Documentar siempre el hallazgo clinico-radiografico que justifica la cirugia.
+**Lo suficientemente establecido.** Extraer terceros molares sintomaticos o con enfermedad objetivable: pericoronitis recurrente, infeccion, caries no restaurable, dano al segundo molar, reabsorcion, patologia quistica o indicacion quirurgica asociada. Documentar siempre el hallazgo clinico-radiografico que justifica la cirugia.
 
-**Consolidado.** No indicar extraccion solo para prevenir apiñamiento incisivo tardio. Las guias britanicas y la evidencia disponible no respaldan la retirada rutinaria de terceros molares por estabilidad ortodoncica aislada.
+**Lo suficientemente establecido.** No indicar extraccion solo para prevenir apiñamiento incisivo tardio. Las guias britanicas y la evidencia disponible no respaldan la retirada rutinaria de terceros molares por estabilidad ortodoncica aislada.
 
 **Prometedor/individualizado.** Considerar extraccion temprana en pacientes jovenes con posicion claramente desfavorable, acceso imposible a higiene, riesgo previsible para el segundo molar y baja morbilidad quirurgica esperada. La decision debe incluir consentimiento informado sobre alternativas y vigilancia.
 

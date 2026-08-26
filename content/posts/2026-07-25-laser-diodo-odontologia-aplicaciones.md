@@ -1,12 +1,12 @@
 ---
 title: "Láser de diodo en odontología: parámetros clínicos, indicaciones y seguridad"
 date: "2026-07-25"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Láser médico"
 evidence: "Guía clínica"
 excerpt: "Guía profesional sobre el láser de diodo en odontología: longitudes de onda, modos de emisión, indicaciones en tejido blando y endodoncia, complicaciones y criterios de seguridad actualizados."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Láser médico", "Láser de diodo", "Cirugía de tejido blando", "Endodoncia", "Seguridad láser"]
 sources: ["Qi LY, Wen J, Feng Q, et al. Effectiveness of thulium versus diode lasers in oral soft tissue surgery: a randomized clinical study. J Dent. 2025. PMID: 40889545", "Elemek E, Gelmez YM, Hekimoğlu ER, Eşrefoğlu M. Clinical and histological comparison of healing by steel scalpel, diode laser, and radiofrequency in palatal wound: An animal study. Niger J Clin Pract. 2023. PMID: 37794538", "Alharbi KH, AlMarwani WT, Alsulami RA, Alghamdi FT. New Insight Into Laser Applications in Endodontic Dentistry. Aust Endod J. 2025. PMID: 40464300", "Abaza MM, Harhash TAH, Zaky AA. Comparative analysis of laser and ultrasonic irrigation techniques for smear layer removal in endodontics. Lasers Med Sci. 2025. PMID: 41389357", "Tekce AU, Yazici AR. Clinical comparison of diode laser- and LED-activated tooth bleaching: 9-month follow-up. Lasers Med Sci. 2022. PMID: 35829976", "Rodriguez CGB, Manna MPNC, Tarrilo FEA, Zezell DM, Eduardo CP. In Vitro Study of the Effects of Diode Laser on Dentin Hypersensitivity. Lasers Med Sci. 2025. PMID: 39907815", "Pourrat F. Diode laser in orthodontics: clinical applications and perspectives. Orthod Fr. 2023. PMID: 37553887"]
 status: "published"
@@ -68,14 +68,14 @@ El láser de diodo en el rango 810-1064 nm es de **clase IV**, lo que implica ri
 
 El cumplimiento de estas condiciones no es optativo. La normativa europea (Directiva 2006/25/CE) y los criterios de la IEC 60825-1 regulan el uso de láseres clase IV en entornos clínicos; las comunidades autónomas disponen además de requisitos de instalación y habilitación específicos.
 
-## Consolidado, prometedor y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado:** cirugía de tejido blando oral como indicación principal, hemostasia intraoperatoria, frenectomía, operculectomía, remodelado gingival. Perfil de seguridad favorable cuando se respetan parámetros y condiciones de uso.
+**Lo suficientemente establecido:** cirugía de tejido blando oral como indicación principal, hemostasia intraoperatoria, frenectomía, operculectomía, remodelado gingival. Perfil de seguridad favorable cuando se respetan parámetros y condiciones de uso.
 
-**Prometedor:** coadyuvante en terapia periodontal en casos seleccionados, descontaminación endodóncica como complemento a irrigación química, manejo de hipersensibilidad dentinaria.
+**Aún en desarrollo:** coadyuvante en terapia periodontal en casos seleccionados, descontaminación endodóncica como complemento a irrigación química, manejo de hipersensibilidad dentinaria.
 
-**Experimental:** aplicaciones de blanqueamiento con ventaja significativa respecto a otros sistemas de activación, endodoncia como técnica autónoma, regeneración tisular mediante fotobiomodulación con diodo de alta potencia. Estos contextos requieren más evidencia controlada antes de considerarse estándar clínico.
+**No lo trataría como estándar:** aplicaciones de blanqueamiento con ventaja significativa respecto a otros sistemas de activación, endodoncia como técnica autónoma, regeneración tisular mediante fotobiomodulación con diodo de alta potencia. Estos contextos requieren más evidencia controlada antes de considerarse estándar clínico.
 
 ## Conclusiones clínicas
 
-El láser de diodo es una herramienta de tejido blando con indicaciones bien establecidas y evidencia creciente en endodoncia y periodoncia como coadyuvante. Su seguridad depende de la formación del operador, el conocimiento de los parámetros físicos y el cumplimiento estricto de medidas de protección ocular. La sencillez de la interfaz de usuario no debe confundirse con simplicidad clínica: cada procedimiento requiere decisión de potencia, modo de emisión y energía total adaptados a la situación anatómica concreta. Los centros que incorporan láser de diodo —como Ocean Clinik en el área de cirugía mínimamente invasiva— obtienen mayor rentabilidad de la herramienta cuando existe un protocolo interno de uso documentado, con registro de parámetros por procedimiento y revisión periódica de resultados.
+El láser de diodo es una herramienta de tejido blando con indicaciones bien establecidas y evidencia creciente en endodoncia y periodoncia como coadyuvante. Su seguridad depende de la formación del operador, el conocimiento de los parámetros físicos y el cumplimiento estricto de medidas de protección ocular. La sencillez de la interfaz de usuario no debe confundirse con simplicidad clínica: cada procedimiento requiere decisión de potencia, modo de emisión y energía total adaptados a la situación anatómica concreta. Cuando una clínica incorpora láser de diodo, obtiene más valor si existe un protocolo interno de uso documentado, con registro de parámetros por procedimiento y revisión periódica de resultados.

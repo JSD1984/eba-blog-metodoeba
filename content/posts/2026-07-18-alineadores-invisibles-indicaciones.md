@@ -1,12 +1,12 @@
 ---
 title: "Alineadores transparentes: indicaciones reales y limitaciones clinicas"
 date: "2026-07-18"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Ortodoncia"
 evidence: "Guía clínica"
 excerpt: "Guia clinica para seleccionar casos de ortodoncia con alineadores transparentes, diferenciando indicaciones consolidadas, escenarios individualizables y limites biomecanicos."
 readingTime: "5 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Ortodoncia", "Alineadores transparentes", "Maloclusion", "Biomecanica", "Guia clinica"]
 sources: ["Muro MP et al. Effectiveness and predictability of treatment with clear orthodontic aligners: A scoping review. Int Orthod. 2023. DOI: 10.1016/j.ortho.2023.100755", "Alwafi A et al. Overview of systematic reviews and meta-analyses assessing the predictability and clinical effectiveness of clear aligner therapy. Dent Rev. 2023. DOI: 10.1016/j.dentre.2023.100074", "Hartogsohn CR, Sonnesen L. Clear Aligner Treatment: Indications, Advantages, and Adverse Effects-A Systematic Review. Dent J (Basel). 2025. DOI: 10.3390/dj13010040", "Wang Y et al. Expert consensus on the clinical strategies for orthodontic treatment with clear aligners. Int J Oral Sci. 2025. DOI: 10.1038/s41368-025-00350-2", "Monisha J, Peter E. Efficacy of clear aligner wear protocols in orthodontic tooth movement-a systematic review. Eur J Orthod. 2024. DOI: 10.1093/ejo/cjae020", "American Association of Orthodontists. Clinical Practice Guidelines. URL: https://www2.aaoinfo.org/practice-management/cpg/"]
 status: "published"
@@ -55,9 +55,9 @@ El consentimiento informado debe explicar que puede haber refinamientos, auxilia
 
 ## Recomendaciones graduadas
 
-**Consolidado.** Usar alineadores en apiñamientos y espaciamientos leves-moderados, recidivas, inclinaciones coronarias controladas y pacientes con buena adherencia, siempre con diagnostico ortodoncico completo.
+**Lo suficientemente establecido.** Usar alineadores en apiñamientos y espaciamientos leves-moderados, recidivas, inclinaciones coronarias controladas y pacientes con buena adherencia, siempre con diagnostico ortodoncico completo.
 
-**Consolidado.** Considerar alineadores en pacientes con periodonto controlado cuando la higiene sea prioritaria y los movimientos sean biologicamente prudentes. El control periodontal debe integrarse en el plan.
+**Lo suficientemente establecido.** Considerar alineadores en pacientes con periodonto controlado cuando la higiene sea prioritaria y los movimientos sean biologicamente prudentes. El control periodontal debe integrarse en el plan.
 
 **Prometedor/individualizable.** Abordar maloclusiones moderadas-complejas con alineadores si se incorporan auxiliares, attachments, elasticos, miniimplantes o fases combinadas. Requiere experiencia y seguimiento estrecho.
 

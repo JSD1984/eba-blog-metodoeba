@@ -1,12 +1,12 @@
 ---
 title: "Ortodoncia en el paciente adulto con periodontitis: protocolo multidisciplinar"
 date: "2026-08-09"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Ortodoncia"
 evidence: "Guía clínica"
 excerpt: "Guía clínica para planificar ortodoncia en adultos con periodontitis tratada: criterios de estabilidad periodontal, secuencia interdisciplinar, biomecánica adaptada, mantenimiento y límites de la evidencia."
 readingTime: "8 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Ortodoncia", "Periodontitis", "Paciente adulto", "Periodoncia", "Stage IV periodontitis", "Mantenimiento periodontal"]
 sources: ["Herrera D, Sanz M, Kebschull M, Jepsen S, Sculean A, Berglundh T, Papapanou PN, Chapple I, Tonetti MS. Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline. J Clin Periodontol. 2022;49(Suppl 24):4-71. doi:10.1111/jcpe.13639.", "Erbe C, Heger S, Kasaj A, Berres M, Wehrbein H. Orthodontic treatment in periodontally compromised patients: a systematic review. Clin Oral Investig. 2023;27(1):79-89. doi:10.1007/s00784-022-04822-1.", "Papageorgiou SN, Antonoglou GN, Michelogiannakis D, Kakali L, Eliades T. Effect of periodontal-orthodontic treatment of teeth with pathological tooth flaring, drifting, and elongation in patients with severe periodontitis: a systematic review with meta-analysis. J Clin Periodontol. 2022;49(2):102-120. doi:10.1111/jcpe.13529.", "BSP. UK implementation of treatment of stage IV periodontitis: the EFP S3 level clinical practice guideline. Br Dent J. 2025. https://www.nature.com/articles/s41415-024-7789-6", "Chinese Stomatological Association. Expert consensus on orthodontic treatment of patients with periodontal disease. Int J Oral Sci. 2025;17:16. doi:10.1038/s41368-025-00356-w."]
 status: "published"
@@ -57,11 +57,11 @@ El mantenimiento no se delega al final. En pacientes de riesgo, las visitas peri
 
 La retención es crítica. El soporte reducido y la historia de migración patológica aumentan el riesgo de recidiva. Las retenciones fijas pueden ser útiles, pero deben permitir higiene interdental y revisión periodontal. Si habrá rehabilitación protésica posterior, la ortodoncia debe dejar posiciones radiculares y espacios restaurables.
 
-## Evidencia consolidada, prometedora y experimental
+## Lectura crítica de la evidencia
 
-**Consolidado:** la ortodoncia puede realizarse en adultos con periodontitis tratada si la inflamación está controlada, la higiene es adecuada, se usan fuerzas adaptadas y existe mantenimiento periodontal. La guía EFP S3 respalda el abordaje interdisciplinar en estadio IV.
+**Lo suficientemente establecido:** la ortodoncia puede realizarse en adultos con periodontitis tratada si la inflamación está controlada, la higiene es adecuada, se usan fuerzas adaptadas y existe mantenimiento periodontal. La guía EFP S3 respalda el abordaje interdisciplinar en estadio IV.
 
-**Prometedor:** las revisiones recientes sugieren que el tratamiento periodontal-ortodóncico puede mejorar función, estética, acceso higiénico y parámetros periodontales modestos. Erbe et al. y Papageorgiou et al. apuntan a que el movimiento no tiene por qué empeorar el periodonto si se realiza tras estabilización y con mantenimiento estricto.
+**Aún en desarrollo:** las revisiones recientes sugieren que el tratamiento periodontal-ortodóncico puede mejorar función, estética, acceso higiénico y parámetros periodontales modestos. Erbe et al. y Papageorgiou et al. apuntan a que el movimiento no tiene por qué empeorar el periodonto si se realiza tras estabilización y con mantenimiento estricto.
 
 **Experimental o insuficientemente establecido:** protocolos acelerados, micro-osteoperforaciones, corticotomías generalizadas o adyuvantes regenerativos combinados con ortodoncia no deben presentarse como estándar en periodontitis.
 

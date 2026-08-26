@@ -1,12 +1,12 @@
 ---
 title: "Láser CO2 vaginal en síndrome genitourinario de la menopausia: indicaciones, evidencia y consentimiento informado"
 date: "2026-07-28"
-author: "MarkIA — Estética y Dental al Día"
+author: "Dr. Claudio Vázquez"
 category: "Ginecoestética / medicina sexual"
 evidence: "Guía clínica"
 excerpt: "Guía profesional sobre láser CO2 vaginal en síndrome genitourinario de la menopausia: selección de pacientes, evidencia comparada, límites regulatorios y consentimiento informado."
 readingTime: "7 min"
-reviewedBy: "Revisión pendiente"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Láser CO2", "Síndrome genitourinario de la menopausia", "Ginecoestética", "Consentimiento informado", "Medicina sexual"]
 sources: ["Pessoa LLMN, de Souza ATB, Sarmento ACA, et al. Laser therapy for genitourinary syndrome of menopause: systematic review and meta-analysis of randomized controlled trial. Rev Bras Ginecol Obstet. 2024;46:e-rbgo38. doi: 10.61622/rbgo/2024rbgo38", "Li FG, Maheux-Lacroix S, Deans R, et al. Effect of Fractional Carbon Dioxide Laser vs Sham Treatment on Symptom Severity in Women With Postmenopausal Vaginal Symptoms: A Randomized Clinical Trial. JAMA. 2021;326(14):1381-1389. doi: 10.1001/jama.2021.14892", "Page AS, Verbakel JY, Verhaeghe J, et al. Laser versus sham for genitourinary syndrome of menopause: A randomised controlled trial. BJOG. 2023;130(3):312-319. doi: 10.1111/1471-0528.17335", "The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020;27(9):976-992. doi: 10.1097/GME.0000000000001609", "Zerzan NL, Greer N, Ullman KE, et al. Energy-based interventions for genitourinary syndrome of menopause: a systematic review of randomized controlled trials and prospective observational studies. Menopause. 2025;32(2):176-183. doi: 10.1097/GME.0000000000002465", "U.S. Food and Drug Administration. FDA warns against use of energy-based devices to perform vaginal 'rejuvenation' or vaginal cosmetic procedures. URL: https://www.fda.gov/medical-devices/safety-communications/fda-warns-against-use-energy-based-devices-perform-vaginal-rejuvenation-or-vaginal-cosmetic", "Nasr AM, Saad MA, Mohamed AS, et al. Efficacy of CO2 laser vs vaginal estrogen in perimenopausal women with genitourinary syndrome of menopause: systematic review and meta-analysis. J Sex Med. 2025;22(8):1409-1421. doi: 10.1093/jsxmed/qdaf153"]
 status: "published"
@@ -29,9 +29,9 @@ La comparación frente a estrógenos vaginales también requiere prudencia. El m
 
 ## Recomendaciones graduadas
 
-**Consolidado:** el diagnóstico de SGM debe ser clínico y diferencial. Antes de plantear energía vaginal, conviene documentar síntomas, exploración, tratamientos previos, severidad, impacto sexual y expectativas. Hidratantes, lubricantes y terapia hormonal local, cuando está indicada, siguen siendo opciones con mayor recorrido clínico y guía de sociedades. En supervivientes de cáncer hormonodependiente, la decisión debe coordinarse con oncología/ginecología y no reducirse a “evitar hormonas”.
+**Lo suficientemente establecido:** el diagnóstico de SGM debe ser clínico y diferencial. Antes de plantear energía vaginal, conviene documentar síntomas, exploración, tratamientos previos, severidad, impacto sexual y expectativas. Hidratantes, lubricantes y terapia hormonal local, cuando está indicada, siguen siendo opciones con mayor recorrido clínico y guía de sociedades. En supervivientes de cáncer hormonodependiente, la decisión debe coordinarse con oncología/ginecología y no reducirse a “evitar hormonas”.
 
-**Prometedor:** el láser CO2 puede considerarse en pacientes seleccionadas con SGM moderado o persistente, especialmente si han fallado medidas conservadoras o no desean/no pueden usar determinadas terapias locales, siempre que se explique la incertidumbre. La indicación razonable es sintomática y funcional, no estética. Deben recogerse escalas de sequedad, dispareunia, dolor, calidad sexual, síntomas urinarios y satisfacción antes y después, evitando valorar el éxito solo por impresión clínica inmediata.
+**Aún en desarrollo:** el láser CO2 puede considerarse en pacientes seleccionadas con SGM moderado o persistente, especialmente si han fallado medidas conservadoras o no desean/no pueden usar determinadas terapias locales, siempre que se explique la incertidumbre. La indicación razonable es sintomática y funcional, no estética. Deben recogerse escalas de sequedad, dispareunia, dolor, calidad sexual, síntomas urinarios y satisfacción antes y después, evitando valorar el éxito solo por impresión clínica inmediata.
 
 **Experimental o no suficientemente cerrado:** el uso de láser CO2 para “rejuvenecimiento”, tensado vaginal, mejora sexual inespecífica, incontinencia urinaria sin diagnóstico u otros reclamos cosméticos no debe mezclarse con la evidencia sobre SGM. Tampoco está cerrada la durabilidad del efecto a largo plazo, el régimen óptimo de mantenimiento, la superioridad frente a tratamientos activos ni la seguridad acumulada en subgrupos complejos.
 
