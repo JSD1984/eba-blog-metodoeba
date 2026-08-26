@@ -1,12 +1,12 @@
 ---
 title: "Clasificación de periodontitis 2017: lo que cambia en la consulta cuando dejas de usar etiquetas viejas"
 date: "2026-07-21"
-author: "Dr. J. Sánchez"
+author: "Dr. Claudio Vázquez"
 category: "Periodoncia"
 evidence: "Revisión clínica con fuentes indexadas"
 excerpt: "La clasificación AAP/EFP 2017 no es un trámite burocrático. Cambia cómo decides el tratamiento, el mantenimiento y la conversación con el paciente."
 readingTime: "7 min"
-reviewedBy: "Dr. J. Sánchez"
+reviewedBy: "Dr. Claudio Vázquez"
 tags: ["Periodoncia", "Periodontitis", "Clasificación 2017", "Estadios", "Grados", "Diagnóstico periodontal"]
 sources: ["Papapanou PN et al. J Periodontol. 2018. DOI: 10.1002/JPER.17-0721", "Tonetti MS et al. J Periodontol. 2018. DOI: 10.1002/JPER.18-0006", "Sanz M et al. J Clin Periodontol. 2020. DOI: 10.1111/jcpe.13290", "Herrera D et al. J Clin Periodontol. 2022. DOI: 10.1111/jcpe.13639", "Raza M et al. BMC Oral Health. 2024. DOI: 10.1186/s12903-024-04385-5", "Saleh O et al. Oral Diseases. 2025. DOI: 10.1111/odi.15297", "Salinas TJ et al. J Periodontol. 2024;95(8). PMC11284269", "PMC8959339 — Tobacco, diabetes and periodontal disease. 2022"]
 status: "published"
@@ -73,7 +73,7 @@ El diagnóstico debería redactarse completo. Por ejemplo: **periodontitis estad
 
 Eso obliga a hacer cosas concretas: intervalo de mantenimiento acortado, derivación si procede a medicina de familia para control metabólico, consejo de deshabituación tabáquica registrado en la historia, y plan de reevaluación con fecha.
 
-En Ocean Clinik Tenerife Sur trabajamos con este esquema diagnóstico en todos los pacientes con enfermedad periodontal documentada. Nos ha ayudado a no dar el alta periodontal hasta tener confirmado que la reevaluación postratamiento muestra el resultado esperado, y a comunicar el caso con más precisión cuando hay tratamiento multidisciplinar implicado.
+En Ocean Clinik Tenerife Sur aplicamos este esquema diagnóstico en todos los pacientes con enfermedad periodontal documentada. Nos ha ayudado a no dar el alta periodontal hasta confirmar que la reevaluación postratamiento muestra el resultado esperado, y a comunicar el caso con más precisión cuando hay tratamiento multidisciplinar implicado.
 
 ---
 
