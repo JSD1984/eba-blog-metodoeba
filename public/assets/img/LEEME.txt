@@ -1,0 +1,21 @@
+CARPETA DE IMÁGENES DEL BLOG
+============================
+
+Aquí van TODAS las imágenes del blog (portadas de artículos e imágenes dentro del texto).
+
+CÓMO USARLAS
+------------
+1) Guarda la imagen en esta carpeta (assets/img/).
+   Ejemplo: assets/img/resenas-google.jpg
+
+2) En el panel de admin (admin/index.html):
+   - "Imagen de portada": escribe solo el nombre del archivo -> resenas-google.jpg
+   - Dentro del texto, para poner una imagen escribe en una línea:
+        ![texto que describe la imagen](nombre-del-archivo.jpg)
+
+RECOMENDACIONES
+---------------
+- Formato: .jpg o .webp (más ligeras) para fotos; .png o .svg para gráficos.
+- Portada ideal: 1200 x 500 px aprox. (apaisada).
+- Nombra los archivos en minúsculas y con guiones, sin acentos ni espacios.
+- Optimiza el peso (por debajo de ~300 KB) para que el blog cargue rápido.
