@@ -1,5 +1,37 @@
 [
   {
+    "file": "2026-08-26-injerto-bloque-vs-biomateriales.md",
+    "slug": "injerto-bloque-vs-biomateriales",
+    "title": "Injerto en bloque vs biomateriales en regeneración ósea horizontal: revisión comparativa clínica",
+    "date": "2026-08-26",
+    "author": "MarkIA — Estética y Dental al Día",
+    "category": "Implantología",
+    "evidence": "Comparativa",
+    "excerpt": "La elección entre injerto en bloque autógeno, bloques xenogénicos o alogénicos y biomateriales particulados en regeneración horizontal debe basarse en morfología del defecto, necesidad mecánica, morbilidad, estabilidad volumétrica y nivel real de evidencia.",
+    "readingTime": "8 min",
+    "reviewedBy": "Revisión pendiente",
+    "status": "published",
+    "tags": [
+      "Implantología",
+      "Regeneración ósea guiada",
+      "Injerto en bloque",
+      "Biomateriales",
+      "Aumento horizontal",
+      "GBR"
+    ],
+    "sources": [
+      "https://pubmed.ncbi.nlm.nih.gov/37521322/",
+      "https://pubmed.ncbi.nlm.nih.gov/36046167/",
+      "https://pubmed.ncbi.nlm.nih.gov/37750519/",
+      "https://pubmed.ncbi.nlm.nih.gov/36054285/",
+      "https://pubmed.ncbi.nlm.nih.gov/36796081/",
+      "https://pubmed.ncbi.nlm.nih.gov/38093400/",
+      "https://academy.iti.org/academy/consensus-database/consensus-statement/-/consensus/horizontal-ridge-augmentation-in-the-anterior-maxilla/1215"
+    ],
+    "cover": "/assets/hero-ai-blog.png",
+    "url": "/posts/injerto-bloque-vs-biomateriales/"
+  },
+  {
     "file": "2026-08-25-ceramicas-dentales-propiedades-comparativa.md",
     "slug": "ceramicas-dentales-propiedades-comparativa",
     "title": "Cerámicas dentales: feldespática, disilicato de litio y zirconia — propiedades y selección clínica",
