@@ -1,0 +1,97 @@
+---
+title: "Antibióticos en periodontitis: uso racional y selección basada en evidencia"
+date: "2026-08-31"
+author: "MarkIA — Estética y Dental al Día"
+category: "Periodoncia"
+evidence: "Revisión sistemática"
+excerpt: "Los antibióticos sistémicos no son tratamiento estándar en periodontitis. La evidencia actual — incluida una revisión paraguas de 2025 con 44 revisiones sistemáticas — limita su indicación a formas graves, de progresión rápida o con microorganismos específicos, siempre adjuntos al desbridamiento mecánico completo."
+readingTime: "7 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Periodoncia", "Antibióticos", "Periodontitis", "Stewardship antimicrobiano", "Amoxicilina", "Metronidazol", "EFP"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/40535546/", "https://pubmed.ncbi.nlm.nih.gov/32383274/", "https://aap.onlinelibrary.wiley.com/doi/10.1002/JPER.21-0171", "https://www.ejomr.org/JOMR/archives/2022/1/e2/v13n1e2ht.htm/e1/e1/e3/privacy.php", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12382797/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico
+
+La antibioterapia sistémica en periodontitis ha sido durante décadas un recurso habitual en la consulta, justificado por la naturaleza bacteriana de la enfermedad y la presencia de patógenos como *Aggregatibacter actinomycetemcomitans* o *Porphyromonas gingivalis* en el biofilm subgingival. Sin embargo, la evidencia acumulada en los últimos años ha reformulado su papel: los antibióticos sistémicos no son tratamiento estándar, sino una herramienta adjunta reservada a indicaciones específicas y con criterios bien definidos.
+
+Esta revisión recoge el estado actual de la evidencia, las recomendaciones de la EFP y los criterios de selección práctica, en el contexto de la resistencia antimicrobiana como problema de salud pública global.
+
+## Justificación del uso selectivo
+
+La guía clínica de la European Federation of Periodontology (EFP) para el tratamiento de periodontitis en estadios I-III (Sanz et al., *Journal of Clinical Periodontology*, 2020, PMID: 32383274) estableció una posición clara: **no se recomienda el uso rutinario de antibióticos sistémicos como complemento al raspado y alisado radicular** en la mayoría de los pacientes. La justificación se apoya en tres ejes:
+
+1. El desbridamiento mecánico subgingival resuelve la infección en la mayoría de los casos, especialmente en estadios I y II.
+2. Los efectos adversos de los antibióticos sistémicos no se compensan con beneficios clínicos marginales en casos de baja a moderada gravedad.
+3. El uso innecesario contribuye a la selección de cepas resistentes, un problema de salud pública que los profesionales de la salud oral no pueden ignorar.
+
+## Umbral de indicación: cuándo sí se consideran
+
+La evidencia actual identifica un perfil de paciente en el que la antibioterapia sistémica adjunta puede aportar beneficio clínico real:
+
+**Indicación con evidencia más sólida:**
+- Periodontitis generalizada estadio III o IV, grado C, en pacientes jóvenes (< 35 años) con progresión rápida o refractariedad al tratamiento mecánico.
+- Presencia confirmada de *A. actinomycetemcomitans* en microbiología subgingival.
+
+**Indicación considerada con evidencia moderada:**
+- Periodontitis estadio III generalizada con respuesta insuficiente al tratamiento no quirúrgico en la reevaluación a las 8-12 semanas, especialmente con bolsas residuales persistentes ≥ 6 mm.
+- Pacientes inmunocomprometidos o con diabetes mal controlada, evaluados caso a caso.
+
+**Sin indicación establecida:**
+- Periodontitis leve o moderada localizada.
+- Uso preventivo o profiláctico sin evidencia de patógenos específicos.
+- Cualquier prescripción como sustituto del tratamiento mecánico.
+
+## Pauta antibiótica de referencia
+
+La combinación más estudiada y con mayor respaldo clínico es **amoxicilina 500 mg + metronidazol 500 mg, tres veces al día durante 7 días**, administrada inmediatamente después del desbridamiento mecánico completo de toda la dentición. Esta secuencia temporal es crítica: la antibioterapia sin tratamiento mecánico previo carece de efecto sostenido.
+
+Un metaanálisis publicado en el *eJournal of Oral and Maxillofacial Research* (2022) evaluó distintas dosis de amoxicilina/metronidazol como terapia adjunta en periodontitis estadios II-III grado C. Los resultados mostraron que la dosis de 500 mg de metronidazol tres veces al día fue consistentemente superior para la ganancia de nivel de inserción clínica y la reducción de profundidad de bolsa, en comparación con pautas de menor dosis. La duración óptima en la mayoría de ensayos fue de 7 días.
+
+La revisión secundaria de Faveri et al. (*Journal of Periodontology*, 2023, DOI: 10.1002/JPER.21-0171) sobre efectos microbiológicos en estadios III y IV confirmó la reducción de carga de patógenos periodontales tras la pauta combinada, con mantenimiento del efecto hasta los 26 meses de seguimiento en una proporción significativa de pacientes.
+
+En pacientes alérgicos a la amoxicilina, la alternativa más documentada es **metronidazol 500 mg tres veces al día como monoterapia** durante 7 días, aunque con menor espectro sobre algunas cepas.
+
+## Antibióticos locales de liberación sostenida
+
+Como complemento al raspado en sitios localizados con bolsas persistentes, la EFP considera el uso de **doxiciclina de liberación sostenida** (chips o geles subgingivales) y **clorhexidina local** como opciones con respaldo moderado en casos selectivos. Su ventaja frente a la antibioterapia sistémica es la concentración local elevada con mínima exposición sistémica, reduciendo el impacto sobre el microbioma general.
+
+La evidencia, no obstante, es heterogénea: los metaanálisis disponibles muestran reducciones de profundidad de bolsa estadísticamente significativas pero de magnitud clínica modesta (0,2-0,4 mm adicionales frente al desbridamiento solo), lo que obliga a seleccionar correctamente el sitio y el paciente.
+
+## Evidencia reciente: la revisión paraguas de 2025
+
+Un análisis de síntesis publicado en *Frontiers in Cellular and Infection Microbiology* (Botelho et al., junio 2025, DOI: 10.3389/fcimb.2025.1601464, PMID: 40535546) evaluó 44 revisiones sistemáticas con 221 metaanálisis sobre antibióticos en terapia periodontal. La conclusión central es contundente: **no existe evidencia robusta que respalde el uso generalizado de antibióticos en el manejo de la periodontitis**. El efecto del antibiótico sistémico sobre parámetros clínicos fue mínimo en la mayoría de análisis, y los autores advierten que nuevos ensayos son poco probables que cambien este nivel de evidencia.
+
+Los autores recomiendan aplicar principios de **stewardship antimicrobiano** en periodoncia, limitando la prescripción a los perfiles de alta gravedad ya descritos, y evitando su uso como respuesta por defecto ante enfermedad periodontal activa.
+
+## Resistencia antimicrobiana en flora oral
+
+La resistencia en bacterias periodontopáticas ha aumentado de forma documentada. Una revisión publicada en *PMC* en 2025 (Comprehensive Review of Antibiotic Resistance in the Oral Microbiota, PMC: 12382797) identificó mecanismos de resistencia a penicilinas, tetraciclinas y metronidazol en especies del biofilm subgingival, con variaciones geográficas relevantes. Este contexto refuerza la necesidad de prescripción cuidadosa, documentada y revisable.
+
+## Implicaciones prácticas del stewardship
+
+Las recomendaciones para el profesional incluyen:
+
+- **Registrar siempre la justificación clínica** de la prescripción: estadio, grado, hallazgos, respuesta previa al tratamiento mecánico.
+- **No prescribir antes del desbridamiento completo**: administrar antibióticos sin tratamiento mecánico previo reduce su eficacia y favorece resistencias sin beneficio adicional.
+- **Valorar microbiología subgingival** en periodontitis agresivas o refractarias antes de elegir la pauta, especialmente ante sospecha de *A. actinomycetemcomitans*.
+- **Revisar el historial farmacológico**: el metronidazol interacciona con anticoagulantes cumarínicos (warfarina), alcohol e inmunosupresores.
+- **Informar al paciente** sobre la importancia de completar el ciclo completo y los efectos adversos esperables, principalmente intolerancia gastrointestinal.
+
+## Conclusiones clínicas
+
+Los antibióticos sistémicos no son tratamiento estándar en periodontitis. Su indicación queda circunscrita a formas graves, de progresión rápida o con microorganismos específicos identificados, y siempre como complemento a un tratamiento mecánico completo. La pauta amoxicilina + metronidazol 500 mg/8 h durante 7 días, iniciada tras el desbridamiento, es la más respaldada por la evidencia actual.
+
+La revisión paraguas de 2025 confirma que el nivel de evidencia en favor del uso generalizado es bajo y difícilmente mejorable con más ensayos. Esto no invalida la indicación selectiva; la refuerza como herramienta precisa en manos del clínico que sabe cuándo y cómo usarla. La periodoncia es un área donde la profesión odontológica puede y debe contribuir activamente a la preservación de la eficacia antimicrobiana.
+
+---
+
+**FUENTES**
+
+- Botelho J, Lyra P, Nascimento GG et al. (2025). Antibiotics in periodontal treatment: an umbrella review. *Frontiers in Cellular and Infection Microbiology*. PMID: 40535546. DOI: 10.3389/fcimb.2025.1601464
+- Sanz M et al. (2020). Treatment of stage I-III periodontitis — The EFP S3 level clinical practice guideline. *Journal of Clinical Periodontology*. PMID: 32383274
+- Faveri M et al. (2023). Microbiological effects of amoxicillin plus metronidazole in the treatment of young patients with Stages III and IV periodontitis. *Journal of Periodontology*. DOI: 10.1002/JPER.21-0171
+- Cosgarea R et al. (2022). Amoxicillin/metronidazole dose impact as adjunctive therapy for Stage II-III Grade C periodontitis. *eJournal of Oral and Maxillofacial Research*. 13(1):e2
+- Comprehensive Review of Antibiotic Resistance in the Oral Microbiota (2025). PMC: 12382797
