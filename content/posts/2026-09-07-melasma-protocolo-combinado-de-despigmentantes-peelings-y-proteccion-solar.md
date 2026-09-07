@@ -1,0 +1,158 @@
+---
+title: "Melasma: protocolo combinado de despigmentantes, peelings y protección solar"
+date: "2026-09-07"
+author: "MarkIA — Estética y Dental al Día"
+category: "Dermatología estética"
+evidence: "Comparativa"
+excerpt: "Revisión comparativa de los enfoques combinados para el tratamiento del melasma: agentes tópicos despigmentantes, peelings químicos, ácido tranexámico y fotoprotección de espectro amplio. Evidencia clínica actualizada y recomendaciones graduadas."
+readingTime: "8 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Melasma", "Despigmentantes", "Peelings químicos", "Ácido tranexámico", "Hidroquinona", "Ácido azelaico", "Fotoprotección", "Dermatología estética"]
+sources: ["https://pmc.ncbi.nlm.nih.gov/articles/PMC10339666/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10657168/", "https://www.tandfonline.com/doi/full/10.1080/09546634.2024.2361106", "https://pubmed.ncbi.nlm.nih.gov/38530985/", "https://www.seme.org/revista/articulos/actualizacion-en-el-tratamiento-del-melasma-revision-sistematica"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico
+
+El melasma es una hipermelanosis adquirida crónica que afecta predominantemente a mujeres en edad fértil, con una prevalencia global estimada del 8-40% según la zona geográfica y el fototipo. Su patogénesis es multifactorial: exposición ultravioleta (UVA y UVB), luz visible, radiación infrarroja cercana, influencia hormonal (estrógenos, progesterona) y predisposición genética actúan de forma sinérgica sobre los melanocitos, que en el melasma muestran mayor actividad enzimática de la tirosinasa y mayor sensibilidad a la estimulación lumínica que la piel circundante.
+
+El manejo eficaz requiere una estrategia secuencial y combinada: ningún agente en monoterapia ha demostrado resultados duraderos. La alta tasa de recidiva —estimada en más del 60% al año sin mantenimiento— hace imprescindible el abordaje a largo plazo que integre tratamiento activo, fotoprotección estricta y fase de mantenimiento estructurada.
+
+---
+
+## Criterios de comparación
+
+La evaluación de los distintos tratamientos se basa en tres parámetros clínicos principales:
+
+- **MASI** (*Melasma Area and Severity Index*): escala de 0 a 48 que combina área afectada, intensidad pigmentaria y distribución. Es el índice validado de referencia en la mayoría de ensayos clínicos.
+- **Perfil de seguridad y tolerabilidad**: especialmente relevante en fototipos III-VI, donde el riesgo de hiperpigmentación postinflamatoria (HPI) es significativo.
+- **Durabilidad de la respuesta**: tiempo hasta la recidiva y necesidad de tratamiento de mantenimiento.
+
+---
+
+## Agentes tópicos despigmentantes
+
+### Hidroquinona
+
+La hidroquinona (HQ) al 2-4% sigue siendo el patrón de referencia en el tratamiento del melasma. Actúa inhibiendo la tirosinasa, bloqueando la conversión de DOPA en melanina. Su eficacia en monoterapia es moderada; el paradigma de mayor impacto clínico es la fórmula de Kligman modificada (HQ 4% + tretinoína 0,05% + acetónido de fluocinolona 0,01%), que actúa simultáneamente sobre la melanogénesis, la renovación epidérmica y la inflamación.
+
+Sus limitaciones principales son la ocronosis exógena (con uso prolongado >6 meses), el eritema y la descamación en los primeros días de uso, y la necesidad de ciclos con periodos de descanso.
+
+### Ácido azelaico
+
+Una revisión sistemática y metaanálisis publicada en *Cureus* (Albzea et al., 2023; DOI: 10.7759/cureus.41796) que incluyó 6 ensayos clínicos aleatorizados (ECA) con 673 pacientes demostró que el ácido azelaico al 20% mostró reducción superior del MASI en comparación con la hidroquinona (diferencia de medias: −1,23; IC 95%; p=0,004). El perfil de efectos adversos del ácido azelaico fue significativamente mejor: tasa de irritación del 18,7% frente al 50,9% de las terapias con hidroquinona en combinación.
+
+El ácido azelaico tiene un doble mecanismo: inhibición selectiva de la tirosinasa en melanocitos hiperactivos (sin afectar la pigmentación normal) y efecto antiinflamatorio sobre el componente dérmico del melasma. Es una alternativa preferente en pacientes con fototipos altos o intolerancia a la hidroquinona.
+
+### Otros despigmentantes tópicos
+
+- **Ácido kójico** (1-2%): eficacia similar a la hidroquinona con menor riesgo de ocronosis; frecuente asociación con ácido glicólico en fórmulas magistrales.
+- **Arbutina**: inhibidor débil de la tirosinasa; útil en mantenimiento y fototipos altos.
+- **Niacinamida** (4-5%): inhibe la transferencia de melanosomas desde los melanocitos a los queratinocitos; buena tolerabilidad.
+- **Cisteamina** (5%): mecanismo múltiple (inhibición de tirosinasa, reducción de H₂O₂); ensayos recientes muestran eficacia comparable a la hidroquinona con menor irritación.
+
+---
+
+## Peelings químicos
+
+Los peelings actúan acelerando la descamación epidérmica y diluyendo el contenido melanosomal en los estratos superficiales. Para el melasma, los peelings superficiales y medianos son los más utilizados, reservando los peelings profundos por el alto riesgo de HPI en fototipos III-VI.
+
+Una revisión sistemática publicada en *Journal of Cosmetic Dermatology* (*Chemical Peels for Melasma: A Systematic Review*, PMID 38530985, 2024) analizó 15 ECA y 9 estudios comparativos con un total de 1.075 participantes, concluyendo que el ácido glicólico es el agente con mejor perfil de seguridad-eficacia en melasma, especialmente en series de 4-6 sesiones mensuales.
+
+Un estudio comparativo en *Cureus* (Prasad et al., 2023; DOI: 10.7759/cureus.47312) evaluó tres modalidades:
+
+- **TCA 15% aislado:** reducción de MASI de 2,11 puntos en 75 días; complicaciones en el 80-90% de los pacientes en las fases iniciales.
+- **Combinación TCA 15% + fenol 15% + ácido glicólico 2%:** reducción de MASI de 2,14 puntos sin complicaciones documentadas.
+
+La combinación multicapa ofrece la misma eficacia con menor riesgo individual de cada componente, al actuar de forma sinérgica sobre distintos compartimentos epidérmicos.
+
+### Protocolos más utilizados en melasma
+
+| Agente | Concentración | Profundidad | Sesiones recomendadas | Observaciones |
+|---|---|---|---|---|
+| Ácido glicólico | 20-70% | Muy superficial | 4-6 (mensuales) | Bien tolerado en fototipos I-IV |
+| Ácido mandélico | 25-40% | Muy superficial | 4-6 (bimensuales) | Mayor tolerabilidad en fototipos IV-VI |
+| Ácido salicílico | 20-30% | Superficial | 4-6 (mensuales) | Componente lipofílico, buena penetración folicular |
+| Solución de Jessner | Combinación | Superficial | 3-4 (mensuales) | Sinergia multicomponente |
+| TCA | 10-25% | Superficial-medio | 2-4 (cada 6-8 sem) | Riesgo de HPI en fototipos III+ |
+
+---
+
+## Ácido tranexámico
+
+El ácido tranexámico (AT) ha emergido como una de las opciones más relevantes de la última década. Su mecanismo de acción en el melasma opera a través de la inhibición del plasminógeno queratinocítico, lo que reduce la liberación de ácido araquidónico y la síntesis de prostaglandinas, disminuyendo la estimulación del receptor del melanocito. También inhibe la interacción entre queratinocitos y melanocitos vía inhibición del factor de crecimiento de células troncales (SCF).
+
+Un metaanálisis y revisión sistemática publicados en *Journal of Dermatological Treatment* (2024; DOI: 10.1080/09546634.2024.2361106), siguiendo criterios PROSPERO y PRISMA, evaluó los ECA disponibles y concluyó que el AT —en sus tres vías de administración— muestra eficacia comparable a los tratamientos tópicos establecidos con un perfil de efectos adversos significativamente más favorable:
+
+- **Oral** (250 mg/12h – 500 mg/12h): eficacia bien documentada, pero contraindicado en pacientes con trombofilia, historia de eventos tromboembólicos o en tratamiento con anticoagulantes.
+- **Tópico** (2-5%): alternativa sin riesgo sistémico; eficacia ligeramente inferior a la vía oral en algunos estudios, pero con mejor aceptabilidad.
+- **Microinyección intradérmica** (4 mg/ml): técnica más invasiva, resultados prometedores en melasma refractario.
+
+La revisión sistemática de Egido López y Pizarro Egea (*Medicina Estética*, nº 69, 2021; DOI: 10.48158/MedicinaEstetica.069.01) señaló que no se hallaron diferencias significativas entre los distintos rangos de dosis oral evaluados (500-1.500 mg/día), lo que apoya el uso de la dosis mínima eficaz.
+
+---
+
+## Fotoprotección: el pilar no negociable
+
+Sin fotoprotección eficaz, ningún tratamiento activo es sostenible. El melasma responde no solo a la radiación UVB (que clásicamente induce quemadura) sino también a la UVA de onda larga, a la luz visible (especialmente en longitudes de onda de 415-445 nm, el pico del violeta-azul) y a la radiación infrarroja cercana, todas ellas capaces de estimular la melanogénesis.
+
+Las implicaciones clínicas son directas:
+
+1. **SPF ≥ 50+ solo no es suficiente.** Los filtros solares convencionales con SPF alto no protegen de la luz visible. Es imprescindible usar fotoprotectores con filtros de espectro amplio que incluyan protección frente a luz visible, preferentemente mediante pigmentos minerales (óxidos de hierro), que además del efecto físico aportan color que neutraliza la hiperpigmentación visiblemente.
+
+2. **Aplicación y reaplicación.** La dosis estándar de 2 mg/cm² es crítica. La mayoría de pacientes aplica aproximadamente un 25-50% de esta dosis en condiciones reales. La reaplicación cada 2-3 horas en exposición activa es obligatoria.
+
+3. **Fotoprotección no UV.** En pacientes con melasma severo o refractario, añadir filtros físicos adicionales (sombreros de ala ancha, ropa con UPF) y recomendar reducción de exposición en el pico horario (10h-17h).
+
+---
+
+## Evidencia comparada: ¿qué combinaciones funcionan mejor?
+
+La literatura actual respalda que la combinación de tres pilares supera consistentemente la monoterapia:
+
+**Nivel de evidencia I-II (combinaciones validadas en ECA):**
+- Fórmula de Kligman modificada (HQ + tretinoína + corticoide) + fotoprotección de espectro amplio: reducción de MASI del 45-65% en 12-24 semanas.
+- Ácido azelaico 20% + ácido glicólico tópico + fotoprotección: perfil de seguridad superior, eficacia similar a la fórmula de Kligman en 24 semanas.
+- Ácido tranexámico oral (500 mg/12h) + despigmentante tópico + peelings superficiales: resultados superiores en melasma moderado-severo con buena tolerabilidad.
+
+**Nivel de evidencia II-III (series prospectivas):**
+- Peelings glicólicos seriados (30-50%, 6 sesiones mensuales) + hidroquinona 4% + fotoprotección: reducción de MASI del 35-50% en 20 semanas.
+- Microinyecciones de ácido tranexámico (4 mg/ml) + ácido azelaico tópico: datos prometedores en melasma refractario a tratamiento tópico convencional.
+
+---
+
+## Recomendaciones clínicas graduadas
+
+**Primera línea:**
+Despigmentante tópico (ácido azelaico 20% o HQ 4%) + fotoprotector de espectro amplio con óxidos de hierro, SPF 50+. Evaluar respuesta a las 12 semanas.
+
+**Segunda línea (si respuesta parcial):**
+Añadir ácido tranexámico tópico (3-5%) o considerar pauta oral (250-500 mg/12h durante 8-12 semanas si no hay contraindicaciones). Incorporar peeling superficial mensual con ácido glicólico o mandélico.
+
+**Tercera línea (melasma refractario):**
+Microinyecciones de ácido tranexámico + combinación de peelings superficial-mediano bajo supervisión estricta + retinoides tópicos como coadyuvantes. Considerar derivación a dermatólogo o médico estético con experiencia en melasma rebelde antes de escalar a láser (riesgo de HPI).
+
+**Mantenimiento:**
+La suspensión del tratamiento activo sin mantenimiento se asocia a recidiva en >60% de los casos en el primer año. El protocolo de mantenimiento incluye fotoprotección estricta diaria y despigmentante tópico en ciclos o a dosis reducida según tolerabilidad.
+
+---
+
+## Puntos clave para la práctica clínica
+
+1. El melasma es una enfermedad crónica: el tratamiento activo es una fase, el mantenimiento es la regla.
+2. La fotoprotección con espectro visible (óxidos de hierro) no es opcional: sin ella, ningún tratamiento activo es eficaz a largo plazo.
+3. El ácido azelaico al 20% ofrece eficacia superior a la hidroquinona en MASI con mejor tolerabilidad; considerar como alternativa de primera línea especialmente en fototipos III-VI.
+4. El ácido tranexámico (oral o tópico) es un complemento eficaz con mecanismo diferencial; contraindicado en pacientes con riesgo tromboembólico.
+5. Los peelings superficiales incrementan la eficacia del tratamiento tópico; los medianos y profundos requieren selección cuidadosa del paciente por riesgo de HPI.
+6. Antes de indicar láser en melasma, agotar las opciones tópicas y los peelings superficiales: la irradiación puede exacerbar el cuadro si no se gestiona correctamente.
+
+---
+
+## Fuentes
+
+1. Albzea W, et al. *Azelaic Acid Versus Hydroquinone for Managing Patients With Melasma: Systematic Review and Meta-Analysis of Randomized Controlled Trials.* Cureus. 2023 Jul 12;15(7):e41796. DOI: 10.7759/cureus.41796. https://pmc.ncbi.nlm.nih.gov/articles/PMC10339666/
+2. Prasad N, et al. *Comparative Efficacy of Chemical Peeling Agents in the Treatment of Melasma.* Cureus. 2023 Oct 19. DOI: 10.7759/cureus.47312. https://pmc.ncbi.nlm.nih.gov/articles/PMC10657168/
+3. Arancibia C, et al. *Tranexamic acid as a therapeutic option for melasma management: meta-analysis and systematic review of randomized controlled trials.* J Dermatolog Treat. 2024. DOI: 10.1080/09546634.2024.2361106. https://www.tandfonline.com/doi/full/10.1080/09546634.2024.2361106
+4. Omisakin OA, et al. *Chemical Peels for Melasma: A Systematic Review.* J Cosmet Dermatol. 2024. PMID: 38530985. https://pubmed.ncbi.nlm.nih.gov/38530985/
+5. Egido López G, Pizarro Egea I. *Actualización en el tratamiento del melasma. Revisión sistemática.* Medicina Estética. 2021; nº 69. DOI: 10.48158/MedicinaEstetica.069.01. https://www.seme.org/revista/articulos/actualizacion-en-el-tratamiento-del-melasma-revision-sistematica
