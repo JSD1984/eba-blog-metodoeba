@@ -1,0 +1,111 @@
+---
+title: "Alergia a anestésicos locales: diagnóstico diferencial y alternativas clínicas"
+date: "2026-09-08"
+author: "MarkIA — Estética y Dental al Día"
+category: "Complicaciones y manejo"
+evidence: "Guía clínica"
+excerpt: "La verdadera alergia IgE-mediada a los anestésicos locales afecta a menos del 2% de los casos sospechados. Guía de diagnóstico diferencial, algoritmo de estudio alergológico y alternativas cuando la hipersensibilidad está confirmada."
+readingTime: "7 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Anestésicos locales", "Alergia", "Anafilaxia", "Complicaciones", "Urgencias en consulta", "Odontología"]
+sources: ["https://doi.org/10.1111/pai.70085", "https://doi.org/10.7759/cureus.94232", "https://doi.org/10.7759/cureus.89655", "https://doi.org/10.1016/S0091-6749(96)70261-5"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Introducción
+
+Los anestésicos locales (AL) son los fármacos más utilizados en odontología. Se estima que en España se administran más de 50 millones de carpules anuales. Sin embargo, el término «alergia a la anestesia» encubre realidades muy distintas: desde el síncope vasovagal hasta la reacción anafiláctica verdadera, con diferencias cruciales en el manejo.
+
+La confusión entre reacción adversa y alergia IgE-mediada es la fuente más frecuente de errores clínicos: restringe de forma innecesaria el acceso a la analgesia en pacientes que en realidad toleran los AL o —en el extremo contrario— lleva a no reconocer una urgencia alérgica real.
+
+## Epidemiología: lo que la evidencia actual muestra
+
+La hipersensibilidad verdadera a los AL es excepcional. Las series contemporáneas de evaluación alergológica muestran que **menos del 1-2% de los pacientes remitidos por sospecha de alergia a AL presentan una prueba confirmatoria positiva**. La mayoría de los síntomas referidos (palpitaciones, disnea, eritema) responden a causas no inmunológicas.
+
+El estudio de Aslan et al. (*Pediatric Allergy and Immunology*, 2025) evaluó 88 niños con reacciones sospechosas tras anestesia dental y encontró:
+
+- Pruebas cutáneas de punción (prick test): **todas negativas**
+- Test intradérmico (IDT) a 1:10: positivo en el **12,5%**
+- Prueba de provocación subcutánea: positiva en el **1,1%**
+
+El agente más frecuentemente implicado fue la **articaína** (61,5% de los IDT positivos), seguido de prilocaína y lidocaína.
+
+## Diagnóstico diferencial: las cuatro causas principales
+
+La correcta clasificación de la reacción es el paso más importante antes de cualquier restricción terapéutica.
+
+### 1. Reacción vasovagal (la más frecuente: 40-60%)
+
+Síncope o lipotimia por activación del nervio vago. Cursa con bradicardia, hipotensión, palidez, sudoración y náusea. No existe compromiso cutáneo ni urticaria. Se resuelve con posición de Trendelenburg sin medicación específica. Es la causa más frecuente de «colapso en la consulta».
+
+### 2. Reacción tóxica sistémica
+
+Por absorción excesiva de AL (sobredosis, inyección intravascular accidental) o por respuesta idiosincrásica a la epinefrina del vasoconstrictor. Cursa con taquicardia, hipertensión, ansiedad, palpitaciones y, en casos graves, convulsiones. El elemento diferencial es la temporalidad: inicio en segundos-minutos, directamente correlacionado con la inyección.
+
+### 3. Hipersensibilidad a excipientes
+
+Los carpules comerciales contienen **metilparabén** (conservante, metabolizado a PABA) y **metabisulfito sódico** (antioxidante del vasoconstrictor). Ambos son alérgenos reconocidos. La reacción puede ser IgE-mediada (urticaria, angioedema) o retardada tipo IV (dermatitis de contacto). La solución es utilizar AL sin conservantes en viales monodosis.
+
+### 4. Hipersensibilidad verdadera al AL
+
+La más infrecuente. Puede ser:
+
+- **Tipo I (IgE-mediada / inmediata):** urticaria generalizada, angioedema, broncoespasmo, hipotensión. Inicio en minutos.
+- **Tipo IV (retardada / celular):** dermatitis de contacto, aparición en 24-72 h.
+
+La reactividad cruzada **entre amidas y ésteres es mínima** (estructuras químicas diferentes). Sí puede existir reactividad cruzada dentro del grupo amida: lidocaína con mepivacaína y ropivacaína, aunque no necesariamente con bupivacaína o articaína. Cada caso requiere evaluación individualizada.
+
+## Algoritmo diagnóstico
+
+El estudio debe realizarse siempre en entorno hospitalario con alergólogo:
+
+1. **Historia clínica detallada**: fármaco exacto (con o sin vasoconstrictor, con o sin conservante), dosis, vía, latencia y síntomas objetivos documentados.
+2. **Prick test** con AL en concentración estándar: sensibilidad baja para amidas, útil como primer cribado.
+3. **Test intradérmico (IDT) a 1:10**: valor predictivo negativo del **99%** (Aslan et al., 2025). Es el test con mayor rendimiento diagnóstico.
+4. **Prueba de provocación subcutánea**: indicada cuando el IDT es negativo y se quiere confirmar tolerancia antes de administración clínica.
+5. **Triptasa sérica**: su elevación (> 11,4 µg/L en muestra a los 45 min del episodio) confirma mecanismo anafiláctico. Tiresse et al. (*Cureus*, 2025) documentaron valores de 23 µg/L en un caso confirmado por articaína en paciente pediátrica.
+
+La reactividad cruzada debe evaluarse individualmente: un IDT negativo para mepivacaína en un paciente alérgico a articaína permite su uso seguro.
+
+## Alternativas clínicas cuando la alergia está confirmada
+
+| Situación clínica | Alternativa recomendada |
+|---|---|
+| Alergia a amida con conservante (metilparabén) | Amida sin conservante (lidocaína preservative-free, vial monodosis) |
+| Alergia a éster (benzocaína, procaína) | Amida sin conservante (sin riesgo de reactividad cruzada significativa) |
+| Alergia a una amida específica (ej. articaína) | Otra amida testada y negativa (ej. mepivacaína, lidocaína) |
+| Alergia documentada a varias amidas | Consulta alergológica + provocación guiada; considerar estructuras distintas |
+| Hipersensibilidad a toda clase de AL (excepcional) | Difenhidramina al 1% (anestesia débil), analgesia multimodal o sedación consciente |
+
+En el caso de Tiresse et al. (2025), la paciente pediátrica con anafilaxia confirmada por articaína toleró **mepivacaína** sin incidencias en la prueba de provocación posterior. Matsumoto et al. (*Cureus*, 2025) documentan reactividad cruzada entre lidocaína y ropivacaína en un paciente adulto, lo que subraya la necesidad de no asumir tolerancia sin prueba.
+
+## Protocolo de actuación ante anafilaxia en consulta
+
+Si se produce una reacción anafiláctica confirmada (urticaria generalizada asociada a hipotensión o broncoespasmo):
+
+1. **Adrenalina 0,3-0,5 mg IM** en cara anterolateral del muslo — primera línea, no retrasar.
+2. Posición: decúbito supino con piernas elevadas (salvo disnea grave o pérdida de consciencia).
+3. Oxígeno en mascarilla a alto flujo.
+4. Acceso venoso + suero fisiológico en bolo.
+5. Antihistamínico H1 (dexclorfeniramina 5 mg IV) y corticoide (metilprednisolona 1 mg/kg IV) como tratamiento complementario — **nunca como sustituto de adrenalina**.
+6. Traslado urgente si no hay recuperación en 10-15 min o si hay segunda fase.
+7. Derivación a alergología para estudio sistematizado.
+
+## Puntos clave
+
+- La verdadera alergia IgE-mediada a los AL afecta a menos del 2% de los casos sospechados. No restringir el acceso a la anestesia sin diagnóstico confirmado.
+- La causa más frecuente de «reacción alérgica» en consulta dental es el síncope vasovagal — el diagnóstico diferencial es clínico.
+- La hipersensibilidad a excipientes (metilparabén, metabisulfito) es más prevalente que la sensibilidad al propio AL.
+- No existe reactividad cruzada clínica significativa entre el grupo amida y el éster.
+- El IDT a 1:10 seguido de provocación subcutánea es el gold standard diagnóstico, con VPN del 99%.
+- La adrenalina IM es el único tratamiento de primera línea en la anafilaxia; antihistamínicos y corticoides son coadyuvantes.
+
+---
+
+**Fuentes:**
+
+1. Aslan S, Anıl H, Kaya M, Harmancı K. Evaluation of diagnostic tests for immediate-type allergic reactions to amide group local anesthetics in children. *Pediatric Allergy and Immunology*. 2025. DOI: 10.1111/pai.70085
+2. Tiresse N, Bazia S, Baaouiss M, Elouazzani H. Immediate Articaine Allergy in Pediatric Dentistry: A Case Report of IgE-Mediated Hypersensitivity. *Cureus*. 2025. DOI: 10.7759/cureus.94232
+3. Matsumoto H, Nemoto A, Niiyama Y. True Anaphylaxis Due to an Amide-Type Local Agent: A Case Report. *Cureus*. 2025. DOI: 10.7759/cureus.89655
+4. Gall H, Kaufmann R, Kalveram CM. Adverse reactions to local anesthetics: analysis of 197 cases. *J Allergy Clin Immunol*. 1996;97(4):933-7. DOI: 10.1016/S0091-6749(96)70261-5
