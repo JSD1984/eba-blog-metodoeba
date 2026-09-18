@@ -1,0 +1,146 @@
+---
+title: "Elevación del suelo del seno maxilar: técnica abierta vs cerrada, indicaciones y complicaciones"
+date: "2026-09-18"
+author: "MarkIA — Estética y Dental al Día"
+category: "Implantología"
+evidence: "Comparativa"
+excerpt: "Análisis comparativo de las técnicas de elevación sinusal: indicaciones basadas en la altura ósea residual, protocolo quirúrgico, patrones de complicaciones y resultados a un año según la evidencia actual."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Implantología", "Elevación de seno", "Técnica abierta", "Osteotomos", "Regeneración ósea", "Maxilar posterior"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/35737681", "https://pubmed.ncbi.nlm.nih.gov/38156177", "https://pubmed.ncbi.nlm.nih.gov/37345386", "https://pubmed.ncbi.nlm.nih.gov/41074385"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico
+
+La neumatización progresiva del seno maxilar tras la pérdida dentaria en el sector posterior genera con frecuencia una altura ósea residual (HOR) insuficiente para colocar implantes de longitud estándar. La elevación del suelo del seno maxilar (ESSM) es hoy uno de los procedimientos de aumento óseo con mayor nivel de evidencia en implantología, con tasas de supervivencia implantaria que superan el 95 % a medio plazo en manos expertas.
+
+Dos grandes familias técnicas afrontan este problema: la técnica abierta o de ventana lateral (ESSM-L), con acceso directo a través de la pared lateral del seno, y la técnica cerrada o transcrestal (ESSM-T), de abordaje a través del lecho implantario. La selección entre ellas no es arbitraria: depende fundamentalmente de la HOR disponible, la anatomía sinusal y la experiencia del operador.
+
+---
+
+## Criterio de selección: la altura ósea residual como eje decisor
+
+El parámetro más consolidado para elegir la vía de abordaje es la HOR medida en la CBCT preoperatoria:
+
+- **HOR < 4-5 mm**: indicación preferente de técnica abierta. La escasa altura dificulta la inserción simultánea de implantes con estabilidad primaria adecuada y requiere un aumento volumétrico mayor, que la ventana lateral permite con mayor control.
+- **HOR 4-8 mm**: zona de solapamiento. Ambas técnicas son posibles. La evidencia más reciente —un ensayo clínico aleatorizado publicado en *Clinical Oral Implants Research* (2026)— mostró que en pacientes con HOR de 4-6 mm sin injerto, el ISQ (cociente de estabilidad implantaria) fue equivalente a los 12 meses entre ventana lateral (80,92 ± 4,57) y abordaje transcrestal (80,19 ± 7,28), sin diferencias estadísticamente significativas en la pérdida ósea marginal.
+- **HOR ≥ 8-10 mm**: la técnica transcrestal —con osteotomos de Summers o sistemas de osseodensificación— es la opción de primera línea, al ser menos invasiva y asociarse a menor morbilidad postoperatoria.
+
+---
+
+## Técnica abierta (ventana lateral, Caldwell-Luc modificado)
+
+### Indicaciones principales
+- HOR < 5 mm
+- Necesidad de volumen de injerto alto (implantes múltiples, defectos amplios)
+- Tabiques intrasinus que impiden la elevación transcrestal homogénea
+- Revisión de ESSM previa fallida
+
+### Contraindicaciones relativas
+- Sinusitis crónica activa o reciente
+- Quistes, pólipo o patología sinusal evidente en CBCT
+- Rinitis alérgica severa no controlada
+- Fumadores de más de 10 cigarrillos/día (riesgo elevado de dehiscencia y pérdida de injerto)
+- Corticoterapia sistémica prolongada
+- Tratamiento con bisfosfonatos o denosumab (requiere evaluación individualizad)
+
+### Protocolo quirúrgico resumido
+1. Incisión supracrestal con descargas verticales; despegamiento de colgajo a espesor total.
+2. Localización y delimitación de la ventana ósea con fresado o piezocirugía.
+3. Fractura o retiro de la ventana ósea; disección subperióstea de la membrana de Schneider.
+4. Relleno del espacio con material de injerto (xenoinjerto, aloinjerto, mezcla con hueso autólogo).
+5. Colocación de implantes simultánea si HOR ≥ 4 mm y se logra estabilidad primaria ≥ 35 Ncm; diferida (6-8 meses) si HOR < 4 mm.
+6. Reposicionamiento de la ventana ósea o cobertura con membrana reabsorbible; sutura por planos.
+
+### Ganancia ósea esperada
+Los estudios comparativos documentan una ganancia intrasinusal significativamente mayor con la técnica abierta: 3,64-3,82 mm a 6-12 meses frente a 1,66-2,42 mm con abordaje transcrestal sin injerto, aunque el significado clínico de esta diferencia en términos de supervivencia implantaria no es determinante cuando la HOR inicial es suficiente.
+
+---
+
+## Técnica cerrada (transcrestal, osteotomos de Summers y variantes)
+
+### Indicaciones principales
+- HOR ≥ 5-8 mm
+- Paciente con baja tolerancia a procedimientos invasivos
+- Seno sano, membrana de grosor normal (< 2 mm), sin tabiques complejos
+- Cirujano con experiencia en la lectura tridimensional del seno
+
+### Variantes actuales
+- **Osteotomos de Summers**: técnica clásica; condensación ósea progresiva y elevación de membrana mediante golpes controlados. Asociada a un riesgo documentado de vértigo posicional paroxístico benigno (VPPB) por microtrauma otolítico (frecuencia variable según series).
+- **Sistemas hidráulicos (Intralift®, CAS-Kit®)**: elevación por presión hidráulica salina, sin golpeteo; menor riesgo de VPPB.
+- **Osseodensificación (Densah® Burs)**: fresas que compactan y expanden el hueso en lugar de eliminarlo; estudios recientes muestran ISQ significativamente mayor al colocar implantes y en la conexión del pilar frente a osteotomos clásicos, con perfil de complicaciones reducido frente a la técnica abierta.
+
+---
+
+## Complicaciones: patrones diferenciales
+
+Una revisión sistemática publicada en *Clinical Implant Dentistry and Related Research* (Hsu et al., 2022) analizó 4.411 procedimientos y documentó perfiles de complicación distintos según la vía:
+
+| Complicación | Técnica abierta (ESSM-L) | Técnica cerrada (ESSM-T) |
+|---|---|---|
+| Perforación de membrana de Schneider | Alta (principal intraoperatoria) | Baja |
+| Sinusitis postoperatoria | Mayor frecuencia | Menor frecuencia |
+| Dehiscencia de herida / exposición de injerto | Presente | Ausente |
+| VPPB | Raro | Significativo (Summers) |
+| Hematoma / tumefacción postoperatoria | Moderado-alto | Bajo |
+
+La perforación de la membrana en la técnica abierta tiene una prevalencia variable (3-35 % según series), condicionada por el grosor de la membrana, la presencia de tabiques y la experiencia del operador. Perforaciones pequeñas (< 5 mm) pueden repararse intraoperatoriamente con membrana de colágeno; las > 10 mm obligan a diferir el procedimiento. La piezocirugía reduce la tasa de perforación respecto al fresado convencional.
+
+---
+
+## Materiales de relleno
+
+No existe un material de injerto superior en términos de supervivencia implantaria a largo plazo. Las opciones más empleadas:
+
+- **Xenoinjerto bovino (Bio-Oss®)**: reabsorción lenta; excelente mantenimiento volumétrico; ampliamente respaldado.
+- **Aloinjerto liofilizado**: buena osteoconducción; variabilidad interdonante.
+- **Hueso autólogo**: osteogénico por definición; exige zona dadora; tendencia decreciente como material único.
+- **Biomateriales sintéticos (TCP, HA)**: reabsorción predecible; menor evidencia a largo plazo.
+- **Técnica sin injerto ("graftless")**: viable en HOR ≥ 4 mm; la elevación de la membrana y la estabilización del coágulo son suficientes para la neoformación ósea, según RCTs recientes. Menor morbilidad, resultados de estabilidad equivalentes a 12 meses.
+
+---
+
+## Evaluación preoperatoria imprescindible
+
+La CBCT es la exploración de referencia. Permite valorar:
+- HOR exacta en los distintos puntos del reborde
+- Presencia y morfología de tabiques intrasinus (prevalencia ~25-30 %)
+- Grosor y estado de la membrana de Schneider
+- Anatomía vascular (arteria alveolar superior posterior, anastomosis intraóseas)
+- Patología sinusal incidental (quistes, pólipos, opacidades)
+
+La ortopantomografía es insuficiente para la planificación quirúrgica de la ESSM. Su uso aislado incrementa el riesgo de complicaciones evitables.
+
+---
+
+## Resultados a largo plazo
+
+El metaanálisis de Kadkhodazadeh et al. (*Journal of Oral Implantology*, 2024) mostró una tasa de supervivencia del 100 % (IC 95%: 99-100%) para implantes colocados con ESSM-T con osteotomos. En ESSM-L, la revisión sistemática de PMC reporta tasas del 96,9 % para la técnica directa en un total de 337 implantes seguidos.
+
+El consenso actual indica que ambas técnicas son procedimientos fiables y predecibles cuando se aplican con criterio de selección correcto y evaluación preoperatoria rigurosa. La elección de la técnica no determina por sí sola el éxito; la HOR preoperatoria sigue siendo el factor pronóstico más potente.
+
+---
+
+## Conclusiones clínicas
+
+1. Usar la HOR medida en CBCT como eje principal de decisión: < 5 mm → ventana lateral; ≥ 5-8 mm → transcrestal.
+2. Evaluar tabiques sinusales y grosor de membrana antes de elegir técnica; los tabiques complejos favorecen el abordaje lateral.
+3. La piezocirugía reduce la tasa de perforación de membrana en la técnica abierta y está justificada cuando se dispone de ella.
+4. Los sistemas de osseodensificación ofrecen un perfil ISQ superior a los osteotomos clásicos con menor morbilidad, aunque la evidencia proviene de estudios a corto plazo.
+5. La técnica sin injerto es una opción válida en casos con HOR ≥ 4 mm y seno sano.
+6. El tabaco, la patología sinusal activa y los fármacos que afectan al metabolismo óseo deben valorarse como contraindicaciones relativas y no ignorarse en la consulta.
+
+---
+
+## Fuentes
+
+1. Hsu YT et al. *Complications of sinus floor elevation procedure and management strategies: A systematic review.* Clin Implant Dent Relat Res. 2022 Dec. PMID: 35737681. https://pubmed.ncbi.nlm.nih.gov/35737681
+
+2. Alshamrani AM et al. *Maxillary Sinus Lift Procedures: An Overview of Current Techniques, Presurgical Evaluation, and Complications.* Cureus. 2023 Nov;15(11):e49553. DOI: 10.7759/cureus.49553. PMID: 38156177. https://pubmed.ncbi.nlm.nih.gov/38156177
+
+3. Testori T et al. *How to avoid intraoperative and postoperative complications in maxillary sinus elevation.* Periodontol 2000. 2023 Jun;92(1):299-328. DOI: 10.1111/prd.12480. PMID: 37345386. https://pubmed.ncbi.nlm.nih.gov/37345386
+
+4. Morcos S et al. *Graftless Sinus Floor Elevation Using the Lateral or Transcrestal Approach. A Randomized Clinical Trial With One Year Follow-Up.* Clin Oral Implants Res. 2026 Jan;37(1):87-97. DOI: 10.1111/clr.70055. PMID: 41074385. https://pubmed.ncbi.nlm.nih.gov/41074385
