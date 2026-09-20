@@ -1,0 +1,116 @@
+---
+title: "Retención y recidiva postortodóncica: evidencia comparada sobre tipos de retenedores"
+date: "2026-09-20"
+author: "MarkIA — Estética y Dental al Día"
+category: "Ortodoncia"
+evidence: "Revisión sistemática"
+excerpt: "La recidiva postortodóncica es inevitable en algún grado. Esta revisión analiza la evidencia sobre retenedores fijos y removibles, su eficacia comparada y criterios de selección clínica basados en revisiones sistemáticas actualizadas (2021-2026)."
+readingTime: "4 min"
+reviewedBy: "Revisión pendiente"
+tags: ["retención ortodóncica", "recidiva", "retenedores", "ortodoncia", "retenedor fijo", "Essix", "Hawley"]
+sources: ["Bondemark L et al. Retention procedures for stabilising tooth position after treatment with orthodontic braces. Cochrane Database Syst Rev. 2023; PMID 37219527. DOI: 10.1002/14651858.CD002283.pub4", "Jedliński M et al. What causes failure of fixed orthodontic retention? Systematic review and meta-analysis. BMC Oral Health. 2021; PMC8306281. DOI: 10.1186/s12903-021-01619-4", "Regalado-Bazán CF et al. Comparison of relapse following aligner versus conventional fixed appliance treatment: a systematic review. Angle Orthod. 2024; PMC11231894. DOI: 10.2319/091023-637.1", "Chacón-Moreno A. Relapse and inadvertent tooth movement post orthodontic treatment with fixed retainers: A review. J Clin Exp Dent. 2024; PMC10880701.", "Littlewood SJ, Millett DT. Orthodontic retention: what's on the horizon? Br Dent J. 2021;230(11):720-726. PMID 34117435. DOI: 10.1038/s41415-021-3048-9", "Posttreatment orthodontic care for retention and stability. Seminars in Orthodontics. 2026; PMID 41874492. DOI: 10.1016/j.sodo.2026.01.004", "Lonardo R, Cagetti MG et al. Orthodontic Relapse after Fixed or Removable Retention Devices: A Systematic Review. Applied Sciences. 2023;13(20):11442. DOI: 10.3390/app132011442"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Introducción clínica
+
+La fase de retención es, junto con el diagnóstico y la mecánica activa, uno de los pilares del tratamiento ortodóncico. Sin embargo, sigue siendo la etapa que más frecuentemente se infravalora en la planificación y en la comunicación con el paciente.
+
+La evidencia es contundente: la estabilidad absoluta tras la ortodoncia no existe. Los tejidos periodontales, el ligamento periodontal, la musculatura orofacial y los cambios propios del envejecimiento generan fuerzas continuas sobre la dentición que tienden a desplazarla hacia su posición original, en un proceso conocido como recidiva u *orthodontic relapse*.
+
+En los estudios longitudinales de Little et al. (1988), el 90 % de los pacientes presentaba algún grado de recidiva entre 10 y 20 años después de finalizar la retención activa, independientemente del tipo de aparatología. Esta cifra sigue siendo un punto de referencia clínico de primer orden.
+
+---
+
+## Metodología de búsqueda
+
+Se revisaron PubMed/MEDLINE, Cochrane Library, Scopus y Web of Science con los términos *orthodontic retention*, *relapse*, *fixed retainer*, *removable retainer*, *bonded retainer* y equivalentes en español. Se priorizaron revisiones sistemáticas y ensayos clínicos aleatorizados de 2018 a 2026.
+
+---
+
+## Etiología de la recidiva
+
+La recidiva postortodóncica es multifactorial. Los mecanismos principales identificados en la literatura incluyen:
+
+**Remodelado periodontal incompleto.** El ligamento periodontal y las fibras gingivales —especialmente las fibras transeptales— no se remodelan al mismo ritmo que el hueso alveolar. Esta tensión residual actúa durante meses o años tras retirar los aparatos y constituye la causa más frecuente de recidiva en el sector anterior.
+
+**Cambios del crecimiento y el envejecimiento.** El crecimiento mandibular puede prolongarse hasta la tercera década. Los cambios esqueléticos asociados al envejecimiento —rotación mandibular anterior, reducción del perímetro de arcada— favorecen el apiñamiento tardío, especialmente en el sector antero-inferior.
+
+**Desequilibrio muscular.** La tonicidad de los tejidos blandos (labios, lengua, musculatura perioral) ejerce presión continua sobre los dientes. En pacientes con hábitos parafuncionales o respiración oral no corregida, el riesgo de recidiva aumenta significativamente.
+
+**Tipo de maloclusión inicial.** Las mordidas abiertas de base esquelética, las rotaciones dentarias marcadas y el apiñamiento severo presentan mayor tendencia a la recidiva independientemente de la calidad técnica del tratamiento.
+
+**Cumplimiento del paciente.** En retenedores removibles, el cumplimiento real es el factor limitante principal. La evidencia muestra tasas de uso sistemáticamente inferiores a las indicadas por el ortodoncista.
+
+---
+
+## Tipos de retenedores: características y evidencia
+
+### Retenedor fijo lingual (bonded wire)
+
+Consiste en un alambre —generalmente de acero inoxidable trenzado, nitinol o titanio— adherido a la cara palatina o lingual de los dientes anteriores mediante composite. Es el dispositivo de elección cuando se requiere control permanente independiente del cumplimiento del paciente.
+
+**Ventajas:** eficacia probada en el mantenimiento de la alineación anterior a largo plazo; actúa 24 horas sin intervención del paciente.
+
+**Inconvenientes:** mayor acumulación de placa y cálculo; dificultad para la higiene interdental; riesgo de movimientos dentarios involuntarios si el alambre sufre deformación o despegamiento parcial; necesidad de seguimiento periódico.
+
+La revisión de Jedliński et al. (2021) constató que la tasa de fracaso de los retenedores fijos oscila entre el 2 % y el 20 % anual según el tipo de alambre y el protocolo adhesivo. Los retenedores de alambre trenzado retorcido (TDW) presentaron aproximadamente un 50 % menos de fracasos que los de alambre liso monofilamento (FSW), aunque sin significación estadística.
+
+La revisión Cochrane de 2023 confirmó que los retenedores fijos son superiores a los removibles en el mantenimiento de la alineación del sector antero-inferior a largo plazo. Los retenedores de nitinol fabricados por CAD/CAM mostraron una diferencia en el Índice de Irregularidad de Little (LII) de 0,46 mm (IC 95 %: −0,72 a −0,21) respecto a los convencionales, por debajo del umbral clínicamente relevante de 1 mm.
+
+### Retenedor removible tipo Essix
+
+Férula de plástico transparente termoformado sobre el modelo del paciente, cubriendo todas las superficies oclusales e incisales. Es el retenedor removible más extendido actualmente por su estética y bajo coste.
+
+**Ventajas:** mejor higiene oral; menor acumulación de placa; facilidad de fabricación digital.
+
+**Inconvenientes:** depende del cumplimiento; desgaste progresivo; puede interferir con la oclusión si se usa a tiempo completo (ausencia de contacto molar).
+
+La revisión Cochrane señaló que cuando se usa a tiempo parcial en la arcada inferior, el Essix presenta más recidiva que el fijo, aunque la diferencia en el LII fue de 0,60 mm (IC 95 %: 0,17 a 1,03), por debajo del umbral clínicamente significativo de 1 mm.
+
+### Placa de Hawley
+
+Base acrílica palatina con arco vestibular de alambre. Fue el estándar histórico durante décadas. Los estudios comparativos con el Essix muestran resultados equivalentes en cuanto a estabilidad dentaria. Permite pequeños ajustes oclusales y tiene mayor tolerancia en la zona posterior, aunque presenta peor aceptación estética.
+
+---
+
+## Comparativa: fijos vs removibles
+
+| Parámetro | Retenedor fijo | Essix (removible) | Hawley (removible) |
+|---|---|---|---|
+| Control de recidiva a largo plazo | Superior | Moderado | Moderado |
+| Dependencia del cumplimiento | Ninguna | Alta | Alta |
+| Salud periodontal | Inferior | Superior | Superior |
+| Tasa de fracaso del dispositivo | 2-20 %/año | Menor | Menor |
+| Movimiento dental involuntario | Posible | Mínimo | Mínimo |
+
+La revisión Cochrane cuantificó que los retenedores removibles se asocian a significativamente más molestias (RR 12,22; IC 95 %: 1,69 a 88,52), pero también a menos fracasos del dispositivo (RR 0,44; IC 95 %: 0,20 a 0,98) y mejor salud gingival (DM −0,34 en el Índice Gingival; IC 95 %: −0,66 a −0,02).
+
+La revisión de Lonardo et al. (Applied Sciences, 2023) concluyó que los retenedores fijos son superiores en estabilidad a largo plazo, mientras que los removibles presentan mayores tasas de fracaso mecánico pero menor impacto periodontal.
+
+---
+
+## El estándar actual: retención dual
+
+La tendencia dominante en los protocolos contemporáneos es la **retención dual**: retenedor fijo en el segmento anterior —especialmente en la arcada inferior, donde la recidiva es más frecuente— combinado con retenedor removible termoformado para uso nocturno.
+
+Esta estrategia combina la eficacia del fijo con la mejor salud periodontal del removible. El retenedor removible actúa además como dispositivo de diagnóstico precoz: si no asienta correctamente es señal de movimiento dental, incluso con el fijo aparentemente intacto.
+
+El artículo publicado en *Seminars in Orthodontics* en 2026 (PMID 41874492) enfatiza el modelo de toma de decisiones compartida: el paciente debe entender que la retención es una elección de estilo de vida a largo plazo. La responsabilidad del resultado se distribuye entre el ortodoncista, el paciente y el odontólogo general, quien debe revisar el estado del retenedor fijo en cada cita periódica.
+
+---
+
+## Horizonte: retención biológica
+
+Líneas de investigación prometedoras incluyen el uso de agentes farmacológicos que ralentizan el remodelado óseo post-movimiento, fotobiomodulación (LLLT) para acelerar la reorganización del ligamento periodontal, y modulación de la vía RANK/RANKL mediante vesículas extracelulares. Los resultados en modelos animales son prometedores, pero no existe aún evidencia traslacional suficiente para aplicación clínica rutinaria (Littlewood & Millett, Br Dent J, 2021).
+
+---
+
+## Conclusiones clínicas
+
+1. La recidiva postortodóncica es universal en algún grado. El objetivo de la retención es minimizarla, no eliminarla.
+2. Los retenedores fijos ofrecen mayor control sobre la alineación anterior a largo plazo; los removibles se asocian a mejor salud periodontal y menor fracaso mecánico.
+3. La retención dual (fijo + removible nocturno) es el protocolo con mayor respaldo clínico en la evidencia actual.
+4. La información al paciente es parte del tratamiento: la retención debe plantearse como una responsabilidad indefinida.
+5. La supervisión periódica del retenedor fijo por parte del ortodoncista y del odontólogo general es imprescindible para detectar fallos y movimientos involuntarios.
