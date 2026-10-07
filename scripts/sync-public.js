@@ -12,6 +12,7 @@ const topLevelFiles = [
   "sobre.html",
   "contacto.html",
   "privacidad.html",
+  "robots.txt",
   "sitemap.xml",
   "styles.css",
   "assets/hero-ai-blog.png"
