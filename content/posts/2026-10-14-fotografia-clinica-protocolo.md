@@ -1,0 +1,80 @@
+---
+title: "Fotografía clínica dental: protocolo estandarizado y uso en documentación"
+date: "2026-10-14"
+author: "MarkIA — Estética y Dental al Día"
+category: "Odontología digital"
+evidence: "Protocolo clínico"
+excerpt: "Protocolo práctico para integrar fotografía clínica dental reproducible en diagnóstico, planificación, comunicación interdisciplinar y documentación medicolegal."
+readingTime: "7 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Odontología digital", "Fotografía clínica", "Documentación clínica", "Registros dentales", "Protocolo fotográfico"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/35938814/", "https://pubmed.ncbi.nlm.nih.gov/40142795/", "https://pubmed.ncbi.nlm.nih.gov/38561904/", "https://doi.org/10.3390/medicina59030595"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Justificación clínica
+
+La fotografía clínica dental no es un complemento estético ni una herramienta de comunicación superficial. Es un registro clínico que permite comparar situaciones en condiciones reproducibles, planificar tratamientos restauradores, periodontales, ortodóncicos y quirúrgicos, comunicar información al laboratorio y documentar la evolución de tejidos duros y blandos. Su valor depende menos de la cámara utilizada que de la consistencia del protocolo: encuadre, magnificación, iluminación, retracción, enfoque, balance de blancos y archivo deben mantenerse estables entre visitas.
+
+La literatura reciente insiste en esa necesidad de estandarización. Ong et al. propusieron en 2022 una secuencia sistemática para fotografía extraoral e intraoral, con atención a cuerpo de cámara, objetivo macro, flash, postura del paciente, retracción, espejos, apertura, ISO, velocidad y balance de blancos. En 2025, una encuesta nacional española en ortodoncia mostró variabilidad relevante en equipos, entrenamiento y percepción de competencia, y concluyó que los protocolos normalizados son necesarios para mejorar precisión diagnóstica, documentación y formación. En odontopediatría, Alqadi y O'Connell documentaron en 2024 un uso extendido de fotografía clínica, pero también necesidad de formación específica.
+
+## Indicaciones
+
+Debe incorporarse fotografía clínica en cualquier tratamiento donde el cambio morfológico, cromático, gingival, oclusal o facial sea relevante. Las indicaciones principales son: primera visita integral, ortodoncia, rehabilitación estética y funcional, periodoncia, implantología, trauma dental, lesiones mucosas, blanqueamiento, seguimiento de desgaste, comunicación con laboratorio, interconsultas y auditoría clínica. En odontología digital, la fotografía también actúa como puente entre escáner intraoral, CBCT, diseño de sonrisa, encerado diagnóstico y registros faciales.
+
+No debe usarse como sustituto de la exploración, del sondaje periodontal, de la radiología indicada ni de los registros tridimensionales cuando estos sean necesarios. Una imagen bien tomada documenta y orienta; no confirma por sí sola todos los diagnósticos.
+
+## Contraindicaciones y precauciones
+
+No hay una contraindicación clínica absoluta para fotografiar, pero sí limitaciones operativas y legales. Debe obtenerse consentimiento informado para el uso clínico de imágenes y consentimiento específico si se prevé docencia, publicación o comunicación externa. Las imágenes deben almacenarse en sistemas seguros, vinculadas a la historia clínica y con trazabilidad de fecha. En menores o pacientes vulnerables, el consentimiento y la finalidad de uso deben ser especialmente claros.
+
+Desde el punto de vista técnico, deben evitarse imágenes con saliva, sangre, empañamiento, sombras duras, exposición quemada, encuadres oblicuos o retracción insuficiente cuando el objetivo sea comparar evolución. Si la imagen no es reproducible, su valor documental disminuye.
+
+## Materiales mínimos
+
+El estándar consolidado sigue siendo una cámara DSLR o mirrorless con objetivo macro de 90-105 mm, flash anular o twin flash, separadores labiales, espejos intraorales oclusales y laterales, contrastadores negros para el sector anterior, tarjetas de gris o calibradores de color cuando el color dental sea crítico, y un protocolo escrito para que distintos operadores produzcan resultados comparables.
+
+Los smartphones pueden ser útiles para cribado, comunicación rápida o registro auxiliar, especialmente con iluminación controlada y accesorios macro. Sin embargo, en rehabilitación estética, comparación cromática, documentación medicolegal o seguimiento longitudinal, deben considerarse herramientas prometedoras pero dependientes de validación, calibración y control de distorsión.
+
+## Técnica paso a paso
+
+1. Preparar el campo: retirar restos, controlar saliva, secar de forma no traumática, colocar retractores y seleccionar espejo si procede.
+
+2. Configurar la cámara en modo manual. Como punto de partida, usar apertura cerrada para profundidad de campo, ISO bajo, velocidad compatible con flash y balance de blancos fijo. El objetivo es reproducibilidad, no una imagen creativa.
+
+3. Registrar serie extraoral: rostro frontal en reposo, sonrisa frontal, perfil derecho e izquierdo, y tres cuartos si el caso lo requiere. Mantener cabeza en posición natural, plano bipupilar horizontal y distancia constante.
+
+4. Registrar serie intraoral básica: frontal en máxima intercuspidación, lateral derecha e izquierda, oclusal superior y oclusal inferior. En estética anterior, añadir frontal con labios relajados, sonrisa máxima, vistas con contrastador y tomas de detalle a 1:1 o 1:2.
+
+5. Estandarizar el archivo: nombre de paciente o identificador interno, fecha, fase clínica y vista. No depender de nombres automáticos de cámara. Las fotografías deben poder recuperarse por tratamiento, fecha y finalidad.
+
+6. Revisar calidad antes de terminar la cita. Repetir en el momento es más eficiente que descubrir después que una imagen clave está desenfocada, torcida o sobreexpuesta.
+
+## Evidencia consolidada, prometedora y experimental
+
+**Consolidado.** La fotografía estandarizada mejora documentación, planificación, comunicación interdisciplinar y evaluación de resultados. También permite que cambios gingivales, restauradores o faciales se comparen bajo condiciones similares. La evidencia actual apoya el uso de series protocolizadas y entrenamiento específico del equipo clínico.
+
+**Prometedor.** El uso de smartphones, apps de captura guiada, plantillas de encuadre y flujos integrados con software de planificación puede mejorar adherencia al protocolo, especialmente en clínicas con alto volumen o en controles remotos. La utilidad es real, pero depende de controlar color, distorsión, iluminación y protección de datos.
+
+**Experimental.** La interpretación automatizada mediante inteligencia artificial, el análisis de sonrisa completamente automatizado y la cuantificación de cambios tisulares a partir de imágenes 2D todavía deben considerarse apoyo experimental o semiautomatizado, no criterio diagnóstico independiente.
+
+## Complicaciones, errores frecuentes y control de calidad
+
+Los fallos más habituales son encuadres no reproducibles, inclinación de cámara, cambios de magnificación, mala retracción, espejos empañados, dominante cromática, ausencia de escala y almacenamiento disperso. En ortodoncia y estética, pequeños cambios de angulación pueden alterar la lectura de línea media, torque aparente, plano oclusal o exposición gingival. Por eso el protocolo debe definir quién toma las fotografías, con qué equipo, en qué vistas y con qué criterios de repetición.
+
+El control de calidad debe incluir una lista breve: foco correcto, plano horizontal, dientes visibles, ausencia de reflejos críticos, exposición adecuada, vista completa y archivo correcto. En tratamientos largos conviene repetir la serie siempre con la misma configuración y, cuando sea posible, el mismo operador.
+
+## Resultados esperados
+
+Un protocolo fotográfico bien aplicado no garantiza mejores resultados biológicos por sí mismo, pero mejora la calidad de la información disponible para decidir. Permite comparar antes y después, explicar secuencias al laboratorio, detectar cambios sutiles, documentar complicaciones, revisar decisiones clínicas y sostener una comunicación más precisa entre profesionales. Su utilidad real aparece cuando deja de depender de la habilidad individual y se convierte en un estándar operativo de la consulta.
+
+## Fuentes
+
+1. Ong JMD, Crasto GJ, Anwar EJ, Brooke R, Kang P. A Standardized Approach to Extra-Oral and Intra-Oral Digital Photography. J Vis Exp. 2022;(185). DOI: [10.3791/63627](https://doi.org/10.3791/63627)
+
+2. Suárez-Solís B, Suárez-Fernández C, Suárez-Solís J, Badía A, Olabarria M, Cobo T. Clinical Photography in Orthodontic Practice: Insights from a Nationwide Survey in Spain. J Clin Med. 2025;14(6):1984. DOI: [10.3390/jcm14061984](https://doi.org/10.3390/jcm14061984)
+
+3. Alqadi A, O'Connell AC. Dental photography for children: A global survey. Int J Paediatr Dent. 2024;34(6):790-798. DOI: [10.1111/ipd.13180](https://doi.org/10.1111/ipd.13180)
+
+4. Cunha J, Fernandes GVO, Fernandes JCH, Lopes PC, Rio R. The Interference of Age and Gender on Smile Characterization Analyzed on Six Parameters: A Clinical-Photographic Pilot Study. Medicina. 2023;59(3):595. DOI: [10.3390/medicina59030595](https://doi.org/10.3390/medicina59030595)
