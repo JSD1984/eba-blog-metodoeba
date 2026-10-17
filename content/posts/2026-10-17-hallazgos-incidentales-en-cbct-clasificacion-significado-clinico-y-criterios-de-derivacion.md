@@ -1,0 +1,103 @@
+---
+title: "Hallazgos incidentales en CBCT: clasificación, significado clínico y criterios de derivación"
+date: "2026-10-17"
+author: "MarkIA — Estética y Dental al Día"
+category: "Radiología"
+evidence: "Guía clínica"
+excerpt: "El 78 % de los CBCT contiene al menos un hallazgo fuera del área de interés principal. Guía clínica sobre cómo clasificarlos, cuáles requieren actuación urgente y a qué especialista derivar."
+readingTime: "8 min"
+reviewedBy: "Revisión pendiente"
+tags: ["CBCT", "Radiología dental", "Hallazgos incidentales", "Derivación", "Implantología", "Radiología maxilofacial"]
+sources: ["https://doi.org/10.3390/diagnostics12051036", "https://pubmed.ncbi.nlm.nih.gov/38022275/", "https://pubmed.ncbi.nlm.nih.gov/38142160/", "https://doi.org/10.1007/s11282-023-00723-5", "https://pubmed.ncbi.nlm.nih.gov/31216179/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico
+
+La tomografía computarizada de haz cónico (CBCT) ha ampliado de forma significativa el campo visual disponible en la práctica odontológica. Cuando se solicita una exploración para planificación de implantes, evaluación endodóncica o análisis periodontal, el volumen adquirido incluye inevitablemente estructuras fuera del área de interés primaria: senos paranasales, vía aérea faríngea, articulación temporomandibular, tejido óseo adyacente y, dependiendo del campo de visión, estructuras del cuello o la base del cráneo.
+
+Los hallazgos que aparecen en ese territorio no solicitado —denominados hallazgos incidentales (HI)— tienen una frecuencia documentada que supera expectativas. Braun et al. analizaron retrospectivamente 374 CBCT consecutivos en un período de tres años y encontraron hallazgos incidentales en el 78,6 % de los estudios, con una media de 2,6 HI por exploración. De esos hallazgos, el 38,6 % requería tratamiento activo y un 25,2 % adicional precisaba seguimiento. En el subgrupo analizado, los HI modificaron el manejo terapéutico en el 35 % de los pacientes.
+
+Este dato tiene una implicación directa: el profesional que solicita un CBCT asume una responsabilidad diagnóstica que va más allá del área indicada en la solicitud.
+
+## Clasificación por localización y prevalencia
+
+La distribución de los hallazgos incidentales sigue un patrón bastante consistente en la literatura:
+
+**Hallazgos dentales y periodontales (55,3 %):** Son los más frecuentes. Incluyen caries no diagnosticadas previamente, patología periapical silente, defectos de furca, reabsorciones radiculares, fracturas radiculares verticales, piezas retenidas con complicaciones y restos radiculares. En estudios de planificación implantológica, la tasa de HI dentales clínicamente relevantes es significativamente mayor que en otras indicaciones (60,7 % vs. 43,2 %).
+
+**Hallazgos en senos paranasales y vía aérea (29,2 %):** Engrosamiento mucoso, pólipos sinusales, obstrucción del complejo ostiomeatal, quistes de retención, septaciones atípicas del seno maxilar y calcificaciones. La mayoría son benignos o variantes anatómicas, pero algunos justifican derivación a otorrinolaringología. La vía aérea faríngea puede evidenciar estenosis relevantes en contextos de trastornos respiratorios del sueño no diagnosticados.
+
+**Hallazgos óseos (14,9 %):** Lesiones osteoescleróticas o radiolúcidas no relacionadas con el área de interés, quistes óseos, osteomas, pérdida ósea de patrón difuso, cambios en la cortical que obligan a descartar patología sistémica o lesión primaria.
+
+**Hallazgos en tejido blando y ATM:** Calcificaciones en tejido blando (incluyendo calcificaciones carotídeas ateroscleróticas detectable en CBCT con FOV medio o grande), cambios en la morfología condilar, alteraciones del espacio articular y derrames.
+
+En estudios para planificación de implantes con CBCT de campo de visión grande (FOV ≥ 100 mm), la probabilidad de detectar HI que modifiquen el tratamiento es 3,55 veces superior que con FOV pequeño, según el estudio de Berna de 404 exploraciones.
+
+## Sistema de clasificación por urgencia
+
+Varios grupos han propuesto sistemas para graduar la relevancia clínica de los HI. El más operativo para la práctica clínica distingue tres categorías:
+
+**Categoría roja — actuación prioritaria:** Hallazgos que obligan a derivación inmediata o en plazo breve. Incluyen lesiones con características de malignidad (bordes irregulares, destrucción cortical, patrón osteolítico agresivo, expansión rápida), obstrucción severa de vía aérea, calcificaciones carotídeas sugestivas de aterosclerosis severa y hallazgos compatibles con osteomielitis activa.
+
+**Categoría amarilla — requiere seguimiento o derivación programada:** Hallazgos que no son urgentes pero sí necesitan documentación, informar al paciente y planificar evaluación. Comprende quistes de gran tamaño, patología periapical extensa no tratada, lesiones óseas bien delimitadas de etiología incierta, engrosamiento mucoso sinusal significativo y alteraciones condilares moderadas.
+
+**Categoría verde — variante o hallazgo menor:** Hallazgos considerados variantes de la normalidad, sin relevancia clínica inmediata o con indicación ya conocida. Deben constar en el informe pero no requieren derivación. Ejemplos: torus, osteomas pequeños, engrosamiento mucoso leve, variaciones anatómicas del conducto dentario inferior.
+
+## Criterios de derivación: ¿a quién y cuándo?
+
+Determinar a qué especialista dirigir al paciente es la parte más práctica de la gestión de HI.
+
+**Otorrinolaringología:** Engrosamiento mucoso sinusal bilateral significativo (> 8 mm), pólipos, obstrucción ostiomeatal, hallazgos compatibles con sinusitis crónica activa, lesiones en cavidad nasal, estenosis faríngea severa o sospecha de masa en senos.
+
+**Medicina interna o cardiología:** Calcificaciones de la arteria carótida identificadas en CBCT de campo amplio. Aunque el CBCT no es la técnica de elección para su cuantificación, su detección incidental debe comunicarse al médico de referencia dado el riesgo cardiovascular asociado. Estudios específicos han documentado su presencia en un porcentaje no despreciable de CBCT solicitados por dentistas.
+
+**Cirugía maxilofacial u oncología:** Cualquier lesión con características radiológicas sospechosas: osteólisis sin causa aparente, rotura de cortical, expansión rápida, masa de partes blandas adyacente, patrón de reabsorción radicular masiva sin causa dental identificable.
+
+**Radiología médica o medicina nuclear:** Cuando se detecte una lesión que requiera caracterización con TC multicorte, RM o PET, el CBCT dental no proporciona la resolución de contraste ni el campo de visión necesarios para el diagnóstico definitivo. La derivación debe incluir una descripción precisa de la localización, tamaño y características del hallazgo.
+
+**Ortopnología o neumología:** Estenosis severa de la vía aérea superior compatible con síndrome de apnea-hipopnea del sueño en paciente con síntomas.
+
+## Responsabilidad del clínico solicitante
+
+Uno de los debates no resueltos en la literatura es hasta qué punto el odontólogo solicitante de un CBCT está obligado a informar sobre hallazgos fuera del área de su especialidad. La revisión sistemática de Oral Radiology (2021) y los principales grupos de radiología oral y maxilofacial coinciden en que el profesional tiene la obligación de revisar el volumen completo o delegar esa lectura en un radiólogo oral con formación específica. El argumento no es solo ético: la no detección de un HI clínicamente relevante puede tener consecuencias medicolegales.
+
+En la práctica, esto tiene dos implicaciones:
+
+Primero, cualquier CBCT debe acompañarse de un informe estructurado que cubra tanto el área de interés primaria como el resto del volumen. Si el clínico no tiene formación para interpretar sistemáticamente el volumen completo, la solicitud debe ir acompañada de una interconsulta a radiología oral.
+
+Segundo, el informe debe registrar los HI encontrados, su categoría de urgencia y las acciones tomadas. La ausencia de registro equivale, desde el punto de vista medicolegal, a ausencia de evaluación.
+
+## Recomendaciones prácticas
+
+1. Antes de solicitar un CBCT, definir el campo de visión mínimo necesario para la indicación. Un FOV grande aumenta la información pero también aumenta los HI a gestionar y la dosis de radiación.
+
+2. Toda exploración CBCT debe incluir una lectura sistemática del volumen completo: dento-alveolar, senos, ATM, tejido óseo periférico y, si el FOV lo permite, vía aérea y partes blandas.
+
+3. Clasificar los hallazgos por urgencia antes de comunicar resultados al paciente. La comunicación debe ser proporcional a la relevancia del hallazgo: no alarmar innecesariamente por variantes, pero sí actuar de forma clara ante hallazgos rojos.
+
+4. En planificación implantológica con CBCT bilateral o de maxilar completo, previsualizar la posibilidad de HI y considerar incluir en el consentimiento informado una mención a que el estudio puede revelar hallazgos no relacionados con el plan de tratamiento principal.
+
+5. Establecer circuitos de derivación claros con los especialistas más frecuentemente implicados: otorrinolaringología, cirugía maxilofacial y médico de referencia del paciente.
+
+## Puntos clave
+
+- Aproximadamente 4 de cada 5 CBCT dentales contienen algún hallazgo fuera del área de interés primaria.
+- Más de un tercio de esos hallazgos requieren tratamiento o seguimiento activo.
+- Los hallazgos dentales son los más frecuentes, seguidos de los sinusales y los óseos.
+- El tamaño del campo de visión y la edad del paciente son los factores que más influyen en la probabilidad de encontrar HI relevantes.
+- La gestión adecuada implica clasificar por urgencia, registrar en el informe y derivar según el tipo y la localización del hallazgo.
+- La lectura parcial del volumen CBCT no es aceptable desde el punto de vista clínico ni medicolegal.
+
+## Fuentes
+
+1. Braun MJ, Deml M, Henningsen A, et al. Dental and Maxillofacial Cone Beam CT — High Number of Incidental Findings and Their Impact on Follow-Up and Therapy Management. *Diagnostics*. 2022;12(5):1036. DOI: [10.3390/diagnostics12051036](https://doi.org/10.3390/diagnostics12051036)
+
+2. Etemad L, Tadinada A, et al. Prevalence and Clinical Significance of Incidental Findings in Maxillofacial Cone Beam Computed Tomography. *Oral Surg Oral Med Oral Pathol Oral Radiol*. 2023. PMID: [38022275](https://pubmed.ncbi.nlm.nih.gov/38022275/)
+
+3. Kadkhodayan S, Pereira CPJ, et al. A Study on Incidental Findings on CBCT Scans Leading to Clinical Referral and Management Changes. 2024. PMID: [38142160](https://pubmed.ncbi.nlm.nih.gov/38142160/)
+
+4. Kühl S, et al. Incidental findings in cone beam computed tomography scans for implant treatment planning: a retrospective study of 404 CBCT scans. *Oral Radiology*. 2023. DOI: [10.1007/s11282-023-00723-5](https://doi.org/10.1007/s11282-023-00723-5)
+
+5. Dief S, Veitz-Keenan A, Amintavakoli N, et al. A systematic review on incidental findings in cone beam computed tomography scans. *Dentomaxillofac Radiol*. 2019;48(7):20180396. PMID: [31216179](https://pubmed.ncbi.nlm.nih.gov/31216179/)
