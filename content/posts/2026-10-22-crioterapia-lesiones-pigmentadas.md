@@ -1,0 +1,70 @@
+---
+title: "Crioterapia en lesiones pigmentadas benignas: técnica y selección clínica"
+date: "2026-10-22"
+author: "MarkIA — Estética y Dental al Día"
+category: "Dermatología estética"
+evidence: "Protocolo clínico"
+excerpt: "Selección de lentigos solares para crioterapia: diagnóstico previo, límites técnicos, riesgo de discromía y evidencia clínica de 2023–2025."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Crioterapia", "Lentigo solar", "Dermatoscopia"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/40145274/", "https://pubmed.ncbi.nlm.nih.gov/36533790/", "https://link.springer.com/article/10.1007/s12094-024-03497-2", "https://pubmed.ncbi.nlm.nih.gov/40010951/", "https://dermnetnz.org/topics/solar-lentigo"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Indicaciones: tratar un diagnóstico, no una mancha
+
+La crioterapia con nitrógeno líquido permite destruir lesiones cutáneas superficiales mediante congelación controlada. En dermatología estética, su indicación pigmentaria más reconocible es el lentigo solar inequívocamente benigno. No debe extrapolarse a cualquier mácula marrón, a nevus melanocíticos ni a pigmentaciones de diagnóstico incierto. Este protocolo se centra en lentigos solares; las queratosis seborreicas pigmentadas requieren una valoración específica de su componente queratósico.
+
+Un lentigo solar confirmado no necesita eliminación por motivos oncológicos. La decisión es electiva y debe confrontar el beneficio cosmético con la posibilidad de una alteración pigmentaria más visible que la lesión inicial. La observación y la fotoprotección son alternativas legítimas. DermNet recuerda que el diagnóstico diferencial incluye queratosis actínica pigmentada, queratosis seborreica macular y melanoma in situ [1].
+
+## Evidencia que orienta la selección
+
+Mardani y colaboradores publicaron en 2025 una revisión sistemática de 41 ensayos, con 3.234 participantes, cuya búsqueda finalizó en diciembre de 2023. Para crioterapia describieron resultados favorables entre el 37% y el 71,4%, según el estudio. Ese intervalo no representa una probabilidad individual de aclaramiento ni una estimación combinada: varían las definiciones de respuesta, los tratamientos y las poblaciones. La revisión encontró resultados favorables para diferentes sistemas de láser y luz pulsada, junto con un perfil de efectos adversos menos favorable para crioterapia en determinadas comparaciones [2].
+
+Mukovozov y colaboradores, en otra revisión publicada en 2023, registraron acontecimientos adversos en 47 de 144 participantes tratados con crioterapia, aproximadamente un 33%. No todos fueron graves ni persistentes. Tampoco debe compararse directamente ese porcentaje con el de otra modalidad como si procedieran de una única población aleatorizada [3]. La lectura clínica es prudente: disponibilidad y rapidez no equivalen a superioridad estética.
+
+## Contraindicaciones y límites diagnósticos
+
+La incertidumbre diagnóstica excluye la destrucción inmediata. Asimetría, heterogeneidad cromática, evolución discordante o una lesión distinta de las demás obligan a reconsiderar el diagnóstico. Las guías SEOM-GEM recomiendan dermatoscopia por un médico experimentado y confirmación histológica de las lesiones sospechosas; asignan a la dermatoscopia nivel de evidencia 1 y recomendación A [4]. Estos grados pertenecen a la guía de melanoma, no constituyen una graduación propia de este protocolo.
+
+Ante sospecha de melanoma, debe priorizarse la vía diagnóstica dermatológica, habitualmente con biopsia escisional cuando resulte apropiada. Congelar impide obtener una muestra íntegra de esa lesión tratada y puede retrasar la identificación de una neoplasia. Una respuesta parcial a la congelación tampoco demuestra benignidad.
+
+Además, deben revisarse los trastornos de hipersensibilidad al frío, crioglobulinemia, compromiso vascular local y antecedentes de mala cicatrización. El fototipo alto o la tendencia a hiperpigmentación no son sinónimos de contraindicación absoluta, pero modifican especialmente el balance cosmético y la elección terapéutica [5].
+
+## Materiales y preparación
+
+Se requiere un sistema médico de nitrógeno líquido con aplicador adecuado, protección del tejido adyacente y material de curas. La valoración debe disponer de dermatoscopio; la documentación fotográfica es útil para comparar la lesión antes y después. El profesional debe conocer el equipo y sus instrucciones de uso, porque el tiempo de aplicación aislado no describe toda la dosis térmica.
+
+Como propuesta práctica de registro, conviene anotar diagnóstico, localización, dimensiones, fototipo, técnica utilizada y objetivo acordado. El consentimiento debe distinguir aclaramiento parcial, persistencia, recurrencia y discromía permanente. No basta con informar de dolor o formación de una costra.
+
+## Técnica: secuencia clínica razonada
+
+1. **Confirmar la indicación.** Correlacionar exploración y dermatoscopia. Si persiste duda, suspender el procedimiento y resolverla antes de tratar.
+2. **Delimitar el objetivo.** Seleccionar una lesión bien identificada y proteger las estructuras próximas. Las áreas perioculares o anatómicamente delicadas requieren experiencia específica.
+3. **Individualizar la aplicación.** Utilizar una congelación superficial controlada, acorde con el diagnóstico, espesor, localización y equipo. No trasladar a un lentigo los parámetros empleados para verrugas o tumores. La revisión técnica de Mokbel y colaboradores describe diferencias importantes entre indicaciones y modalidades de aplicación [5].
+4. **Registrar la exposición.** Documentar duración y ciclos efectivamente aplicados, además de la respuesta visible. No repetir congelaciones por la mera impresión de que la pigmentación persiste inmediatamente.
+5. **Planificar la revisión.** Establecer cuidados y un control tras la reparación epidérmica; evaluar después el color residual. Una lesión que cambia de patrón exige reevaluación diagnóstica, no intensificación automática.
+
+Esta secuencia es una síntesis operativa, no un régimen de dosificación validado en un ensayo. Las fuentes revisadas no justifican imponer un número universal de segundos para todos los lentigos y fototipos.
+
+## Complicaciones y resultados esperados
+
+Dolor, edema, ampolla y costra pueden aparecer tras la aplicación. Entre las complicaciones relevantes están hipopigmentación, hiperpigmentación posinflamatoria, cicatriz y lesión de estructuras sensibles; su riesgo depende de la exposición y del sitio tratado [5]. Debe facilitarse una vía de revisión ante dolor progresivo, signos de infección o cicatrización anómala.
+
+El resultado debe valorarse como aclaramiento y aceptabilidad cosmética, no únicamente como desaparición de la lesión. La fotoprotección forma parte del seguimiento para limitar nuevas lesiones y recurrencias [1]. Como criterio de auditoría clínica propuesto, registrar conjuntamente respuesta, discromía, necesidad de retratamiento y satisfacción evita contabilizar como éxito una eliminación que deja una secuela estética peor.
+
+## Consolidado, prometedor y experimental
+
+**Consolidado:** confirmar benignidad antes de destruir tejido y considerar crioterapia entre las opciones para lentigos seleccionados. **Prometedor:** optimizar la selección entre crioterapia, láser, luz pulsada y combinaciones tópicas según fototipo y objetivos; las revisiones muestran resultados heterogéneos, sin una receta universal [2,3]. **Experimental o no validado:** presentar algoritmos individualizados de congelación como predictivos de aclaramiento duradero cuando no se han validado prospectivamente.
+
+La conclusión práctica es seleccionar mejor, no congelar más. Este texto es material profesional de apoyo y no sustituye la valoración dermatológica individual ni la formación técnica supervisada.
+
+## Referencias
+
+1. Fitzpatrick A, Chan J. Solar lentigo. **DermNet**. Actualización revisada en 2025. https://dermnetnz.org/topics/solar-lentigo
+2. Mardani G, Nasiri MJ, Namazi N, et al. Treatment of Solar Lentigines: A Systematic Review of Clinical Trials. **Journal of Cosmetic Dermatology**. 2025;24:e70133. DOI: 10.1111/jocd.70133. https://pubmed.ncbi.nlm.nih.gov/40145274/
+3. Mukovozov I, Roesler J, Kashetsky N, Gregory A. Treatment of Lentigines: A Systematic Review. **Dermatologic Surgery**. 2023;49:17–24. DOI: 10.1097/DSS.0000000000003630. https://pubmed.ncbi.nlm.nih.gov/36533790/
+4. Márquez-Rodas I, Muñoz Couselo E, Rodríguez Moreno JF, et al. SEOM-GEM clinical guidelines for cutaneous melanoma (2023). **Clinical and Translational Oncology**. 2024;26:2841–2855. DOI: 10.1007/s12094-024-03497-2. https://link.springer.com/article/10.1007/s12094-024-03497-2
+5. Mokbel R, Kodresko AT, Mokbel K, et al. Cutaneous Cryosurgery in Dermatology: Evolving Principles and Clinical Applications for Benign, Premalignant, and Malignant Lesions. **In Vivo**. 2025;39:577–612. DOI: 10.21873/invivo.13865. https://pubmed.ncbi.nlm.nih.gov/40010951/
