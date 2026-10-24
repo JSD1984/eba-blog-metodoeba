@@ -1,0 +1,79 @@
+---
+title: "Anestesia local con vasoconstrictor en pacientes con cardiopatía: selección, dosis y vigilancia"
+date: "2026-10-24"
+author: "MarkIA — Estética y Dental al Día"
+category: "Farmacología"
+evidence: "Protocolo clínico"
+excerpt: "Selección del paciente cardiovascular estable, cálculo de adrenalina y vigilancia clínica: evidencia y límites de la anestesia odontológica con vasoconstrictor."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Anestesia local", "Cardiopatía", "Adrenalina"]
+sources: ["https://www.imrpress.com/journal/RCM/23/8/10.31083/j.rcm2308261", "https://jcda.ca/n2", "https://pubmed.ncbi.nlm.nih.gov/38962723/", "https://www.ada.org/resources/ada-library/oral-health-topics/hypertension"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Indicaciones y alcance
+
+La cardiopatía no constituye, por sí sola, una contraindicación absoluta para utilizar anestesia local con adrenalina. La decisión depende de la estabilidad cardiovascular, la medicación, el procedimiento y la dosis realmente administrada. Una anestesia insuficiente también puede provocar una respuesta simpática por dolor y ansiedad. El objetivo es conseguir analgesia eficaz con la menor exposición farmacológica necesaria, no eliminar automáticamente todo vasoconstrictor [1,2].
+
+Este protocolo es una síntesis profesional de literatura de 2022–2024 y orientación institucional consultada para esta publicación. No es una revisión sistemática ni una guía oficial nueva: propone una secuencia clínica que debe adaptarse a la ficha técnica y a la valoración individual. Se dirige principalmente al paciente adulto con enfermedad cardiovascular estable atendido en consulta odontológica.
+
+## Evidencia disponible: qué permite concluir
+
+Gupta y colaboradores revisan el manejo odontológico de distintas enfermedades cardiovasculares y destacan la evaluación previa y la coordinación médica cuando existen dudas sobre compensación o riesgo [1]. Valtellini y Ouanounou describen el uso prudente de vasoconstrictores en hipertensión controlada, con atención a dosis, ansiedad e interacciones [2]. Son revisiones narrativas: sus recomendaciones no equivalen a resultados de grandes ensayos sobre mortalidad o infarto.
+
+Pökel, Schulze y Busse estudiaron en 2024 a 21 pacientes sometidos a extracción con articaína al 4 % y adrenalina 1:100.000. Observaron cambios electrocardiográficos y hemodinámicos, incluido aumento de frecuencia cardiaca tras la inyección [3]. El tamaño muestral y los desenlaces fisiológicos impiden utilizar este trabajo como demostración de seguridad en cardiopatía grave o como estimación fiable de eventos infrecuentes.
+
+## Contraindicaciones y motivos para aplazar
+
+La angina inestable, la insuficiencia cardiaca descompensada, las arritmias sintomáticas no controladas o un episodio cardiovascular reciente sin reevaluación médica obligan a reconsiderar el tratamiento electivo y el entorno asistencial [1]. Cambiar a una solución sin vasoconstrictor no convierte automáticamente a estos pacientes en candidatos adecuados para consulta convencional.
+
+Debe registrarse presión arterial y pulso, repitiendo las mediciones inesperadamente elevadas tras reposo. La ADA recomienda una técnica estandarizada, con cinco minutos de descanso y apoyo del brazo a nivel cardiaco [4]. Una cifra aislada no caracteriza toda la enfermedad. La hipertensión marcada persistente requiere valoración médica; si se acompaña de dolor torácico, disnea, déficit neurológico o deterioro general, procede activar atención urgente.
+
+## Materiales y planificación farmacológica
+
+Preparar jeringa aspirante, agujas adecuadas a la técnica, cartuchos identificados y medios de monitorización acordes al riesgo. El equipo debe disponer de un protocolo de emergencias practicable. Antes de infiltrar, comprobar principio activo, concentración, volumen del cartucho y presencia de adrenalina; no asumir que todos los cartuchos contienen 1,8 ml.
+
+Revisar antihipertensivos, antiarrítmicos y otros tratamientos. Los betabloqueantes no selectivos merecen atención por su posible interacción con la adrenalina; la evaluación debe considerar el fármaco concreto, no atribuir el mismo perfil a toda la clase [2]. No suspender medicación cardiovascular por iniciativa odontológica.
+
+Como referencia conservadora, suele utilizarse un límite de adrenalina de 0,04 mg por cita cuando existe compromiso cardiovascular [2]. No es una dosis objetivo ni un umbral que garantice ausencia de complicaciones. Puede ser necesario emplear menos o evitarla según el caso. El máximo del anestésico local, calculado por separado conforme a ficha técnica, peso y comorbilidades, sigue siendo obligatorio.
+
+Para un cartucho de **1,8 ml**, el cálculo es:
+
+- Adrenalina 1:100.000: 0,01 mg/ml; contiene **0,018 mg**. Dos cartuchos aportan 0,036 mg.
+- Adrenalina 1:200.000: 0,005 mg/ml; contiene **0,009 mg**. Cuatro cartuchos aportan 0,036 mg.
+- Adrenalina 1:80.000: 0,0125 mg/ml; contiene **0,0225 mg**. Dos cartuchos aportan 0,045 mg, por encima de aquella referencia.
+
+Estas equivalencias describen cantidades, no autorizan administrar ese número de cartuchos. Conviene anotar miligramos acumulados y no solamente unidades utilizadas.
+
+## Técnica paso a paso
+
+**1. Confirmar estabilidad y necesidad.** Identificar síntomas recientes, tolerancia funcional y cambios de medicación. Si la historia no permite establecer estabilidad, consultar al médico responsable antes del procedimiento electivo [1].
+
+**2. Reducir estímulos evitables.** Explicar la intervención, acordar una señal de pausa y planificar una sesión tolerable. La sedación, cuando esté indicada, requiere valoración y recursos propios; no sustituye la evaluación cardiovascular [1,2].
+
+**3. Elegir concentración y técnica.** Seleccionar la menor concentración y volumen que previsiblemente proporcionen anestesia suficiente. Una solución sin vasoconstrictor puede ser apropiada en determinados escenarios, pero deben considerarse duración, absorción y necesidad de reinyección [1,4].
+
+**4. Administrar de manera incremental.** Aspirar antes de depositar la solución e inyectar lentamente. Repetir la comprobación al reposicionar la aguja. La aspiración negativa reduce la probabilidad de inyección intravascular, pero no la descarta por completo [1].
+
+**5. Reevaluar antes de suplementar.** Comprobar eficacia anestésica, síntomas, pulso y presión según riesgo y evolución. Ante dolor persistente, revisar la localización y la técnica antes de añadir volumen de forma repetitiva.
+
+**6. Documentar y cerrar.** Registrar producto, concentración, volumen total, adrenalina acumulada, constantes relevantes e incidencias. Incorporar la respuesta observada al plan de próximas visitas.
+
+## Complicaciones y resultados esperados
+
+Palpitaciones, temblor o cambios tensionales exigen detener la administración y evaluar al paciente; no deben atribuirse automáticamente a ansiedad. Hay que considerar absorción rápida de adrenalina, inyección intravascular, toxicidad del anestésico y enfermedad cardiovascular. Dolor torácico persistente, disnea, síncope prolongado o arritmia sostenida requieren activar el protocolo de emergencia y solicitar asistencia [1,3].
+
+El resultado esperado es analgesia suficiente con vigilancia proporcional al riesgo, no ausencia asegurada de cambios hemodinámicos. La falta de eventos en una visita tampoco demuestra tolerancia universal para intervenciones posteriores.
+
+## Consolidado, prometedor y experimental
+
+**Consolidado en la práctica:** valoración de estabilidad, control del dolor, cálculo de dosis, inyección cuidadosa y registro clínico. **Prometedor:** caracterización más precisa de la respuesta eléctrica y hemodinámica para mejorar la estratificación. **Experimental para esta finalidad:** utilizar parámetros vectorcardiográficos como herramienta rutinaria que determine una dosis personalizada de adrenalina; el estudio citado no valida ese uso [3]. La decisión sigue siendo clínica y no sustituye la valoración médica individual.
+
+## Referencias
+
+1. Gupta K, Kumar S, Anand Kukkamalla M, et al. Dental Management Considerations for Patients with Cardiovascular Disease—A Narrative Review. *Reviews in Cardiovascular Medicine*. 2022;23(8):261. [DOI: 10.31083/j.rcm2308261](https://www.imrpress.com/journal/RCM/23/8/10.31083/j.rcm2308261).
+2. Valtellini R, Ouanounou A. Management of the Hypertensive Dental Patient. *Journal of the Canadian Dental Association*. 2023;89:n2. [Texto completo](https://jcda.ca/n2).
+3. Pökel C, Schulze A, Busse M. Cardiovascular and Vector-Cardiographic Effects of Articaine Anesthesia with Epinephrine. *International Journal of Dentistry*. 2024;2024:8610423. DOI: 10.1155/2024/8610423. [Registro PubMed](https://pubmed.ncbi.nlm.nih.gov/38962723/).
+4. American Dental Association. Hypertension. Recurso institucional, sin fecha editorial especificada; consultado el 24 de octubre de 2026. [ADA Oral Health Topics](https://www.ada.org/resources/ada-library/oral-health-topics/hypertension).
