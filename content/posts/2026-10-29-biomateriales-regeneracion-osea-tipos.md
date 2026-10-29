@@ -1,0 +1,74 @@
+---
+title: "Biomateriales para regeneración ósea: xenoinjertos, aloinjertos y sintéticos"
+date: "2026-10-29"
+author: "MarkIA — Estética y Dental al Día"
+category: "Materiales y biomateriales"
+evidence: "Comparativa"
+excerpt: "Selección de sustitutos óseos según defecto y objetivo clínico: diferencias entre conservación de volumen, hueso vital y resultados implantarios."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Biomateriales", "Regeneración ósea", "Preservación alveolar"]
+sources: ["https://doi.org/10.1002/cap.10281", "https://doi.org/10.1111/cid.13257", "https://doi.org/10.1002/jper.11374", "https://doi.org/10.1002/JPER.22-0149", "https://doi.org/10.1111/jcpe.13628", "https://doi.org/10.1111/prd.12469", "https://pmc.ncbi.nlm.nih.gov/articles/PMC10474543/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico y alcance
+
+La selección de un sustituto óseo no debería comenzar por su origen, sino por el defecto y el objetivo reconstructivo. Conservar el contorno de un alvéolo, obtener hueso vital y reconstruir un defecto vertical son problemas distintos. Una imagen radiopaca tampoco demuestra, por sí sola, regeneración de tejido óseo funcional.
+
+Esta comparativa narrativa reúne literatura publicada entre 2022 y 2025, incluida una publicación electrónica de 2025 posteriormente asignada a un número de 2026. No constituye una revisión sistemática propia ni una guía con recomendaciones graduadas. La evidencia seleccionada procede principalmente de preservación alveolar; extrapolarla a grandes aumentos horizontales, verticales o sinusales requiere estudios específicos de esas indicaciones.
+
+## Criterios de comparación
+
+Conviene separar cuatro desenlaces: cambio dimensional, porcentaje histológico de hueso vital, necesidad de cirugía adicional y resultados implantarios a largo plazo. Que un material obtenga mejores biopsias a los cuatro meses no demuestra automáticamente mayor supervivencia del implante.
+
+La revisión de Mealey y colaboradores subraya que la histología depende tanto del biomaterial como del tiempo transcurrido. También existe variabilidad entre pacientes y entre localizaciones de un mismo paciente [1]. Por tanto, no es riguroso comparar porcentajes procedentes de estudios con tiempos de cicatrización, anatomías o técnicas de sellado diferentes como si fueran una clasificación universal.
+
+## Xenoinjertos: estabilidad dimensional como objetivo
+
+Los xenoinjertos proceden de otra especie y, tras su procesamiento, funcionan principalmente como matrices osteoconductoras. El mineral óseo bovino desproteinizado es un ejemplo ampliamente investigado; no debe atribuirse a todos los productos idéntica composición o comportamiento [2].
+
+Apaza-Bedoya y colaboradores incluyeron diez ensayos aleatorizados, con 357 participantes, en una revisión sobre xenoinjertos y sellado reabsorbible en la zona estética. Frente a cicatrización espontánea, encontraron menor pérdida ósea horizontal clínica, con una diferencia media de 1,88 mm [3]. La comparación evalúa una intervención combinada, no el efecto aislado del granulado.
+
+Este resultado respalda la preservación dimensional en escenarios similares a los estudiados. No demuestra superioridad frente a cualquier aloinjerto o sintético, ni elimina la remodelación posterior a la extracción. Además, la permanencia de partículas obliga a distinguir volumen conservado de hueso recién formado. La elección debe responder a la necesidad clínica de mantener contorno, no a una supuesta equivalencia entre radiopacidad y maduración.
+
+## Aloinjertos: el procesamiento importa
+
+Los aloinjertos proceden de donantes humanos. Las formulaciones mineralizadas y desmineralizadas no son intercambiables: el procesamiento modifica sus características biológicas y su remodelación. Evitan una zona donante autóloga, pero requieren trazabilidad y una selección compatible con la indicación [2].
+
+En el ensayo de Foster y colaboradores, 120 pacientes con extracción de un diente no molar recibieron aloinjerto desmineralizado en partículas o fibras, solo o combinado con xenoinjerto. A las 18–20 semanas, los grupos de aloinjerto solo presentaron aproximadamente un 37–41 % de hueso vital, frente al 24 % en los grupos combinados. No se detectaron diferencias significativas en los cambios dimensionales [4].
+
+Las fibras dejaron menos aloinjerto residual que las partículas, pero no produjeron más hueso vital que estas cuando se emplearon solas. El estudio ilustra que composición histológica y mantenimiento de dimensiones pueden evolucionar de manera diferente. No permite concluir que añadir xenoinjerto sea siempre perjudicial: la utilidad de una combinación depende del objetivo y debe juzgarse con desenlaces pertinentes.
+
+## Sintéticos: evaluar la formulación concreta
+
+Los aloplásticos incluyen hidroxiapatita, fosfatos cálcicos y vidrios bioactivos. Su función habitual es proporcionar un soporte osteoconductor; compartir la etiqueta «sintético» no convierte estos productos en equivalentes [2]. Deben revisarse composición, presentación e indicación autorizada, además del estudio clínico que sustenta su utilización.
+
+El ensayo de Casarez-Quintana y colaboradores comparó un compuesto bovino con una matriz de hidroxiapatita y colágeno reticulado mediante azúcares [5]. Su diseño es relevante porque compara productos definidos, no familias abstractas. Tampoco debe interpretarse «aloplástico» como garantía de que todos los componentes de una formulación combinada carecen de origen animal: esa información exige comprobar la documentación del producto.
+
+Para recomendar un sintético concreto, la pregunta útil es si dispone de evidencia humana en un defecto comparable y con un seguimiento suficiente. Las propiedades de laboratorio, por sí solas, no justifican prometer sustitución completa por hueso ni adelantar automáticamente la colocación del implante.
+
+## Evidencia comparada y factores de confusión
+
+La técnica de manejo del alvéolo puede modificar el resultado atribuido al biomaterial. Un metaanálisis en red de Martins y colaboradores incluyó 22 estudios y encontró mejores resultados dimensionales con avance de colgajo o cicatrización abierta con barrera que con cicatrización espontánea [6]. Esto no establece que una técnica sea idónea para cualquier anatomía, pero impide ignorar el sellado al comparar injertos.
+
+El coste tampoco funciona como marcador de eficacia. Barootchi y colaboradores observaron que, entre materiales alogénicos y xenogénicos, un mayor gasto no se traducía en mayor efectividad de preservación alveolar [7]. Es una evaluación contextual: no demuestra equivalencia entre todos los productos ni autoriza a prescindir de requisitos de calidad.
+
+## Recomendación práctica
+
+Como síntesis clínica, documentar primero la anatomía residual, la finalidad protésica y el desenlace prioritario. Después seleccionar un producto con evidencia para esa indicación y registrar origen, lote, técnica asociada y momento previsto de reevaluación. Evitar convertir un plazo medio de investigación en una fecha obligatoria de reentrada para todos los pacientes.
+
+**Consolidado:** la preservación alveolar puede atenuar la pérdida dimensional; los materiales estudiados deben utilizarse dentro de técnicas y escenarios respaldados por evidencia. **Prometedor:** ajustar presentación y combinaciones a objetivos de remodelación, como sugieren los datos sobre fibras desmineralizadas, sin asumir beneficio implantario a largo plazo. **Experimental o no demostrado:** elegir únicamente por propiedades preclínicas o afirmar superioridad universal de una familia.
+
+La decisión defendible no es «qué material es mejor», sino qué combinación de material, técnica y seguimiento responde al defecto concreto. Esta síntesis no sustituye la valoración profesional individual ni las instrucciones de uso del producto.
+
+## Fuentes
+
+1. Mealey BL, Keeling F, Palaiologou AA. Histologic wound healing in studies using different ridge preservation protocols: A review. *Clinical Advances in Periodontics*. 2024;14:52–62. https://doi.org/10.1002/cap.10281
+2. Quisiguiña Salem C et al. Alveolar ridge preservation: A review of concepts and controversies. *National Journal of Maxillofacial Surgery*. 2023;14:167–176. https://pmc.ncbi.nlm.nih.gov/articles/PMC10474543/
+3. Apaza-Bedoya K et al. Efficacy of alveolar ridge preservation with xenografts and resorbable socket sealing materials in the esthetic region: A systematic review with meta-analyses. *Clinical Implant Dentistry and Related Research*. 2024;26:4–14. https://doi.org/10.1111/cid.13257
+4. Foster JE, Coleman CC, Palaiologou AA, Mealey BL. Healing following ridge preservation using demineralized allograft particles or fibers alone, and combined with xenograft. *Journal of Periodontology*. Publicación electrónica: 24 julio 2025; edición impresa: 2026;97:23–33. https://doi.org/10.1002/jper.11374
+5. Casarez-Quintana A et al. Comparing the histological assessment following ridge preservation using a composite bovine-derived xenograft versus an alloplast hydroxyapatite-sugar cross-linked collagen matrix. *Journal of Periodontology*. 2022;93:1691–1700. https://doi.org/10.1002/JPER.22-0149
+6. Martins JR et al. Comparison of the efficacy of different techniques to seal the alveolus during alveolar ridge preservation: Meta-regression and network meta-analysis. *Journal of Clinical Periodontology*. 2022. https://doi.org/10.1111/jcpe.13628
+7. Barootchi S et al. Alveolar ridge preservation: Complications and cost-effectiveness. *Periodontology 2000*. 2023;92:235–262. https://doi.org/10.1111/prd.12469
