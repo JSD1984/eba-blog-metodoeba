@@ -1,0 +1,72 @@
+---
+title: "Complicaciones en cirugía de implantes guiada por ordenador"
+date: "2026-10-30"
+author: "MarkIA — Estética y Dental al Día"
+category: "Implantología"
+evidence: "Protocolo clínico"
+excerpt: "Controles del flujo digital, estabilidad de la guía y criterios para detener o cambiar la técnica: precisión no equivale a ausencia de complicaciones."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Cirugía guiada", "Implantología", "Complicaciones"]
+sources: ["https://doi.org/10.1111/prd.12411", "https://doi.org/10.1111/prd.12458", "https://blog.iti.org/clinical-insights/optimizing-static-computer-assisted-implant-surgery-guide-design-essentials/", "https://doi.org/10.1111/clr.14213", "https://doi.org/10.1002/cre2.70129"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Alcance e indicaciones
+
+La cirugía implantológica asistida por ordenador transfiere una planificación protésicamente dirigida al campo operatorio mediante una guía estática o navegación dinámica. Su precisión no elimina los errores de adquisición, registro, fabricación o ejecución. Este protocolo propone puntos de control para profesionales; no constituye una revisión sistemática propia ni una guía formal con graduación GRADE.
+
+La síntesis utiliza revisiones de 2022–2025 y documentación técnica del ITI. Está indicada cuando la transferencia tridimensional aporta valor al plan restaurador y existen registros fiables, acceso instrumental suficiente y capacidad para resolver incidencias. La elección debe justificar qué problema concreto resuelve el guiado, no limitarse a disponer del equipo [1].
+
+## Contraindicaciones operativas y límites
+
+No debe iniciarse el fresado guiado si la posición de la plantilla o el registro de navegación no pueden comprobarse. Una guía que bascula, datos radiológicos no interpretables o una apertura incompatible con el instrumental obligan a corregir el problema o replantear la intervención. Son criterios operativos de suspensión, no una clasificación universal de contraindicaciones médicas.
+
+La modalidad sin colgajo tampoco es consecuencia obligatoria del guiado. La necesidad de inspeccionar el hueso o gestionar tejidos puede exigir acceso abierto. Las condiciones sistémicas y locales que afectan a la implantología siguen requiriendo evaluación independiente [1,2].
+
+## Materiales y preparación
+
+Preparar CBCT justificado e interpretable, registro de superficie, planificación restauradora, sistema de guiado compatible e instrumental específico. Identificar versión del plan, implante previsto y componentes correspondientes. Para una guía impresa, verificar trazabilidad y procesamiento conforme a las instrucciones del material y del fabricante; no extrapolar ciclos de esterilización entre resinas.
+
+El diseño debe permitir verificar el asentamiento y conservar suficiente resistencia. Las ventanas de inspección ayudan a comprobar el ajuste, pero un diseño excesivamente abierto puede debilitar la plantilla. El soporte y la fijación se deciden según el caso, no mediante una receta única para toda arcada [3].
+
+## Técnica: seis puntos de control
+
+**1. Validar la transferencia digital.** Revisar la correspondencia entre anatomía radiológica, superficie y propuesta protésica. Comprobar el registro en varias zonas, especialmente cuando faltan referencias dentarias. La planificación debe contemplar estructuras críticas y tolerancias del procedimiento; un valor medio de desviación publicado no representa el error máximo de un paciente [1,4].
+
+**2. Probar antes de instrumentar.** Confirmar ajuste pasivo y estabilidad en boca. Comprobar por las ventanas que la guía está completamente asentada. La fijación no corrige una posición inicial errónea: puede mantenerla durante toda la osteotomía. En soportes mucosos, prestar atención a compresión asimétrica y desplazamiento [1,3].
+
+**3. Confirmar acceso y compatibilidad.** Verificar que fresa, manguito, llaves y topes corresponden al sistema planificado y pueden utilizarse en el sector previsto. Una comprobación documental del kit debe acompañarse de una comprobación física del acceso. Esta lista es una propuesta operativa de seguridad, no una intervención cuya eficacia aislada haya sido cuantificada.
+
+**4. Ejecutar con vigilancia del sistema.** Seguir la secuencia e irrigación indicadas para el instrumental. Reevaluar estabilidad y acceso cuando cambie la situación operatoria. No compensar una interferencia mediante presión sobre la guía ni interpretar la resistencia como confirmación automática de una trayectoria correcta [2,3].
+
+**5. En navegación, comprobar la correspondencia clínica.** El profesional debe dominar registro, calibración y coordinación visual propios del dispositivo. Si la referencia clínica y la información mostrada dejan de concordar, detenerse y verificar el sistema. La formación específica es necesaria: la revisión de Pimkhaokham y colaboradores describe diferencias de aprendizaje entre navegación y guiado estático [4].
+
+**6. Cerrar con verificación documentada.** Registrar posición clínica, estabilidad primaria, incidencias y cambios respecto al plan. La posibilidad de cargar inmediatamente no se deduce de haber utilizado una guía. Sadilina y colaboradores encuentran resultados de estabilidad y supervivencia generalmente comparables entre procedimientos guiados y no guiados [5].
+
+## Complicaciones y respuesta
+
+Los incidentes técnicos incluyen ajuste insuficiente, inestabilidad o fractura de la plantilla y dificultades instrumentales. Deben distinguirse de daño anatómico, fenestración, infección o fracaso implantario: reunir todos los eventos bajo una única tasa dificulta interpretar su relevancia [2].
+
+Ante una guía inestable o fracturada, suspender su utilización y reevaluar el campo. Convertir a otra técnica exige referencias anatómicas suficientes y competencia para ejecutarla; posponer también es una decisión válida. La revisión crítica de 2022 no permite asumir que el guiado evite globalmente las complicaciones. Además, la heterogeneidad entre dispositivos, diseños de estudio y procedimientos limita las comparaciones [2].
+
+Para la auditoría clínica, registrar qué ocurrió, cuándo se detectó, qué consecuencia tuvo y cómo se resolvió. Diferenciar un ajuste previo al fresado de una lesión producida durante este evita presentar incidencias menores y eventos graves como equivalentes.
+
+## Resultados esperados y nivel de madurez
+
+**Consolidado:** mayor precisión de transferencia respecto a la colocación libre, sin equivalencia automática con menor morbilidad. El documento de Sadilina de 2025 señala que complicaciones, pérdida ósea marginal y salud periimplantaria parecen similares entre abordajes en la evidencia disponible [5].
+
+**Prometedor:** valorar el beneficio de todo el flujo protésico y quirúrgico, no solo milímetros o grados de desviación. Una mejor transferencia puede ser relevante aunque los ensayos centrados en procedimientos aislados no capten todo su efecto; esta hipótesis necesita evaluación clínica [5].
+
+**Experimental o no demostrado:** extrapolar precisión preclínica de sistemas robóticos o combinados a una reducción universal de lesiones. Las medidas geométricas son desenlaces sustitutivos y necesitan relacionarse con resultados clínicos específicos [4].
+
+El objetivo práctico es una transferencia verificable y una respuesta competente ante desviaciones. Este protocolo no sustituye la valoración profesional individual ni las instrucciones del dispositivo.
+
+## Fuentes
+
+1. Chackartchi T, Romanos GE, Parkanyi L, Schwarz F, Sculean A. Reducing errors in guided implant surgery to optimize treatment outcomes. *Periodontology 2000*. 2022;88:64–72. https://doi.org/10.1111/prd.12411
+2. Pimkhaokham A et al. Can computer-assisted implant surgery improve clinical outcomes and reduce the frequency and intensity of complications in implant dentistry? A critical review. *Periodontology 2000*. 2022;90:197–223. https://doi.org/10.1111/prd.12458
+3. da Mata Santos RP, Lazarin RO, Arora H. Optimizing Static Computer-Assisted Implant Surgery: Guide Design Essentials. *ITI Blog*, documento técnico, no guía de consenso. 2024. https://blog.iti.org/clinical-insights/optimizing-static-computer-assisted-implant-surgery-guide-design-essentials/
+4. Pimkhaokham A et al. Computer-assisted and robotic implant surgery: Assessing the outcome measures of accuracy and educational implications. *Clinical Oral Implants Research*. 2024;35:939–953. Publicación electrónica: 2023. https://doi.org/10.1111/clr.14213
+5. Sadilina S et al. Beyond Accuracy: Clinical Outcomes of Computer Assisted Implant Surgery. *Clinical and Experimental Dental Research*. 2025;11:e70129. https://doi.org/10.1002/cre2.70129
