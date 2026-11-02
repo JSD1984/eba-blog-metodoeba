@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lasaluddelmarketing.com/sitemap.xml
+Sitemap: https://esteticaydentalaldia.com/sitemap.xml
