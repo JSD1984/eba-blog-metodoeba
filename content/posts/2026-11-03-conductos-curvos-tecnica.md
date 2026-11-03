@@ -1,0 +1,83 @@
+---
+title: "Instrumentación de conductos curvos: secuencia clínica y límites de torque"
+date: "2026-11-03"
+author: "MarkIA — Estética y Dental al Día"
+category: "Endodoncia"
+evidence: "Protocolo clínico"
+excerpt: "Secuencia razonada para instrumentar conductos curvos, controlar la carga mecánica y reconocer los límites de la evidencia sobre torque y cinemática."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Endodoncia", "Conductos curvos", "NiTi", "Torque"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/37772327/", "https://pubmed.ncbi.nlm.nih.gov/38537784/", "https://pubmed.ncbi.nlm.nih.gov/38583993/", "https://pubmed.ncbi.nlm.nih.gov/37799866/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Indicaciones y alcance
+
+La instrumentación de conductos curvos busca permitir la desinfección preservando la trayectoria original y suficiente dentina radicular. La dificultad no depende únicamente del ángulo: también importan el radio, la localización de la curva, las dobles curvaturas y la estrechez del conducto. Una preparación técnicamente centrada no equivale por sí sola a curación de la periodontitis apical.
+
+Este protocolo editorial para odontólogos integra una guía europea de 2023 y estudios de 2023-2024. No constituye una revisión sistemática propia ni una secuencia validada para cualquier marca. Los pasos operativos deben ajustarse a la anatomía, las instrucciones del fabricante y la competencia del operador; no sustituyen la valoración clínica individual. La guía S3 de la European Society of Endodontology sitúa la instrumentación dentro del tratamiento integral de la enfermedad pulpar y apical [1].
+
+## Contraindicaciones y criterios de derivación
+
+La curvatura no contraindica automáticamente conservar el diente. Antes de instrumentar deben confirmarse el diagnóstico, la restaurabilidad, el soporte periodontal y la posibilidad de aislamiento. No debe iniciarse una preparación mecanizada a ciegas ante una trayectoria no negociable o una anatomía que exceda los recursos disponibles.
+
+La calcificación marcada, una curva apical abrupta, un conducto en S o un escalón previo justifican valorar derivación endodóncica. Si no se consigue una trayectoria reproducible sin forzar, detenerse es una decisión terapéutica, no un fracaso que deba compensarse aumentando la presión o el torque.
+
+## Materiales y preparación
+
+Se requieren dique de goma, iluminación y magnificación adecuadas, radiografías periapicales diagnósticas, localizador apical, limas manuales finas, irrigación controlada y un motor compatible con el sistema NiTi seleccionado. Deben estar accesibles las instrucciones vigentes del instrumento, incluidos velocidad, torque, cinemática, reutilización y esterilización.
+
+Conviene registrar por conducto la longitud de trabajo, dificultades de negociación y secuencia utilizada. Una casilla genérica de «endodoncia realizada» no permite reconstruir qué ocurrió si aparece una incidencia. La selección del instrumental debe preceder al procedimiento y no improvisarse tras repetidas alarmas del motor.
+
+## Técnica paso a paso
+
+### 1. Planificar acceso y trayectoria
+
+Analizar la anatomía radiográfica y reconocer que una imagen bidimensional puede ocultar curvaturas vestibulolinguales. Preparar un acceso que permita localizar los orificios y controlar los instrumentos, evitando tanto interferencias innecesarias como eliminación indiscriminada de dentina. La conservación tisular debe ser compatible con visibilidad y maniobrabilidad.
+
+### 2. Negociar y determinar la longitud
+
+Explorar con limas manuales finas, precurvadas cuando proceda, mediante movimientos controlados y sin forzar el avance. Establecer la longitud de trabajo con localizador apical y comprobación radiográfica según el caso. Registrar una referencia coronal estable y reevaluar la longitud cuando la preparación modifique las interferencias.
+
+### 3. Establecer una vía de deslizamiento
+
+Obtener un trayecto reproducible antes de introducir instrumentos de conformación conforme al protocolo del sistema. No debe confundirse alcanzar la longitud una sola vez con disponer de un glide path adecuado. La ampliación manual o mecanizada se selecciona según la anatomía y las instrucciones específicas.
+
+Los instrumentos de glide path tampoco son mecánicamente equivalentes: Thu y colaboradores encontraron diferencias de torque y fuerza de atornillamiento entre cuatro sistemas en conductos de resina con una o dos curvas [4]. El modelo informa sobre comportamiento mecánico, pero no establece una clasificación clínica de seguridad ni autoriza a intercambiar ajustes entre marcas.
+
+### 4. Conformar sin perseguir un calibre universal
+
+Avanzar según la secuencia prescrita, sin presión apical sostenida; retirar para limpiar espiras y renovar el irrigante. Seleccionar el tamaño y la conicidad finales según el conducto y las necesidades de desinfección, no por una cifra idéntica para todas las raíces.
+
+La revisión de Călin y colaboradores incluyó 49 estudios ex vivo: la rotación continua mostró ventajas en centrado y, en curvas severas, menor transporte apical frente a la reciprocación. Ninguna cinemática instrumentó toda la superficie del conducto [2]. Estos resultados no demuestran superioridad universal en supervivencia dental ni justifican cambiar a mitad de tratamiento un sistema dominado por otro desconocido.
+
+### 5. Controlar torque y respuesta del motor
+
+Utilizar el ajuste indicado para la lima concreta, no un valor genérico de «conducto curvo». Ante activaciones reiteradas del control de torque, detener la progresión, limpiar, irrigar y revisar interferencias, permeabilidad del trayecto y estado del instrumento. No elevar el límite para vencer una resistencia inexplicada.
+
+Kyaw y colaboradores compararon ajustes de 1, 2,5 y 5 N·cm en un modelo ex vivo con ProGlider y ProTaper NEXT. Hubo fracturas únicamente en grupos de 2,5 y 5 N·cm con conductos curvos [3]. Esto no convierte 1 N·cm en una prescripción universal: el resultado depende del sistema y del montaje experimental. El control torsional tampoco elimina la fatiga cíclica.
+
+## Complicaciones y conducta
+
+Pérdida de longitud, bloqueo, escalón, transporte y separación instrumental obligan a reevaluar antes de continuar. Si se sospecha una fractura, documentar, informar al paciente y valorar localización, infección y accesibilidad con un endodoncista. La recuperación del fragmento no debe perseguirse a costa de una pérdida desproporcionada de dentina.
+
+La irrigación sigue siendo esencial porque la conformación deja superficies sin instrumentar [2]. Debe realizarse con control de la aguja y sin enclavamiento ni presión excesiva. Una anatomía difícil no justifica intensificar de forma indiscriminada la instrumentación o la irrigación.
+
+## Resultados esperados y nivel de evidencia
+
+**Consolidado:** diagnóstico, asepsia, control de longitud, selección razonada del caso y preparación quimiomecánica integrada en un tratamiento restaurador y seguimiento adecuados [1].
+
+**Prometedor:** optimizar selección de instrumentos y cinemática a partir de mediciones de centrado y carga mecánica; estos resultados intermedios requieren confirmación clínica [2,4].
+
+**Experimental:** trasladar directamente un umbral de torque de un montaje de laboratorio a todos los pacientes o sistemas [3].
+
+El resultado debe evaluarse mediante evolución clínica y radiográfica, no únicamente por alcanzar la longitud o terminar sin separación instrumental. La recomendación práctica es individualizar y detenerse ante resistencia no explicada: ninguna secuencia sustituye el juicio clínico.
+
+## Referencias
+
+1. Duncan HF, et al. Treatment of pulpal and apical disease: The European Society of Endodontology (ESE) S3-level clinical practice guideline. **International Endodontic Journal.** 2023;56(Suppl 3):238-295. DOI: 10.1111/iej.13974. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37772327/).
+2. Călin C, et al. Shaping Efficiency of Rotary and Reciprocating Kinematics of Engine-driven Nickel-Titanium Instruments in Moderate and Severely curved Root Canals Using Microcomputed Tomography: A Systematic Review of Ex Vivo Studies. **Journal of Endodontics.** 2024;50(7):907-924. DOI: 10.1016/j.joen.2024.03.009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38537784/).
+3. Kyaw MS, et al. Effect of preset torque setting on torque/force generation, shaping ability and surface changes of nickel titanium rotary instrument in different root canal curvature locations: An ex vivo study. **Dental Materials Journal.** 2024;43(3):329-337. DOI: 10.4012/dmj.2023-244. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38583993/).
+4. Thu M, et al. Dynamic torque and screw-in force of four different glide path instruments assessed in simulated single- and double-curved canals: An in vitro study. **Journal of Dental Sciences.** 2023;18(4):1598-1603. DOI: 10.1016/j.jds.2023.02.015. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37799866/).
