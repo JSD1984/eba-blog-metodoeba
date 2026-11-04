@@ -1,0 +1,87 @@
+---
+title: "Hiperplasia gingival inducida por fármacos: diagnóstico diferencial y manejo"
+date: "2026-11-04"
+author: "MarkIA — Estética y Dental al Día"
+category: "Periodoncia"
+evidence: "Protocolo clínico"
+excerpt: "Diagnóstico diferencial y manejo escalonado del agrandamiento gingival farmacológico: control periodontal, coordinación médica y selección de cirugía."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Periodoncia", "Farmacología", "Agrandamiento gingival"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/35589146/", "https://pubmed.ncbi.nlm.nih.gov/36982523/", "https://www.periodontalcare.sdcep.org.uk/guidance/managing-disease/other-periodontal-conditions/drug-influenced-gingival-enlargement/", "https://eaom.eu/education/eaom-handbook/drug-induced-gingival-overgrowth/", "https://pubmed.ncbi.nlm.nih.gov/36208445/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC9195644/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Indicaciones y alcance
+
+El agrandamiento gingival inducido por fármacos exige distinguir el componente fibroso de la inflamación asociada al biofilm. Aunque «hiperplasia gingival» sigue siendo una denominación habitual, agrandamiento o sobrecrecimiento describen mejor el hallazgo clínico sin anticipar un diagnóstico histológico. Fenitoína, ciclosporina y determinados antagonistas del calcio son asociaciones clásicas; la exposición no implica que todos los pacientes desarrollen la lesión [1,2].
+
+Este protocolo editorial se dirige a odontólogos que atienden pacientes con aumento gingival y medicación potencialmente implicada. Integra revisiones de 2022-2023, orientación profesional y recomendaciones SDCEP de 2025; no constituye una revisión sistemática propia ni sustituye la valoración individual. El objetivo es recuperar un periodonto mantenible sin comprometer el tratamiento de la enfermedad sistémica.
+
+La revisión molecular de Droździk y Droździk describe alteraciones del metabolismo de la matriz extracelular, de la actividad de las colagenasas y de la interacción entre células e inflamación. Estos mecanismos ayudan a explicar la variabilidad clínica, pero no proporcionan un biomarcador validado para seleccionar tratamientos en consulta [2].
+
+## Contraindicaciones y situaciones que cambian el circuito
+
+No debe retirarse ni reducirse un anticonvulsivante, inmunosupresor o antihipertensivo por decisión odontológica unilateral. La sustitución requiere al prescriptor y depende de la indicación sistémica, las alternativas y la estabilidad del paciente [1].
+
+Tampoco debe asumirse que cualquier crecimiento gingival en una persona medicada es farmacológico. Una lesión inexplicada, desproporcionada respecto al biofilm o que no responde como se esperaba requiere valoración especializada, potencialmente urgente [3]. El diagnóstico diferencial incluye aumento inflamatorio, fibromatosis, lesiones reactivas y procesos infiltrativos o neoplásicos. Crecimiento rápido, ulceración persistente o síntomas generales obligan a ampliar el estudio, no a repetir indefinidamente el raspado.
+
+La cirugía electiva debe posponerse cuando la situación médica o la hemostasia no estén adecuadamente evaluadas. En pacientes trasplantados, la planificación exige coordinación con el equipo responsable; cambiar inmunosupresión para resolver un efecto oral nunca es una decisión aislada.
+
+## Materiales y registros necesarios
+
+Preparar historia farmacológica actualizada, periodontograma, sonda periodontal, registro de placa y sangrado, fotografías clínicas estandarizadas e instrumental de eliminación de depósitos. Las imágenes radiográficas se indican según la sospecha de pérdida de soporte, no por el mero aumento de volumen.
+
+Para una eventual intervención se precisan recursos quirúrgicos y hemostáticos adecuados, consentimiento informado y circuito de anatomía patológica cuando proceda. Estos elementos constituyen una propuesta operativa de documentación, no una batería diagnóstica obligatoria validada para todos los pacientes.
+
+## Técnica clínica paso a paso
+
+### 1. Reconstruir la exposición y describir el fenotipo
+
+Registrar nombre del fármaco, indicación, fecha de inicio, cambios de dosis y tratamientos concomitantes. Anotar cuándo se detectó el crecimiento y cómo afecta a higiene, masticación o fonación. La relación temporal apoya la hipótesis, pero no demuestra causalidad.
+
+Explorar distribución papilar, extensión, consistencia y signos inflamatorios. El tejido puede ser firme y pálido o mostrar un componente edematoso y hemorrágico. La descripción clínica y la historia médica son la base diagnóstica; la apariencia por sí sola no identifica el medicamento responsable [4].
+
+### 2. Separar pseudobolsas de periodontitis
+
+Interpretar profundidad de sondaje junto con nivel de inserción y soporte óseo. Un margen desplazado coronalmente puede aumentar la profundidad sin pérdida equivalente de inserción. Registrar ambas dimensiones evita atribuir toda bolsa a destrucción periodontal o, en sentido contrario, ocultar una periodontitis coexistente.
+
+### 3. Controlar factores locales
+
+Aplicar instrucciones de higiene adaptadas al acceso real del paciente y eliminar cálculo y factores retentivos. Corregir restauraciones desbordantes y dificultades de limpieza vinculadas a prótesis o aparatos. SDCEP sitúa estas medidas antes de decidir si el volumen residual requiere intervención adicional [3].
+
+En la asociación con ciclosporina, la revisión de Chojnacka-Purpurowicz y colaboradores subraya la relación entre higiene insuficiente y gravedad, y el beneficio de eliminar irritantes locales. Esa respuesta no permite prometer que un componente fibroso establecido desaparecerá por completo [5].
+
+### 4. Coordinar y reevaluar
+
+Enviar al prescriptor un informe clínico con gravedad, repercusión funcional y respuesta al tratamiento periodontal, solicitando valorar alternativas cuando sean médicamente viables. No proponer equivalencias farmacológicas automáticas. La revisión de Barsoum y colaboradores integra sustitución supervisada, tratamiento no quirúrgico, cirugía cuando sea necesaria y mantenimiento [1].
+
+Fijar la revisión según extensión y evolución, comparando registros reproducibles. La disminución del sangrado no equivale a resolución del sobrecrecimiento; deben valorarse también volumen, acceso a higiene y síntomas. Si la evolución contradice el diagnóstico inicial, reconsiderarlo.
+
+### 5. Seleccionar cirugía para el tejido residual
+
+Cuando persista una barrera importante para la función o la higiene, valorar gingivectomía/gingivoplastia o cirugía a colgajo. La elección depende del tejido disponible, la extensión y la coexistencia de pérdida de inserción o defectos óseos; no basta con decidir qué instrumento elimina tejido más deprisa [4].
+
+## Complicaciones y resultados esperados
+
+El consentimiento debe contemplar sangrado, dolor, cambios del contorno, recesión y recurrencia. Una intervención puede facilitar la higiene sin eliminar la susceptibilidad individual ni la exposición farmacológica. La recidiva es particularmente relevante si no puede modificarse el tratamiento sistémico o persisten factores locales [4].
+
+Definir éxito mediante función, limpieza accesible, control inflamatorio y estabilidad periodontal. No existe un porcentaje único de resolución extrapolable entre medicamentos y pacientes. El seguimiento debe mantenerse incluso cuando el resultado inicial sea satisfactorio.
+
+## Consolidado, prometedor y experimental
+
+**Consolidado:** control del biofilm, revisión farmacológica coordinada, tratamiento periodontal escalonado y mantenimiento individualizado.
+
+**Prometedor, sin superioridad universal demostrada:** algunas técnicas láser pueden facilitar la hemostasia quirúrgica; ello no demuestra menor recurrencia para cualquier dispositivo o escenario.
+
+**Experimental o insuficientemente sustentado para uso rutinario:** trasladar dianas moleculares antifibróticas a tratamientos clínicos. La evidencia sobre antibióticos sistémicos para reducir específicamente el sobrecrecimiento es inconsistente; no se justifica prescribirlos de forma automática por este diagnóstico [6]. La prioridad sigue siendo diagnóstico correcto y control causal, no añadir tratamientos empíricos.
+
+## Fuentes
+
+1. Barsoum F, Prete BRJ, Ouanounou A. Drug-Induced Gingival Enlargement: A Review of Diagnosis and Current Treatment Strategies. *Compend Contin Educ Dent*. 2022;43(5):276-285. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35589146/).
+2. Droździk A, Droździk M. Drug-Induced Gingival Overgrowth—Molecular Aspects of Drug Actions. *Int J Mol Sci*. 2023;24(6):5448. DOI: 10.3390/ijms24065448. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36982523/).
+3. Scottish Dental Clinical Effectiveness Programme. *Prevention and Treatment of Periodontal Diseases in Primary Care*, 2.ª edición, 2025. Apartado [Drug-influenced gingival enlargement](https://www.periodontalcare.sdcep.org.uk/guidance/managing-disease/other-periodontal-conditions/drug-influenced-gingival-enlargement/).
+4. European Association of Oral Medicine. *EAOM Handbook: Drug-Induced Gingival Overgrowth*. Recurso profesional sin fecha editorial visible; consultado el 4 de noviembre de 2026. [Texto](https://eaom.eu/education/eaom-handbook/drug-induced-gingival-overgrowth/).
+5. Chojnacka-Purpurowicz J, Wygonowska E, Placek W, Owczarczyk-Saczonek A. Cyclosporine-induced gingival overgrowth—Review. *Dermatol Ther*. 2022;35(12):e15912. DOI: 10.1111/dth.15912. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36208445/).
+6. Sabarudin MA, Taib H, Wan Mohamad WM. Refining the Mechanism of Drug-Influenced Gingival Enlargement and Its Management. *Cureus*. 2022;14(5):e25009. DOI: 10.7759/cureus.25009. [Texto completo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9195644/).
