@@ -1,0 +1,134 @@
+---
+title: "Selladores endodóncicos de última generación: biocerámicos vs resinas"
+date: "2026-11-09"
+author: "MarkIA — Estética y Dental al Día"
+category: "Materiales y biomateriales"
+evidence: "Comparativa"
+excerpt: "Revisión comparativa de los selladores endodóncicos biocerámicos y a base de resina epoxi (AH Plus): propiedades físicoquímicas, biocompatibilidad, resultados clínicos y criterios de selección según la evidencia 2023-2025."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Endodoncia", "Materiales dentales", "Selladores endodóncicos", "Biocerámicos", "AH Plus", "Obturación"]
+sources: ["https://doi.org/10.1111/iej.14069", "https://doi.org/10.4103/jpbs.jpbs_254_25", "https://doi.org/10.17219/dmp/155885", "https://doi.org/10.7717/peerj.18198", "https://doi.org/10.1038/s41405-024-00256-x", "https://doi.org/10.3390/ma12193087"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico
+
+El sellador endodóncico es el componente activo de la obturación: ocupa los espacios inevitables entre la gutapercha y las paredes del conducto, penetra en túbulos dentinarios y, según su composición, puede participar en la biología periapical. La elección del sellador no es un detalle menor; condiciona la técnica de obturación, la manejabilidad, la retratabilidad y, potencialmente, el resultado a largo plazo.
+
+Durante décadas, los selladores a base de resina epoxi (prototipo: AH Plus, Dentsply) han sido el patrón de referencia. En los últimos años, los selladores biocerámicos premezclados (TotalFill BC Sealer, EndoSequence BC, Bio-C Sealer) han ganado una adopción clínica significativa, apoyada en propiedades biológicas superiores demostradas *in vitro*. La pregunta clínica relevante es si esa superioridad biológica se traduce en mejores resultados clínicos.
+
+---
+
+## Composición y mecanismo de fraguado
+
+**Selladores a base de resina epoxi (AH Plus)**
+
+Mezcla de resina bisfenol A diglicidil éter con 1-adamantanamina como endurecedor. Fraguado por poliadición a temperatura ambiente. Hidrofóbico: requiere conducto seco para adhesión óptima. Citotoxicidad inicial demostrada que disminuye progresivamente con el fraguado.
+
+**Selladores biocerámicos (silicato cálcico)**
+
+Base de silicato tricálcico (Ca₃SiO₅) y silicato dicálcico (Ca₂SiO₄). La reacción de fraguado es hidráulica: requiere humedad ambiental para completarse.
+
+Reacción principal: Ca₃SiO₅ + H₂O → gel C-S-H (silicato cálcico hidratado) + Ca(OH)₂ → formación secundaria de hidroxiapatita en presencia de fosfatos tisulares.
+
+El resultado es un material hidrófilo, con ligera expansión higroscópica en fraguado (0,2-0,5%), pH alcalino sostenido (>12 durante las primeras horas) y potencial bioactivo a través de la nucleación de cristales de hidroxiapatita.
+
+---
+
+## Propiedades físicoquímicas comparadas
+
+Un estudio publicado en *Journal of Endodontics* evaluó AH Plus, TotalFill BC Sealer y Bio-C Sealer en las principales propiedades físicoquímicas:
+
+- **Tiempo de fraguado:** Bio-C Sealer (el más corto) < AH Plus < TotalFill BC Sealer (hasta 72 horas). El fraguado lento de TotalFill puede ser una ventaja (ventana de trabajo) o un inconveniente (riesgo de desplazamiento).
+- **Fluidez:** Bio-C Sealer > TotalFill BC > AH Plus. Mayor fluidez implica mejor penetración en irregularidades, aunque también mayor riesgo de extrusión apical.
+- **Radiopacidad:** AH Plus > biocerámicos. Diferencia atribuida al tungstato de bario (AH Plus) frente al óxido de zirconio (biocerámicos); ambos superan el mínimo estándar ISO 6876.
+- **Solubilidad y cambio volumétrico:** AH Plus muestra menor solubilidad. Los biocerámicos presentan mayor tasa de solubilidad inicial, aunque la expansión higroscópica compensa parcialmente el sellado marginal.
+
+---
+
+## Biocompatibilidad
+
+López-García et al. (2019, *Materials*) evaluaron la citocompatibilidad de TotalFill BC Sealer y Bio-C Sealer frente a AH Plus en células madre del ligamento periodontal (hPDLSCs). Los resultados documentaron:
+
+- AH Plus redujo significativamente la viabilidad y migración celular en todas las diluciones evaluadas.
+- TotalFill BC y Bio-C Sealer no afectaron la viabilidad celular en las primeras 24 horas; a 72 horas TotalFill BC mostró incluso estimulación de viabilidad.
+- **Solo los selladores biocerámicos indujeron mineralización de matriz** tras 21 días de exposición; AH Plus no mostró mineralización detectable.
+
+Esta superioridad biológica de los biocerámicos *in vitro* es consistente en la literatura y constituye el argumento central para su uso en dientes con ápice inmaduro, rizogénesis incompleta o cuando se busca estimular la reparación periapical.
+
+---
+
+## Resultados clínicos: revisión de la evidencia 2023-2025
+
+### Tasa de éxito y supervivencia
+
+Zamparini et al. (2024, *International Endodontic Journal*, PMID 38606520) publicaron la primera revisión sistemática y metaanálisis diseñada específicamente para evaluar la eficacia clínica de selladores biocerámicos premezclados frente a resinas. Búsqueda en PubMed, Web of Science, Embase y Scopus hasta octubre 2023.
+
+Conclusión principal: **las tasas de supervivencia y éxito/curación son estadísticamente equivalentes** entre selladores biocerámicos y AH Plus. Los autores concluyen que la evidencia no respalda actualmente la superioridad clínica de los biocerámicos sobre la resina epoxi en términos de resultado del tratamiento.
+
+Esto se confirma en el ensayo clínico aleatorizado de Wahbi et al. (2024, *BDJ Open*, PMID 39266514), que comparó TotalFill BC Sealer + técnica de cono único frente a AH Plus + condensación lateral en dientes con lesiones periapicales de gran tamaño. A 6 y 12 meses por CBCT: sin diferencias significativas en la reducción del diámetro periapical ni en las puntuaciones de resultado. Ambos grupos mostraron alta tasa de éxito.
+
+### Dolor postoperatorio
+
+Dos metaanálisis publicados en 2024 evaluaron el dolor postoperatorio como desenlace primario:
+
+- Mittal et al. (*Dent Med Probl*, 2024, PMID 38686971): revisión sistemática. Sin diferencias significativas en incidencia ni intensidad del dolor entre ambas familias de selladores.
+- Supare et al. (*PeerJ*, 2024, PMID 39494306): metaanálisis PRISMA. Sin diferencias significativas a las 6, 12, 24 y 48 horas postobturación.
+
+Un ensayo clínico aleatorizado más reciente (Sharma et al., *J Pharm Bioallied Sci*, 2025, PMID 40655579) con 120 pacientes reportó menos dolor postoperatorio en el grupo de sellador biocerámico, junto con menor microfiltración bacteriana. Sin embargo, no hubo diferencias en tasas de curación a 6 meses. Este dato apoya los biocerámicos como primera elección cuando se anticipa riesgo de dolor postoperatorio, aunque el peso de la evidencia acumulada no confirma diferencias sistemáticas.
+
+---
+
+## Retratabilidad: punto crítico
+
+El aspecto clínico en que los selladores de resina epoxi mantienen una ventaja clara es la **retratabilidad**. AH Plus puede disolverse con solventes orgánicos (cloroformo, xilol, Endosolv E) y se elimina de forma predecible con limas manuales y rotatorias.
+
+Los selladores biocerámicos, una vez fraguados, forman un material mineralizado con alta resistencia química y adhesión a la dentina. No son solubles en los solventes convencionales. Los estudios disponibles documentan mayor tiempo de trabajo y mayor dificultad para recuperar la longitud de trabajo durante el retratamiento de conductos obturados con biocerámicos.
+
+Este factor debe valorarse individualmente: en dientes con pronóstico incierto o alta probabilidad de retratamiento futuro, la retratabilidad puede ser un criterio de selección determinante.
+
+---
+
+## Técnica de obturación
+
+Los selladores biocerámicos han sido formulados para usarse con la **técnica de cono único** (single cone). Su fraguado lento e hidrofílico permite que el material fluya y adapte antes de solidificarse. La adhesión química a la dentina elimina la necesidad de presión lateral.
+
+AH Plus sigue siendo el sellador de elección para las **técnicas termoplásticas** (Thermafil, System B, Calamus) y para la técnica de condensación lateral, donde el calor aplicado al cone de gutapercha favorece la homogeneización con el sellador de resina.
+
+---
+
+## Recomendación práctica: criterios de selección
+
+| Criterio | Sellador recomendado |
+|---|---|
+| Resultado clínico equivalente documentado | Ambos |
+| Técnica de cono único | Biocerámico |
+| Técnica termoplástica (System B, Obtura) | Resina epoxi (AH Plus) |
+| Alta probabilidad de retratamiento | Resina epoxi |
+| Ápice inmaduro / revascularización | Biocerámico |
+| Resorción interna / perforación | Biocerámico |
+| Conducto húmedo inevitable | Biocerámico |
+| Canal seco, condensación lateral | Resina epoxi |
+
+---
+
+## Conclusiones clínicas
+
+1. Los selladores biocerámicos y de resina epoxi producen **tasas de éxito clínico equivalentes** a corto y medio plazo. La evidencia actual no justifica el cambio de protocolo por motivos de resultado terapéutico.
+2. Los biocerámicos muestran **biocompatibilidad superior demostrada *in vitro*** y potencial bioactivo, con ventajas teóricas en situaciones de contacto periapical directo.
+3. El **dolor postoperatorio es equivalente** entre ambas familias según los metaanálisis disponibles; estudios individuales muestran resultados variables.
+4. La **retratabilidad** es el talón de Aquiles de los biocerámicos: su dificultad de eliminación es un factor clínico real que debe considerarse antes de seleccionarlos.
+5. La elección del sellador debe basarse en la **técnica de obturación prevista**, el pronóstico del diente y las características del caso, no en la categoría del material.
+
+---
+
+## Fuentes
+
+1. Zamparini F et al. The efficacy of premixed bioceramic sealers versus standard sealers on root canal treatment outcome, extrusion rate and post-obturation pain: A systematic review and meta-analysis. *Int Endod J.* 2024;57(8):1021-1042. DOI: 10.1111/iej.14069
+2. Sharma A et al. Evaluating the Efficacy of Bioceramic versus Resin-Based Sealers in Endodontic Treatments: A Comparative Analysis. *J Pharm Bioallied Sci.* 2025;17(Suppl 2):S1680-S1682. DOI: 10.4103/jpbs.jpbs_254_25
+3. Mittal N et al. Comparative evaluation of resin-based sealers and bioceramic sealers for postoperative pain after endodontic treatment: A systematic review. *Dent Med Probl.* 2024;61(2):293-300. DOI: 10.17219/dmp/155885
+4. Supare M et al. Effect of bioceramic-based and resin-based sealers on postoperative discomfort following root canal therapy: a systematic review and meta-analysis. *PeerJ.* 2024;12:e18198. DOI: 10.7717/peerj.18198
+5. Wahbi E et al. Comparison between AH plus sealer and total fill bioceramic sealer performance in previously untreated and retreatment cases of maxillary incisors with large-sized periapical lesion: a randomized controlled trial. *BDJ Open.* 2024;10(1):73. DOI: 10.1038/s41405-024-00256-x
+6. López-García S et al. Comparative Cytocompatibility and Mineralization Potential of Bio-C Sealer and TotalFill BC Sealer. *Materials.* 2019;12(19):3087. DOI: 10.3390/ma12193087
