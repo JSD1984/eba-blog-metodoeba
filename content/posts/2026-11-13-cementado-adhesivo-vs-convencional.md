@@ -1,0 +1,71 @@
+---
+title: "Cementado adhesivo frente a convencional en prótesis: cuándo y cómo elegir"
+date: "2026-11-13"
+author: "MarkIA — Estética y Dental al Día"
+category: "Prótesis"
+evidence: "Comparativa"
+excerpt: "Selección del cementado según material, retención y sustrato: evidencia de 2022–2025 y límites de los resultados de laboratorio."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Prótesis", "Cementado adhesivo", "Circonia", "Vitrocerámica"]
+sources: ["https://pubmed.ncbi.nlm.nih.gov/35416449/", "https://pubmed.ncbi.nlm.nih.gov/37109832/", "https://pubmed.ncbi.nlm.nih.gov/41002866/", "https://pubmed.ncbi.nlm.nih.gov/40467537/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico y alcance
+
+La elección del cemento no comienza en la bandeja de materiales, sino en el diseño protésico. Una corona completa con retención suficiente y una carilla conservadora dependen de mecanismos distintos. Confundirlos puede conducir tanto a una adhesión innecesariamente compleja como a confiar en un cemento que no compensa una preparación desfavorable.
+
+Esta comparativa narrativa para odontólogos sintetiza publicaciones de 2022–2025 localizadas en registros PubMed/MEDLINE mediante Europe PMC y contrasta el texto completo de una revisión sobre circonia. La búsqueda complementaria en Cochrane no pudo verificarse por restricción de acceso; no se atribuyen recomendaciones a esa fuente. No constituye una revisión sistemática propia ni sustituye la valoración clínica individual.
+
+## Criterios de comparación
+
+Conviene evaluar cinco variables: material restaurador, geometría de la preparación, proporción de esmalte y dentina, posibilidad de aislamiento y transmisión lumínica. Los desenlaces relevantes son descementado, fractura, caries secundaria, sensibilidad y supervivencia; una mayor resistencia adhesiva de laboratorio no demuestra automáticamente mejor evolución clínica.
+
+Aquí, «cementado convencional» designa agentes como el fosfato de zinc o los ionómeros de vidrio, incluidos los modificados con resina cuando estén indicados. «Cementado adhesivo» implica cemento resinoso y tratamiento específico de los sustratos. Los cementos resinosos autoadhesivos constituyen otra estrategia: simplifican pasos sobre el diente, pero no eliminan necesariamente el acondicionamiento de la restauración. En algunos artículos, «resinoso convencional» significa resina con adhesivo separado, no cemento convencional no resinoso [2].
+
+## Técnica A: cementado convencional
+
+Su escenario razonable es una restauración de cobertura completa cuyo material permita esta técnica y cuya preparación aporte retención y resistencia suficientes. Puede considerarse en determinadas coronas metálicas, metalocerámicas o de circonia, siempre conforme a las indicaciones del sistema restaurador y del cemento.
+
+La secuencia exige comprobar ajuste y contactos, limpiar las superficies, controlar humedad y sangrado, dosificar y mezclar correctamente, asentar de forma estable y retirar excedentes en la fase indicada. Después se revisan márgenes, contactos proximales y oclusión. Una técnica menos dependiente de adhesivos no significa tolerancia ilimitada a contaminación o desecación.
+
+Su límite principal es geométrico: el agente cementante no debe utilizarse para rescatar una preparación sin resistencia adecuada. Tampoco es intercambiable con el cementado adhesivo en carillas o restauraciones parciales cuyo diseño depende de la unión al diente. La selección errónea puede comprometer retención y comportamiento mecánico.
+
+## Técnica B: cementado adhesivo
+
+Resulta especialmente relevante cuando la restauración depende de la adhesión, como sucede en carillas y muchas restauraciones parciales de vitrocerámica. Antes de elegirla debe comprobarse que el margen permite controlar la contaminación y que existe un protocolo compatible para todas las interfaces.
+
+En vitrocerámicas grabables, el tratamiento suele combinar acondicionamiento extraoral con ácido fluorhídrico y silano. Concentración y tiempo dependen del material y sus instrucciones: no procede extrapolar un tiempo universal. El ácido fluorhídrico no se aplica al tejido dentario ni debe contactar tejidos blandos. El acondicionamiento dental se realiza con el sistema adhesivo correspondiente, preservando el esmalte disponible.
+
+La circonia requiere otra lógica. No se trata como una vitrocerámica mediante ácido fluorhídrico. La abrasión con partículas, cuando esté indicada por el fabricante, y los monómeros fosfato como 10-MDP permiten combinar retención micromecánica y unión química. Deben controlarse presión, tamaño de partícula y limpieza tras la prueba; protocolos agresivos pueden perjudicar determinadas circonias translúcidas [3].
+
+La selección entre cemento fotopolimerizable y dual depende de indicación, espesor, opacidad y acceso de la luz. Hay que verificar compatibilidad con el adhesivo y respetar los tiempos de curado. Después del asentamiento se eliminan excedentes sin desestabilizar la restauración, se completa la polimerización y se comprueban márgenes y oclusión.
+
+## Evidencia comparada: qué demuestra y qué no
+
+Da Rosa y colaboradores incluyeron 20 estudios de laboratorio en una revisión sistemática y metaanálisis publicada en 2022. El cementado adhesivo aumentó globalmente la resistencia mecánica; el efecto apareció en vitrocerámicas y alúmina, pero no fue significativo en circonia. La heterogeneidad y las limitaciones metodológicas fueron importantes [1]. No demostrar refuerzo mecánico en circonia no equivale a demostrar que la adhesión carezca de utilidad retentiva.
+
+Calheiros-Lobo y colaboradores analizaron en 2023 cementos resinosos autoadhesivos sobre bloques CAD/CAM. Los resultados dependieron del sustrato y de la combinación de materiales [2]. No es defendible tratar «autoadhesivo» como sinónimo de eficacia universal ni extrapolar ensayos de unión a una tasa de supervivencia clínica.
+
+La revisión de alcance de Lupu y colaboradores, de 2025, respalda la importancia de combinar acondicionamiento mecánico y química con MDP en circonia, pero reconoce heterogeneidad y limitación de datos clínicos prolongados [3]. Sus resultados tampoco justifican aplicar un único protocolo a todas las generaciones de circonia.
+
+Respecto a composites precalentados como agentes de cementado, de Carvalho y colaboradores incluyeron nueve estudios de laboratorio en 2025. No encontraron un consenso que permita afirmar superioridad frente a cementos resinosos tradicionales; la adaptación marginal y otras propiedades plantearon incertidumbre [4].
+
+## Recomendación práctica y grado de madurez
+
+**Consolidado:** seleccionar la estrategia antes de preparar, respetar la química del material y asegurar control del campo. En restauraciones dependientes de adhesión, la imposibilidad de aislamiento exige reconsiderar márgenes, diseño o tratamiento, no sustituir automáticamente por un cemento convencional.
+
+**Prometedor:** simplificaciones mediante cementos autoadhesivos y tratamientos alternativos de superficie pueden ser útiles en indicaciones concretas. Su valoración debe hacerse por combinación material–cemento y desenlace clínico, no solo por facilidad operativa.
+
+**Experimental o insuficientemente validado para uso general:** sustituir rutinariamente cementos específicos por composites precalentados o adoptar acondicionamientos novedosos a partir de ensayos aislados. La ausencia de superioridad demostrada no equivale a inutilidad, pero impide recomendar reemplazos universales.
+
+En definitiva, la pregunta no es qué cemento es mejor en abstracto, sino qué mecanismo necesita esa restauración sobre ese sustrato. Documentar material, acondicionamiento, aislamiento y curado facilita analizar descementados o sensibilidad posterior y evita atribuir todo fracaso a la marca del cemento.
+
+## Referencias
+
+1. Da Rosa LS, et al. Does Adhesive Luting Reinforce the Mechanical Properties of Dental Ceramics Used as Restorative Materials? A Systematic Review and Meta-Analysis. **Journal of Adhesive Dentistry**, 2022;24. DOI: 10.3290/j.jad.b2916469. https://pubmed.ncbi.nlm.nih.gov/35416449/
+2. Calheiros-Lobo MJ, Vieira T, Carbas R, da Silva LFM, Pinho T. Effectiveness of Self-Adhesive Resin Luting Cement in CAD-CAM Blocks—A Systematic Review and Meta-Analysis. **Materials**, 2023;16:2996. DOI: 10.3390/ma16082996. https://pubmed.ncbi.nlm.nih.gov/37109832/
+3. Lupu IC, et al. Bonding Strategies for Zirconia Fixed Restorations: A Scoping Review of Surface Treatments, Cementation Protocols, and Long-Term Durability. **Biomimetics**, 2025;10:632. DOI: 10.3390/biomimetics10090632. https://pubmed.ncbi.nlm.nih.gov/41002866/
+4. De Carvalho SB, Uehara LM, Medeiros IS, Dos Reis AC. Effectiveness of Prosthetic Cementation With Preheated Composite Resins—A Systematic Review. **Journal of Esthetic and Restorative Dentistry**, 2025;37. DOI: 10.1111/jerd.13493. https://pubmed.ncbi.nlm.nih.gov/40467537/
