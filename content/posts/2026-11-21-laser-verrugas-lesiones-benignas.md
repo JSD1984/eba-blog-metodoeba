@@ -1,0 +1,73 @@
+---
+title: "Láser en lesiones benignas cutáneas y mucosas: selección, evidencia y seguridad diagnóstica"
+date: "2026-11-21"
+author: "MarkIA — Estética y Dental al Día"
+category: "Láser médico"
+evidence: "Guía clínica"
+excerpt: "Criterios profesionales para seleccionar lesiones, preservar el diagnóstico histológico y valorar la evidencia del láser en piel y mucosa oral."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Láser médico", "Lesiones benignas", "Biopsia oral", "Verrugas"]
+sources: ["https://pmc.ncbi.nlm.nih.gov/articles/PMC9825897/", "https://www1.racgp.org.au/ajgp/2022/october/destructive-therapies-for-cutaneous-warts", "https://pubmed.ncbi.nlm.nih.gov/36826173/", "https://pubmed.ncbi.nlm.nih.gov/38029573/"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Justificación clínica y alcance
+
+El tratamiento con láser de una lesión aparentemente benigna exige resolver primero dos preguntas: si el diagnóstico es suficientemente seguro y si destruir tejido aporta más valor que observar, tratar médicamente o realizar una exéresis convencional. La comodidad operatoria no sustituye la confirmación anatomopatológica cuando está indicada. En piel y mucosa oral, compartir un instrumento no significa compartir enfermedad, pronóstico ni protocolo.
+
+Esta guía práctica es una síntesis narrativa de publicaciones de 2022-2025 localizadas mediante búsquedas dirigidas sobre verrugas, lesiones orales y artefacto térmico. No constituye una revisión sistemática original ni una guía de sociedad científica. Las recomendaciones operativas se presentan como criterios de prudencia clínica; no se les atribuye una graduación GRADE propia.
+
+## Evidencia base: qué puede afirmarse
+
+La guía de Zhu y colaboradores de 2022 incorpora recomendaciones graduadas para diferentes formas de verrugas cutáneas [1]. Su utilidad principal es evitar que una misma pauta se aplique indistintamente a verrugas comunes, planas o plantares. Las decisiones sobre láser dependen del subtipo y del contexto terapéutico; una recomendación favorable para una localización no valida todas las indicaciones cutáneas ni su extrapolación a mucosa oral.
+
+La revisión de Truong y colaboradores describe evidencia heterogénea para CO₂, Er:YAG, Nd:YAG y láser de colorante pulsado [2]. Las tasas publicadas proceden de poblaciones, parámetros y seguimientos diferentes: no permiten construir una clasificación fiable de superioridad. Un ensayo pequeño de CO₂ frente a crioterapia, recogido en esa revisión, no encontró una diferencia estadísticamente significativa en resolución. Tampoco debe confundirse desaparición inicial con ausencia de recurrencia.
+
+Para biopsias orales, Tenore y colaboradores incluyeron 28 estudios y observaron heterogeneidad suficiente para impedir comparaciones uniformes del daño térmico [3]. Aunque muchos trabajos conservaban capacidad diagnóstica, el artefacto puede dificultar la valoración de displasia y márgenes. Por tanto, el éxito técnico de una exéresis no garantiza una muestra óptima para cualquier pregunta anatomopatológica.
+
+Una serie de Sufiawati y colaboradores comunica resultados favorables tras exéresis con diodo en tres lesiones orales benignas [4]. Su pequeño tamaño, ausencia de grupo control y seguimiento limitado impiden demostrar superioridad frente al bisturí. Es evidencia de factibilidad, no una estimación robusta de seguridad ni de recurrencia.
+
+## Selección clínica y motivos para no tratar
+
+Antes de intervenir, documentar localización, dimensiones, evolución, síntomas, tratamientos anteriores, inmunosupresión y factores que comprometan la cicatrización. En piel, incorporar evaluación dermatológica y dermatoscopia cuando corresponda. En boca, explorar la lesión y su entorno, identificar traumatismos repetitivos y registrar la hipótesis diagnóstica.
+
+La incertidumbre diagnóstica, ulceración persistente, induración, crecimiento atípico o pigmentación sospechosa obligan a priorizar evaluación y biopsia adecuada sobre vaporización. No debe destruirse una lesión cuyo diagnóstico dependa de conservar arquitectura tisular. Si existe sospecha de malignidad, derivar o seguir el circuito diagnóstico correspondiente; este artículo no propone tratamiento láser de lesiones potencialmente malignas.
+
+En verrugas cutáneas, valorar observación y opciones convencionales según síntomas, localización y antecedentes [2]. En lesiones orales reactivas, corregir además el factor causal: eliminar el volumen visible no resuelve necesariamente el estímulo que originó la lesión.
+
+## Elección de tecnología y alternativas
+
+**CO₂ y Er:YAG:** producen ablación por interacción con el agua tisular, con perfiles térmicos distintos. La elección exige considerar precisión, hemostasia y necesidad de muestra. Vaporizar y extirpar conservando tejido son objetivos diferentes.
+
+**Colorante pulsado y Nd:YAG:** se han utilizado en verrugas mediante efectos vasculares y térmicos. Sus resultados no justifican sustituir de forma universal las alternativas habituales. La profundidad y el riesgo térmico deben valorarse especialmente en áreas anatómicas delicadas [2].
+
+**Diodo en mucosa oral:** puede facilitar corte y hemostasia en lesiones seleccionadas, pero la longitud de onda, el modo de emisión y la manipulación influyen en el artefacto de la muestra [3,4]. El bisturí sigue siendo una alternativa relevante cuando preservar márgenes interpretables es prioritario.
+
+No existe una potencia universal transferible entre dispositivos. Registrar longitud de onda, potencia o energía, duración del pulso, frecuencia, diámetro de emisión y modo de aplicación permite interpretar el resultado y auditar complicaciones. Los parámetros deben proceder de formación específica y protocolos validados para el equipo y la indicación, no de extrapolaciones entre publicaciones.
+
+## Recomendaciones operativas y seguimiento
+
+Como medidas de seguridad, confirmar protección ocular específica, control del acceso al área y evacuación del humo junto al campo operatorio. En lesiones asociadas a HPV, el control del penacho merece especial atención [1]. La protección debe integrarse en el protocolo local del equipo, sin asumir que una mascarilla o la aspiración ambiental resuelven toda la exposición.
+
+Cuando se obtenga una pieza, conservarla y remitirla con información clínica, técnica utilizada y orientación cuando proceda. Evitar interpretar como irrelevante un margen alterado térmicamente: si la anatomía patológica no responde a la pregunta diagnóstica, será necesaria reevaluación.
+
+El consentimiento debe recoger dolor, quemadura, alteraciones pigmentarias, cicatriz, infección, retraso de cicatrización y posible persistencia o recurrencia. Programar control de la herida y revisión posterior ajustados a localización y diagnóstico; documentar resolución completa, síntomas, secuelas y necesidad de retratamiento. Una lesión que reaparece o cambia requiere reconsiderar el diagnóstico, no repetir automáticamente la misma intervención.
+
+## Consolidado, prometedor y experimental
+
+**Consolidado:** seleccionar por diagnóstico, preservar tejido cuando sea necesario y reconocer las limitaciones del daño térmico. La indicación clínica precede a la elección del dispositivo.
+
+**Prometedor:** resultados favorables de técnicas concretas en lesiones seleccionadas, especialmente cuando faltan comparaciones amplias y seguimiento prolongado. Una serie favorable no demuestra ventaja general.
+
+**Experimental o insuficientemente validado:** extrapolar parámetros entre equipos, combinar modalidades sin respaldo específico o presentar un láser como solución universal. Estas propuestas requieren investigación adecuada, no normalización por disponibilidad tecnológica.
+
+El punto clave es elegir la intervención que permita tratar y seguir correctamente la lesión sin comprometer el diagnóstico. Esta síntesis profesional no sustituye la valoración individual ni los protocolos asistenciales del centro.
+
+## Referencias
+
+1. Zhu P, et al. Clinical guideline for the diagnosis and treatment of cutaneous warts (2022). **Journal of Evidence-Based Medicine.** 2022;15:284-301. DOI: 10.1111/jebm.12494. [Texto completo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9825897/).
+2. Truong K, Joseph J, Manago B, Wain T. Destructive therapies for cutaneous warts: A review of the evidence. **Australian Journal of General Practice.** 2022;51(10). DOI: 10.31128/AJGP-01-22-6305. [Artículo](https://www1.racgp.org.au/ajgp/2022/october/destructive-therapies-for-cutaneous-warts).
+3. Tenore G, et al. The Impact of Laser Thermal Effect on Histological Evaluation of Oral Soft Tissue Biopsy: Systematic Review. **Dentistry Journal.** 2023;11(2):28. DOI: 10.3390/dj11020028. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36826173/).
+4. Sufiawati I, et al. Evaluation of diode laser efficacy in treating benign oral soft tissue masses: A case series. **International Journal of Surgery Case Reports.** 2024;114:109075. DOI: 10.1016/j.ijscr.2023.109075. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38029573/).
