@@ -1,0 +1,118 @@
+---
+title: "Frenectomía labial y lingual: escalpelo vs láser — comparativa de resultados y cicatrización"
+date: "2026-11-23"
+author: "MarkIA — Estética y Dental al Día"
+category: "Cirugía oral"
+evidence: "Comparativa"
+excerpt: "Revisión comparativa de la técnica convencional con bisturí y los principales sistemas láser (diodo, Er:YAG, CO₂) en frenectomía oral: sangrado, dolor posquirúrgico, cicatrización y criterios de selección basados en la evidencia 2021-2026."
+readingTime: "7 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Frenectomía", "Láser diodo", "Er:YAG", "Cirugía oral", "Cicatrización", "Anquiloglosia"]
+sources: ["https://doi.org/10.1002/lsm.70156", "https://doi.org/10.1186/s12903-024-04364-w", "https://doi.org/10.1002/cre2.374", "https://doi.org/10.31661/gmj.v13iSP1.3688", "https://pmc.ncbi.nlm.nih.gov/articles/PMC9833900"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico: indicaciones de frenectomía
+
+La frenectomía es la escisión completa de la inserción frenal en tejido blando oral, diferenciándose de la frenotomía (simple incisión de liberación). Las indicaciones más frecuentes son:
+
+- **Frenillo labial superior aberrante**: diastema medial persistente, especialmente cuando la inserción llega hasta el reborde incisivo o la papila interincisiva; también indicado post-ortodoncia para prevenir la recidiva del diastema corregido.
+- **Frenillo lingual (anquiloglosia)**: restricción funcional de la movilidad lingual con impacto en deglución, fonación o lactancia materna.
+- **Frenillo labial inferior**: recesión gingival en sector anteroinferior asociada a tracción frenal, profundidad vestibular insuficiente o pobre encía queratinizada.
+
+La decisión de intervenir debe basarse en criterios funcionales y morfológicos contrastados, no solo en hallazgos radiológicos.
+
+## Técnica convencional con escalpelo
+
+La resección con bisturí sigue siendo la técnica de referencia por su universalidad, precisión de corte y coste nulo de equipamiento.
+
+**Técnica clásica (Miller/Archer)**: escisión elíptica del frenillo con cierre por sutura. Proporciona excelente visibilidad de campo y permite envío de la muestra para anatomía patológica si existe sospecha de lesión. La cicatrización se produce por primera intención cuando el cierre es primario.
+
+**V-Y plastia**: indicada cuando la inserción frenal es alta y se precisa movilizar el tejido hacia apical. Requiere mayor destreza técnica pero reduce la tensión en el margen gingival postquirúrgico.
+
+**Ventajas clave**: ningún equipamiento adicional, posibilidad de biopsia de la muestra completa, cicatrización por primera intención, coste cero.
+
+**Limitaciones**: sangrado intraoperatorio que requiere control hemostático activo, mayor dolor posquirúrgico, necesidad sistemática de sutura y apósito periodontal, mayor tiempo quirúrgico.
+
+## Técnicas láser: tipos y parámetros
+
+Los láseres de alta potencia más empleados en frenectomía son:
+
+**Láser de diodo (808–980 nm)**
+El más utilizado en la práctica clínica por su tamaño reducido, flexibilidad de fibra óptica y coste accesible. Actúa principalmente por absorción en hemoglobina y melanina. Parámetros habituales: 1–3 W en modo continuo o pulsado con fibra de 300–400 µm iniciada. No requiere sutura en la mayoría de los casos; cicatrización por segunda intención.
+
+**Er:YAG (2940 nm)**
+Alta absorción en agua, produce ablación tisular con mínima zona de necrosis lateral. Considerado el sistema con mayor afinidad por tejido blando oral con daño térmico residual mínimo. Parámetros: 100–300 mJ, 10–15 Hz. Ideal cuando la frenectomía se combina con procedimientos sobre tejido duro subyacente.
+
+**CO₂ (10 600 nm)**
+Excelente hemostasia y coagulación simultánea. Alta absorción en agua. Se asocia a mayor zona de necrosis térmica lateral que el Er:YAG, lo que puede retrasar la cicatrización inicial de segunda intención.
+
+**Nd:YAG (1064 nm)**
+Penetración profunda en tejido y buena hemostasia. Uso más limitado en frenectomía labial superficial; mayor indicación en tejidos pigmentados o fibróticos.
+
+Todos los procedimientos pueden realizarse con anestesia tópica o infiltración mínima en frenillos labiales; la anquiloglosia con componente muscular requiere generalmente anestesia local convencional.
+
+## Evidencia comparada (2021-2026)
+
+### Sangrado intraoperatorio
+
+El beneficio del láser en control hemostático es el hallazgo más consistente en la literatura. El metaanálisis de Baghani et al. (*Lasers in Surgery and Medicine*, 2026), que incluyó 14 estudios comparativos (2015-2025) conforme a criterios PRISMA, mostró una reducción significativa del sangrado intraoperatorio con diodo frente a escalpelo (SMD = −1.97; IC 95%: −2.89 a −1.05). El ensayo clínico aleatorizado (ECA) de Dadgar et al. (*BMC Oral Health*, 2024), sobre 174 pacientes distribuidos en tres grupos (diodo 445 nm, diodo 980 nm y escalpelo V-Y), confirmó que ambos sistemas de diodo superaron al bisturí en hemostasia intraoperatoria (p < 0.05).
+
+### Dolor posquirúrgico
+
+El metaanálisis de Baghani et al. objetivó una reducción significativa del dolor con láser de diodo en el día 1 (SMD = −1.73; IC 95%: −2.70 a −0.77) y en el día 7 (SMD = −1.84; IC 95%: −2.78 a −0.90). En el ECA de Yousefimanesh et al. (*Galen Medical Journal*, 2024; n = 26), el VAS de dolor en el día 1 fue de 3.53 en el grupo láser frente a 6.00 en el grupo escalpelo (p < 0.001), con menor consumo de analgésicos en el grupo láser (5.53 vs 9.76 dosis; p < 0.001).
+
+En el ECA de Dadgar et al., el diodo 445 nm mostró ventaja adicional frente al 980 nm en dolor inmediato y al día 7 (p < 0.05), lo que apunta a un efecto del perfil de absorción cromofórica: el 445 nm actúa sobre oxihemoglobina con menor penetración y zona de daño térmico.
+
+### Tiempo quirúrgico
+
+El tiempo operatorio es consistentemente menor con láser. Yousefimanesh et al. registraron 341 segundos con láser frente a 675 segundos con bisturí convencional (p < 0.001). Sarmadi et al. (*Clin Exp Dent Res*, 2021), en un ECA con Er:YAG sobre frenectomía labial superior en edad pediátrica, encontraron el mismo patrón: mayor tiempo quirúrgico con escalpelo y sangrado significativamente superior (p < 0.05). La reducción del tiempo cobra especial relevancia en pacientes pediátricos o con baja tolerancia al procedimiento.
+
+### Cicatrización tisular
+
+Este es el parámetro con mayor heterogeneidad. El metaanálisis de Baghani et al. no encontró diferencia significativa en la cicatrización al día 7 entre diodo y escalpelo considerando el conjunto de estudios. Sin embargo, existen matices clínicamente relevantes:
+
+- En el ECA de Dadgar et al., la cicatrización al día 7 fue superior en el grupo de diodo 445 nm frente al bisturí (p < 0.05); al día 30 las diferencias se igualaban en todos los grupos.
+- Una serie de casos con diodo 980 nm (PMC9833900, *Journal of Indian Society of Periodontology*, 2023) mostró que la cicatrización inicial (días 1-7) era más rápida en el grupo escalpelo, con retraso relativo en el grupo láser. A día 30, ambos grupos alcanzaban epitelización completa.
+
+El patrón fisiopatológico que explica esta aparente contradicción es conocido: el láser produce una zona de necrosis térmica superficial que retrasa la epitelización de segunda intención en los primeros días; sin embargo, cuando se emplean parámetros correctos (potencia baja, modo pulsado, enfriamiento aéreo), la cicatrización final no difiere clínicamente y el paciente experimenta menor morbilidad durante ese período.
+
+El Er:YAG, con su menor zona de necrosis lateral, presenta la cicatrización más predecible de todos los sistemas. Sarmadi et al. confirmaron que al día 5 no había diferencia en el tamaño de la herida entre Er:YAG y escalpelo, pese a que el área inmediatamente posquirúrgica era mayor con láser (segunda vs primera intención).
+
+### Sutura y apósito periodontal
+
+Con escalpelo y cierre primario, la sutura es obligatoria. Con láser, la herida cicatriza por segunda intención sin sutura en la mayoría de los casos, lo que simplifica el postoperatorio, elimina la visita de retirada de puntos y reduce la incomodidad del paciente. El apósito periodontal habitualmente no es necesario con láser.
+
+## Recomendación práctica: criterios de selección
+
+| Criterio | Escalpelo | Láser |
+|---|---|---|
+| Sin equipamiento láser disponible | ✓ | — |
+| Necesidad de biopsia de la muestra completa | ✓ | ⚠ |
+| Frenectomía aislada en adulto cooperador | ✓ | ✓ |
+| Paciente pediátrico o con alta ansiedad | — | ✓ |
+| Combinación con procedimientos en tejido duro | — | ✓ (Er:YAG) |
+| Hemostasia comprometida (anticoagulados) | ⚠ | ✓ |
+| Prioridad de menor dolor posquirúrgico | — | ✓ |
+| Urgencia sin equipamiento láser | ✓ | — |
+
+La elección no es dicotómica: el bisturí sigue siendo válido y el único accesible cuando no se dispone de láser. El diodo 445 nm acumula hoy el mejor perfil de evidencia para frenectomía labial en adultos. El Er:YAG aporta ventajas cuando se interviene también tejido duro. El CO₂ es efectivo pero con mayor zona térmica lateral y cicatrización menos predecible que el diodo o el Er:YAG.
+
+## Conclusiones clínicas
+
+1. El láser de diodo reduce significativamente el sangrado intraoperatorio y el dolor posquirúrgico frente al bisturí; la evidencia de metaanálisis (2026) es consistente en ambos parámetros.
+2. La diferencia en cicatrización final (día 30) no es clínicamente significativa; el beneficio del láser se concentra en el postoperatorio inmediato.
+3. El Er:YAG es preferible cuando se requiere mínima necrosis térmica lateral o cuando se combinan procedimientos sobre tejido duro.
+4. La técnica con bisturí sigue siendo de primera elección cuando se requiere biopsia de la muestra, en ausencia de equipamiento o en urgencias.
+5. En pacientes pediátricos o con alta ansiedad, el menor tiempo quirúrgico y el menor sangrado del láser justifican su uso como primera opción cuando esté disponible.
+
+---
+
+**FUENTES**
+
+1. Baghani A et al. Diode Laser-Assisted Oral Frenectomy: Systematic Review and Meta-Analysis. *Lasers in Surgery and Medicine*, 2026. DOI: [10.1002/lsm.70156](https://doi.org/10.1002/lsm.70156)
+2. Dadgar S et al. Maxillary labial frenectomy: randomized controlled comparative study of 445 nm and 980 nm diode lasers vs surgical scalpel. *BMC Oral Health*, 2024. DOI: [10.1186/s12903-024-04364-w](https://doi.org/10.1186/s12903-024-04364-w)
+3. Sarmadi R, Gabre P, Thor A. Evaluation of upper labial frenectomy: conventional scalpel vs Er:YAG laser. *Clinical and Experimental Dental Research*, 2021; 7(4): 522-530. DOI: [10.1002/cre2.374](https://doi.org/10.1002/cre2.374)
+4. Yousefimanesh H et al. Conventional surgery vs diode laser in maxillary labial frenectomy: randomized clinical trial. *Galen Medical Journal*, 2024. DOI: [10.31661/gmj.v13iSP1.3688](https://doi.org/10.31661/gmj.v13iSP1.3688)
+5. Frenectomy by 980 nm diode laser vs scalpel: case series. *Journal of Indian Society of Periodontology*, 2023. PMCID: [PMC9833900](https://pmc.ncbi.nlm.nih.gov/articles/PMC9833900)
