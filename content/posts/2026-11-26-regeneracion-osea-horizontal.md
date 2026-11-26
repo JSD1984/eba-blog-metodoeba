@@ -1,0 +1,70 @@
+---
+title: "Regeneración ósea horizontal: técnicas, membranas y criterios de éxito clínico"
+date: "2026-11-26"
+author: "MarkIA — Estética y Dental al Día"
+category: "Implantología"
+evidence: "Comparativa"
+excerpt: "Comparación crítica de técnicas de aumento horizontal, membranas y adyuvantes: ganancia ósea, límites de la evidencia y evaluación del resultado clínico."
+readingTime: "6 min"
+reviewedBy: "Revisión pendiente"
+tags: ["Regeneración ósea", "Implantología", "Membranas", "ROG"]
+sources: ["https://doi.org/10.11607/prd.5031", "https://doi.org/10.1111/clr.14154", "https://doi.org/10.3892/br.2024.1827", "https://doi.org/10.11607/jomi.9715", "https://doi.org/10.1111/cid.13295"]
+status: "published"
+cover: "/assets/hero-ai-blog.png"
+---
+
+## Contexto clínico y alcance
+
+La regeneración ósea horizontal debe resolver una necesidad protésica: disponer de un reborde que permita colocar el implante en una posición restauradora adecuada. No consiste simplemente en aumentar milímetros. La selección entre regeneración ósea guiada (ROG), expansión y técnicas con bloques depende del déficit y del objetivo reconstructivo; una alternativa válida para una cresta estrecha no necesariamente resuelve un defecto extenso [1].
+
+Esta comparativa profesional procede de una búsqueda dirigida de literatura publicada entre 2022 y 2025, mediante consultas web orientadas a PubMed, Cochrane y consensos ITI. Se verificaron los registros de las referencias seleccionadas. La consulta orientada a Cochrane no aportó una revisión reciente específica utilizable. No se realizó una revisión sistemática original, cribado duplicado ni evaluación formal GRADE; tampoco se presenta una actualización exhaustiva hasta 2026.
+
+## Criterios para comparar resultados
+
+Antes de elegir técnica conviene definir qué se medirá: anchura obtenida a una profundidad determinada, volumen mantenido, necesidad de nueva regeneración, complicaciones y evolución del implante rehabilitado. Como criterio editorial de interpretación, «éxito» debería acompañarse siempre de su definición, denominador y tiempo de seguimiento. Un implante superviviente no demuestra por sí solo ausencia de morbilidad ni mantenimiento completo del injerto.
+
+El consenso ITI de 2023 recomienda una pared ósea vestibular superior a 1,5 mm al colocar implantes en rebordes cicatrizados. También favorece el aumento simultáneo ante dehiscencias o paredes finas, contextualizando la recomendación según las condiciones locales. Este umbral orienta la planificación; no debe convertirse en una promesa individual ni extrapolarse automáticamente a cualquier escenario de implantación [2].
+
+## Técnica A: regeneración ósea guiada
+
+La ROG crea un compartimento protegido para la regeneración. Su elección exige valorar cuánto volumen debe reconstruirse y cómo se mantendrá el espacio. En déficits horizontales, el material particulado y la barrera forman un sistema: atribuir el resultado exclusivamente al origen del injerto o a la marca de membrana simplifica una intervención multifactorial [1,3].
+
+La revisión de Vorovenci y colaboradores incluyó 18 estudios sobre ROG, expansión mediante oseodensificación y división de cresta; 17 entraron en el metaanálisis. La ganancia horizontal media agrupada fue aproximadamente 4,04 mm para ROG, 3,66 mm para división de cresta y 2,15 mm para oseodensificación [3]. Son estimaciones descriptivas de conjuntos de estudios, no cantidades garantizadas ni una clasificación universal de superioridad.
+
+## Técnica B: expansión y división de cresta
+
+La expansión mediante oseodensificación y la división de cresta modifican el reborde residual, por lo que su indicación no es intercambiable con todas las reconstrucciones aditivas. La revisión comparativa incluyó cuatro estudios de oseodensificación, siete de ROG y siete de división de cresta. La distribución desigual y las diferencias de selección clínica limitan una lectura causal de las medias [3].
+
+En la práctica, la pregunta no debe ser qué técnica produjo más milímetros en otra población, sino si el reborde del caso admite esa estrategia y permite alcanzar la posición implantaria planificada. El árbol de decisión de Yu y Wang organiza la selección según la ganancia requerida: es una ayuda clínica narrativa, no evidencia de que exista una técnica óptima para todos los defectos [1].
+
+## Membranas: qué demuestra la comparación directa
+
+Abaza y colaboradores aleatorizaron 20 pacientes con insuficiente anchura maxilar a membrana de pericardio bovino o malla de titanio. Ambos grupos recibieron bloques autólogos de soporte procedentes de la sínfisis y una mezcla particulada de hueso autólogo y mineral óseo bovino. Por tanto, el estudio no compara una membrana aislada con otra ni evalúa todos los protocolos de ROG [4].
+
+A los cuatro meses, ambos grupos mejoraron la dimensión vestibulopalatina. No se observaron diferencias significativas en varias comparaciones clínicas e histológicas, aunque el cambio porcentual volumétrico radiográfico favoreció a la malla. El tamaño muestral y el seguimiento restringen la generalización. Ausencia de significación no equivale a equivalencia demostrada; tampoco permite afirmar que cualquier barrera reabsorbible sustituya a una estructura rígida en cualquier defecto [4].
+
+## Adyuvantes: separar histología de beneficio clínico
+
+El ensayo de Zahedi y colaboradores comparó aloinjerto óseo liofilizado con o sin fibrina rica en plaquetas inyectable (i-PRF) en 41 pacientes. A los seis meses no hubo diferencias estadísticamente significativas en el aumento de anchura en los niveles evaluados. Se obtuvieron 24 biopsias para el análisis histológico [5].
+
+Los autores comunicaron hallazgos histomorfométricos favorables al grupo combinado. Sin embargo, una diferencia tisular en una submuestra no demuestra menor necesidad de reintervención, mayor supervivencia implantaria o mejor resultado protésico. La i-PRF puede considerarse un adyuvante prometedor, pero este ensayo no sostiene su incorporación obligatoria para conseguir más anchura ni sustituye la comparación de resultados relevantes para el paciente [5].
+
+## Recomendación práctica y nivel de madurez
+
+**Consolidado:** la reconstrucción horizontal y la ROG son opciones clínicas establecidas cuando el déficit impide la posición implantaria adecuada. La elección simultánea o diferida debe responder a la magnitud del defecto y a la viabilidad del plan, no al deseo de reducir citas [1,2].
+
+**Prometedor:** los adyuvantes biológicos pueden modificar aspectos de la cicatrización, pero su beneficio incremental debe demostrarse frente al mismo procedimiento sin adyuvante. No cabe trasladar una señal histológica a una superioridad clínica general [5].
+
+**Experimental:** cualquier propuesta nueva cuya utilidad se apoye exclusivamente en modelos preclínicos debe mantenerse fuera de las recomendaciones rutinarias de esta comparativa. La plausibilidad biológica no basta para prescribirla.
+
+Como propuesta de auditoría clínica, documentar el defecto inicial, el objetivo protésico, la técnica y los materiales, y registrar por separado exposición, infección, pérdida parcial del injerto y reintervención. El informe final debería expresar ganancia lograda y estabilidad tras la rehabilitación, no solo «implante colocado». Esta estructura evita confundir resultados de etapas distintas.
+
+La conclusión es seleccionar por defecto y objetivo restaurador, interpretar cada estudio dentro de su población y no ofrecer una tasa universal de éxito. Esta síntesis no sustituye la valoración diagnóstica ni la planificación individual por el profesional responsable.
+
+## Referencias
+
+1. Yu SH, Wang HL. An Updated Decision Tree for Horizontal Ridge Augmentation: A Narrative Review. *International Journal of Periodontics & Restorative Dentistry*. 2022;42:341-349. [DOI: 10.11607/prd.5031](https://doi.org/10.11607/prd.5031).
+2. Jensen SS et al. Group 1 ITI Consensus Report: The role of bone dimensions and soft tissue augmentation procedures on the stability of clinical, radiographic, and patient-reported outcomes of implant treatment. *Clinical Oral Implants Research*. 2023;34(S26):43-49. [DOI: 10.1111/clr.14154](https://doi.org/10.1111/clr.14154).
+3. Vorovenci A, Drafta S, Petre A. Horizontal ridge augmentation through ridge expansion via osseodensification, guided bone regeneration and ridge-split: Systematic review and meta-analysis of clinical trials. *Biomedical Reports*. 2024;21:139. [DOI: 10.3892/br.2024.1827](https://doi.org/10.3892/br.2024.1827).
+4. Abaza AWAAB et al. Horizontal Ridge Augmentation of the Atrophic Maxilla Using Pericardium Membrane Versus Titanium Mesh: A Clinical and Histologic Randomized Comparative Study. *International Journal of Oral & Maxillofacial Implants*. 2023;38:451-461. [DOI: 10.11607/jomi.9715](https://doi.org/10.11607/jomi.9715).
+5. Zahedi L et al. Horizontal ridge augmentation with particulate cortico-cancellous freeze-dried bone allograft alone or combined with injectable-platelet rich fibrin in a randomized clinical trial. *Clinical Implant Dentistry and Related Research*. 2024;26:127-137. [DOI: 10.1111/cid.13295](https://doi.org/10.1111/cid.13295).
